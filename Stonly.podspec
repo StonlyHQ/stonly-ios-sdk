@@ -3,8 +3,8 @@ Pod::Spec.new do |spec|
   spec.version            = "0.1.0"
   spec.summary            = "Stonly for iOS apps"
   spec.description        = "...dsasdaadasdasdadsdas"
-  spec.homepage           = "..."
-  spec.documentation_url  = "..."
+  spec.homepage           = "https://stonly.com"
+  spec.documentation_url  = "https://stonly.com"
   spec.license           = { :type => 'MIT', :file => 'LICENSE' }
   spec.author             = { "Stonly" => "..." }
   spec.source             = { :git => 'https://github.com/StonlyHQ/stonly-ios-sdk.git', :tag => "v0.1.0" }

@@ -1,0 +1,2 @@
+[submodule "cocoapods"]
+	url = git@github.com:StonlyHQ/stonly-ios-sdk

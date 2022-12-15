@@ -1810,6 +1810,40 @@
             "funcSelfKind": "NonMutating"
           },
           {
+            "kind": "Function",
+            "name": "didChangeScreen",
+            "printedName": "didChangeScreen(_:tabIndex:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cm)didChangeScreen:tabIndex:",
+            "mangledName": "$s6Stonly6WidgetC15didChangeScreen_8tabIndexySS_SitFZ",
+            "moduleName": "Stonly",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -2982,192 +3016,6 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "UITextField",
-        "printedName": "UITextField",
-        "declKind": "Class",
-        "usr": "c:objc(cs)UITextField",
-        "moduleName": "UIKit",
-        "isOpen": true,
-        "intro_iOS": "2.0",
-        "objc_name": "UITextField",
-        "declAttributes": [
-          "Available",
-          "Available",
-          "ObjC",
-          "NonSendable",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIControl",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIControl",
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "UITextView",
-        "printedName": "UITextView",
-        "declKind": "Class",
-        "usr": "c:objc(cs)UITextView",
-        "moduleName": "UIKit",
-        "isOpen": true,
-        "intro_iOS": "2.0",
-        "objc_name": "UITextView",
-        "declAttributes": [
-          "Available",
-          "Available",
-          "ObjC",
-          "NonSendable",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIScrollView",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIScrollView",
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
         "name": "UITableViewCell",
         "printedName": "UITableViewCell",
         "declKind": "Class",
@@ -3176,98 +3024,6 @@
         "isOpen": true,
         "intro_iOS": "2.0",
         "objc_name": "UITableViewCell",
-        "declAttributes": [
-          "Available",
-          "Available",
-          "ObjC",
-          "NonSendable",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "UILabel",
-        "printedName": "UILabel",
-        "declKind": "Class",
-        "usr": "c:objc(cs)UILabel",
-        "moduleName": "UIKit",
-        "isOpen": true,
-        "intro_iOS": "2.0",
-        "objc_name": "UILabel",
         "declAttributes": [
           "Available",
           "Available",
@@ -3533,105 +3289,6 @@
             "mangledName": "$ss8SendableP"
           }
         ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "UIListContentView",
-        "printedName": "UIListContentView",
-        "declKind": "Class",
-        "usr": "c:objc(cs)UIListContentView",
-        "moduleName": "UIKit",
-        "isOpen": true,
-        "intro_iOS": "14.0",
-        "objc_name": "UIListContentView",
-        "declAttributes": [
-          "Available",
-          "Available",
-          "ObjC",
-          "NonSendable",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UIContentView",
-            "printedName": "UIContentView",
-            "usr": "s:5UIKit13UIContentViewP",
-            "mangledName": "$s5UIKit13UIContentViewP"
-          }
-        ]
       }
     ],
     "json_format_version": 8
@@ -3689,9 +3346,9 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Stonly\/Log.swift",
       "kind": "BooleanLiteral",
-      "offset": 379,
-      "length": 5,
-      "value": "false"
+      "offset": 343,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
@@ -3703,77 +3360,77 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 3773,
+      "offset": 3804,
       "length": 22,
       "value": "\"StonlyCustomWidgetID\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 3800,
+      "offset": 3831,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 3871,
+      "offset": 3902,
       "length": 29,
       "value": "\"StonlyCustomWidgetIDEnabled\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3958,
+      "offset": 3989,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4793,
+      "offset": 4824,
       "length": 8,
       "value": "0x1e8098"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5042,
+      "offset": 5073,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5445,
+      "offset": 5476,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "FloatLiteral",
-      "offset": 5689,
+      "offset": 5720,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5891,
+      "offset": 5922,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 9912,
+      "offset": 9943,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 10577,
+      "offset": 10608,
       "length": 55,
       "value": "\"StonlyWidget.KeyboardScreenFrameDidChangeNotification\""
     },
@@ -3899,49 +3556,49 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 3599,
+      "offset": 3653,
       "length": 12,
       "value": "\"appVersion\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 3733,
+      "offset": 3787,
       "length": 17,
       "value": "\"appShortVersion\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 3800,
+      "offset": 3854,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 3874,
+      "offset": 3928,
       "length": 13,
       "value": "\"appLanguage\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 3947,
+      "offset": 4001,
       "length": 15,
       "value": "\"deviceVersion\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4025,
+      "offset": 4079,
       "length": 15,
       "value": "\"systemVersion\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4103,
+      "offset": 4157,
       "length": 12,
       "value": "\"systemName\""
     },
@@ -6251,252 +5908,259 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 8913,
+      "offset": 9556,
       "length": 26,
       "value": "\"accessibility-identifier\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 8986,
+      "offset": 9629,
       "length": 24,
       "value": "\"restoration-identifier\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9165,
+      "offset": 9808,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 9540,
+      "offset": 10183,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 10234,
+      "length": 6,
+      "value": "\"test\""
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 9739,
+      "offset": 10354,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 9769,
+      "offset": 10384,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 8913,
+      "offset": 9556,
       "length": 26,
       "value": "\"accessibility-identifier\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 8986,
+      "offset": 9629,
       "length": 24,
       "value": "\"restoration-identifier\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 10894,
+      "offset": 11509,
       "length": 10,
       "value": "\"page-url\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 10936,
+      "offset": 11551,
       "length": 18,
       "value": "\"controller-class\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 10894,
+      "offset": 11509,
       "length": 10,
       "value": "\"page-url\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 10936,
+      "offset": 11551,
       "length": 18,
       "value": "\"controller-class\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11505,
+      "offset": 12120,
       "length": 6,
       "value": "\"text\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11532,
+      "offset": 12147,
       "length": 11,
       "value": "\"text-i18n\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11564,
+      "offset": 12179,
       "length": 11,
       "value": "\"font-name\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11596,
+      "offset": 12211,
       "length": 11,
       "value": "\"font-size\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11629,
+      "offset": 12244,
       "length": 12,
       "value": "\"font-style\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11505,
+      "offset": 12120,
       "length": 6,
       "value": "\"text\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11532,
+      "offset": 12147,
       "length": 11,
       "value": "\"text-i18n\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11564,
+      "offset": 12179,
       "length": 11,
       "value": "\"font-name\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11596,
+      "offset": 12211,
       "length": 11,
       "value": "\"font-size\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11629,
+      "offset": 12244,
       "length": 12,
       "value": "\"font-style\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 14436,
+      "offset": 16083,
       "length": 15,
       "value": "\"keyboard-type\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 14507,
+      "offset": 16154,
       "length": 17,
       "value": "\"return-key-type\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 14595,
+      "offset": 16242,
       "length": 22,
       "value": "\"is-secure-text-entry\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 14645,
+      "offset": 16292,
       "length": 19,
       "value": "\"text-content-type\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 14436,
+      "offset": 16083,
       "length": 15,
       "value": "\"keyboard-type\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 14507,
+      "offset": 16154,
       "length": 17,
       "value": "\"return-key-type\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 14595,
+      "offset": 16242,
       "length": 22,
       "value": "\"is-secure-text-entry\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 14645,
+      "offset": 16292,
       "length": 19,
       "value": "\"text-content-type\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 16203,
+      "offset": 17850,
       "length": 13,
       "value": "\"is-editable\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 16203,
+      "offset": 17850,
       "length": 13,
       "value": "\"is-editable\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 17499,
+      "offset": 19146,
       "length": 18,
       "value": "\"reuse-identifier\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 17499,
+      "offset": 19146,
       "length": 18,
       "value": "\"reuse-identifier\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 20285,
+      "offset": 21932,
       "length": 19,
       "value": "\"image-fingerprint\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 20285,
+      "offset": 21932,
       "length": 19,
       "value": "\"image-fingerprint\""
     },

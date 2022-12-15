@@ -1,14 +1,14 @@
 Pod::Spec.new do |spec|
   spec.name               = "Stonly"
-  spec.version            = "0.1.2"
+  spec.version            = "0.1.3"
   spec.summary            = "Stonly for iOS apps"
   spec.description        = "Stonly implemation code for iOS native apps"
   spec.homepage           = "https://stonly.com"
   spec.documentation_url  = "https://stonly.com"
   spec.license           = { :type => 'MIT', :file => 'LICENSE' }
   spec.author             = { "Stonly" => "..." }
-  spec.source             = { :git => 'https://github.com/StonlyHQ/stonly-ios-sdk.git', :tag => "v0.1.2" }
-  spec.swift_version      = "5.3"
+  spec.source           = { :path => "/Users/remybaroukh/dev/stonly/iosSDK/cocoapods" }
+  spec.swift_version      = "5.5.2 "
 
   # Supported deployment targets
   spec.ios.deployment_target  = "11.0"

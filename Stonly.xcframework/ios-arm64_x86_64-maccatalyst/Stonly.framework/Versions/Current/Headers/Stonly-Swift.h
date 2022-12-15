@@ -315,9 +315,6 @@ using UInt = size_t;
 
 
 
-
-
-
 @class NSURL;
 @class UIScene;
 @class NSString;
@@ -352,6 +349,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)closeWidget:(NSString * _Nullable)widgetRuleId window:(UIWindow * _Nullable)window;
 + (void)identify:(NSString * _Nonnull)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties;
 + (void)track:(NSString * _Nonnull)eventName;
++ (void)didChangeScreen:(NSString * _Nonnull)screenName tabIndex:(NSInteger)tabIndex;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -705,9 +703,6 @@ using UInt = size_t;
 
 
 
-
-
-
 @class NSURL;
 @class UIScene;
 @class NSString;
@@ -742,6 +737,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)closeWidget:(NSString * _Nullable)widgetRuleId window:(UIWindow * _Nullable)window;
 + (void)identify:(NSString * _Nonnull)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties;
 + (void)track:(NSString * _Nonnull)eventName;
++ (void)didChangeScreen:(NSString * _Nonnull)screenName tabIndex:(NSInteger)tabIndex;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

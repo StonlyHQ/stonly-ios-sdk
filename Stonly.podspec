@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.documentation_url  = "https://stonly.com"
   spec.license           = { :type => 'MIT', :file => 'LICENSE' }
   spec.author             = { "Stonly" => "..." }
-  spec.source           = { :path => "/Users/remybaroukh/dev/stonly/iosSDK/cocoapods" }
+  spec.source             = { :git => 'https://github.com/StonlyHQ/stonly-ios-sdk.git', :tag => "v0.1.3" }
   spec.swift_version      = "5.5.2 "
 
   # Supported deployment targets

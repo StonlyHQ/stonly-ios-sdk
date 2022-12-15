@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name               = "Stonly"
-  spec.version            = "0.1.4"
+  spec.version            = "0.1.5"
   spec.summary            = "Stonly for iOS apps"
   spec.description        = "Stonly implemation code for iOS native apps"
   spec.homepage           = "https://stonly.com"

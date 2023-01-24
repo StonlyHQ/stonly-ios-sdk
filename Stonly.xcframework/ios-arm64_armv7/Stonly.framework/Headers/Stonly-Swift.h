@@ -305,7 +305,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)openGuidedTour:(NSString * _Nonnull)guideId stepId:(NSString * _Nullable)stepId window:(UIWindow * _Nullable)window;
 + (void)openKnowledgeBase:(NSString * _Nonnull)teamKnowledgeBaseId folderId:(NSString * _Nullable)folderId window:(UIWindow * _Nullable)window;
 + (void)closeWidget:(NSString * _Nullable)widgetRuleId window:(UIWindow * _Nullable)window;
-+ (void)identify:(NSString * _Nonnull)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties;
++ (void)identify:(NSString * _Nullable)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties darkMode:(BOOL)darkMode;
 + (void)track:(NSString * _Nonnull)eventName;
 + (void)didChangeScreen:(NSString * _Nonnull)screenName tabIndex:(NSInteger)tabIndex;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -648,7 +648,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)openGuidedTour:(NSString * _Nonnull)guideId stepId:(NSString * _Nullable)stepId window:(UIWindow * _Nullable)window;
 + (void)openKnowledgeBase:(NSString * _Nonnull)teamKnowledgeBaseId folderId:(NSString * _Nullable)folderId window:(UIWindow * _Nullable)window;
 + (void)closeWidget:(NSString * _Nullable)widgetRuleId window:(UIWindow * _Nullable)window;
-+ (void)identify:(NSString * _Nonnull)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties;
++ (void)identify:(NSString * _Nullable)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties darkMode:(BOOL)darkMode;
 + (void)track:(NSString * _Nonnull)eventName;
 + (void)didChangeScreen:(NSString * _Nonnull)screenName tabIndex:(NSInteger)tabIndex;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;

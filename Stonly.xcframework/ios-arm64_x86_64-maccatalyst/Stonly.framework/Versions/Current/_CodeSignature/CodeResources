@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		veTZGp8XIJ4s+yJXEs7Faxqs2zE=
+		lau6TYViXCGd1O9yMGoLibjoRvk=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mj/Jwz8W3bSPI1WpI8bU6qYQSBiti8y0rtNPBdKLQnY=
+			ze7GgwbICFB1kZt59VGRWMph3cHVhoE5eC1G9RxRQ8c=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -47,14 +47,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ncgEUd7rm+BIV53GXQsC7NbQ2v8BhKs0Cyj6sDmQf/E=
+			6aFtc9/KZZqyfr0lgBlwlh84uZ93JRVgggjNWCUbNNk=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MmD8Wlkk8k5vzKHsnnfBL8SfAbbjZXbjQ48Tsenp2Bk=
+			OS74TDp5MOMdnY82QE4Vps8s5qg9WAio7nDof5cpl/0=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64.swiftdoc</key>
@@ -68,14 +68,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ncgEUd7rm+BIV53GXQsC7NbQ2v8BhKs0Cyj6sDmQf/E=
+			6aFtc9/KZZqyfr0lgBlwlh84uZ93JRVgggjNWCUbNNk=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MmD8Wlkk8k5vzKHsnnfBL8SfAbbjZXbjQ48Tsenp2Bk=
+			OS74TDp5MOMdnY82QE4Vps8s5qg9WAio7nDof5cpl/0=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VP4mBIQVao+g816v9/ZqKOJcUvkBAUqx2BeWyUv/ucw=
+			MbY8PCR7aVGj5vJUdaoRdJXiJso3szrmg4myP9jRMuw=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fj43l5x9YDDGwWJuUZX/rTx5SVaICnUbpTC90y9jtdE=
+			+m+4HN+gIkjTwcgghiD/CdjmGs7wF1jzwb6hmEeP4B4=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64.swiftdoc</key>
@@ -110,14 +110,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VP4mBIQVao+g816v9/ZqKOJcUvkBAUqx2BeWyUv/ucw=
+			MbY8PCR7aVGj5vJUdaoRdJXiJso3szrmg4myP9jRMuw=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fj43l5x9YDDGwWJuUZX/rTx5SVaICnUbpTC90y9jtdE=
+			+m+4HN+gIkjTwcgghiD/CdjmGs7wF1jzwb6hmEeP4B4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -131,7 +131,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEzEyqEFYcRY/MLX0f12DTcE2GhD/LTl12g1Yhs4nUE=
+			BB0/ZyXq+y9NzPg1ZQYFiNzhYw3yaurVDkzjk6WDtiU=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

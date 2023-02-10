@@ -307,7 +307,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)closeWidget:(NSString * _Nullable)widgetRuleId window:(UIWindow * _Nullable)window;
 + (void)identify:(NSString * _Nullable)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties darkMode:(BOOL)darkMode;
 + (void)track:(NSString * _Nonnull)eventName;
-+ (void)didChangeScreen:(NSString * _Nonnull)screenName tabIndex:(NSInteger)tabIndex;
++ (void)didChangeScreen:(NSString * _Nonnull)screenName;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -650,7 +650,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)closeWidget:(NSString * _Nullable)widgetRuleId window:(UIWindow * _Nullable)window;
 + (void)identify:(NSString * _Nullable)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties darkMode:(BOOL)darkMode;
 + (void)track:(NSString * _Nonnull)eventName;
-+ (void)didChangeScreen:(NSString * _Nonnull)screenName tabIndex:(NSInteger)tabIndex;
++ (void)didChangeScreen:(NSString * _Nonnull)screenName;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -993,7 +993,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)closeWidget:(NSString * _Nullable)widgetRuleId window:(UIWindow * _Nullable)window;
 + (void)identify:(NSString * _Nullable)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties darkMode:(BOOL)darkMode;
 + (void)track:(NSString * _Nonnull)eventName;
-+ (void)didChangeScreen:(NSString * _Nonnull)screenName tabIndex:(NSInteger)tabIndex;
++ (void)didChangeScreen:(NSString * _Nonnull)screenName;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

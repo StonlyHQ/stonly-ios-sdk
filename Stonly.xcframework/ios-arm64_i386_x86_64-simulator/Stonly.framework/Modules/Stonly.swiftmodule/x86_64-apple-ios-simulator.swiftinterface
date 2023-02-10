@@ -62,7 +62,7 @@ import os
   }
   @objc public class func identify(_ customerId: Swift.String? = nil, properties: [Swift.String : Any]? = nil, darkMode: Swift.Bool = false)
   @objc public class func track(_ eventName: Swift.String)
-  @objc public class func didChangeScreen(_ screenName: Swift.String, tabIndex: Swift.Int)
+  @objc public class func didChangeScreen(_ screenName: Swift.String)
   @objc override dynamic public init()
   @objc deinit
 }

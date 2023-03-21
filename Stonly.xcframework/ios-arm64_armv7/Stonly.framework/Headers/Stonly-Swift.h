@@ -308,6 +308,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)identify:(NSString * _Nullable)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties darkMode:(BOOL)darkMode;
 + (void)track:(NSString * _Nonnull)eventName;
 + (void)didChangeScreen:(NSString * _Nonnull)screenName;
++ (void)setStonlyEnabled:(BOOL)enabled;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -651,6 +652,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)identify:(NSString * _Nullable)customerId properties:(NSDictionary<NSString *, id> * _Nullable)properties darkMode:(BOOL)darkMode;
 + (void)track:(NSString * _Nonnull)eventName;
 + (void)didChangeScreen:(NSString * _Nonnull)screenName;
++ (void)setStonlyEnabled:(BOOL)enabled;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

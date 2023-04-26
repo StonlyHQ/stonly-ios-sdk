@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		lau6TYViXCGd1O9yMGoLibjoRvk=
+		mMEet3f59UCxCu7zcJjaIxfnxLQ=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		PVTW30/OxzpYVxeQ1JUurwKiKtE=
+		ufyEKa6wdCnG0YgwnOWB9aRI6mc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -26,7 +26,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qjNk2W+ZGmQqJCZEKPkdB63EcITlBOWjoMdx+oNVtZQ=
+			DmpudL1p6RdaLqD6b7jxKE7x7MQgKr2VQiz8auG5M44=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -36,109 +36,95 @@
 			ceMX96kQT683ZCi0cITlbjzHSsQmtuz1odrFYMruP1k=
 			</data>
 		</dict>
+		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			udib0/ImUVAMBB8CJnnlaIhJJVc6eeMNFkyQ8ATbAXE=
+			</data>
+		</dict>
+		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C0wQmjjX+XYfxu09wacLsynywkEmG8T0f6ILhJUcyJU=
+			</data>
+		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sL++AnTi8Q2Jy74ejcr6+U6cbnf7tn6/MMZSv7k1wvg=
+			PA8BffRQTIuQC2B2ueHRUY1mV6TONKQRHQ9aQtgv+1g=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9z435ABveHQ9SW3uIHv6nEJKOw141pE/NNa3N7EDHWk=
+			C0wQmjjX+XYfxu09wacLsynywkEmG8T0f6ILhJUcyJU=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VzPO/kycFKVkjq5lEdpgG7EQGiJGORP+eLCz/j9K59M=
+			xv0oSFB4KY35Qe9/Sp7K0SV3JVYt5iVJnR19F+qB7uI=
 			</data>
 		</dict>
-		<key>Modules/Stonly.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sL++AnTi8Q2Jy74ejcr6+U6cbnf7tn6/MMZSv7k1wvg=
+			udib0/ImUVAMBB8CJnnlaIhJJVc6eeMNFkyQ8ATbAXE=
 			</data>
 		</dict>
-		<key>Modules/Stonly.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9z435ABveHQ9SW3uIHv6nEJKOw141pE/NNa3N7EDHWk=
-			</data>
-		</dict>
-		<key>Modules/Stonly.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VzPO/kycFKVkjq5lEdpgG7EQGiJGORP+eLCz/j9K59M=
+			pQIHs4y67+NNigF2B7ZKSOE81Ckm4zGNNhJ+LfR9hFU=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y+yFIcDbslOTgsgCEVD/qa2NxBBsRh1SV3B/ATL2kho=
+			ly4qbSg7Y9ICLi0TRoCbl8oUSUZSOpBMtcVQgAzJ0p8=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HqCAwh5tSbUum4XMc2NVcLFdEzTW8Ka6zQ+tfE62PnY=
+			pQIHs4y67+NNigF2B7ZKSOE81Ckm4zGNNhJ+LfR9hFU=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jx18S47Vl9jwOthuL/4MRtAQhpWLiarC5CDhI110wYY=
-			</data>
-		</dict>
-		<key>Modules/Stonly.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			y+yFIcDbslOTgsgCEVD/qa2NxBBsRh1SV3B/ATL2kho=
-			</data>
-		</dict>
-		<key>Modules/Stonly.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HqCAwh5tSbUum4XMc2NVcLFdEzTW8Ka6zQ+tfE62PnY=
-			</data>
-		</dict>
-		<key>Modules/Stonly.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jx18S47Vl9jwOthuL/4MRtAQhpWLiarC5CDhI110wYY=
+			22yhbg2g0GuMGa+ct5lHhDm2ASb2ColTtzOQ4rTP/cc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MO7SHTjZsQzUANwaH2P1kr2lNPoQPMICfLROmLqzByQ=
+			Psz4iCtagj0mghdbW53d41pkpHBOIuLiPyhy3faDy/8=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BB0/ZyXq+y9NzPg1ZQYFiNzhYw3yaurVDkzjk6WDtiU=
+			teiASVGC/BN9MqI0HPHgmNH2R2jJfDxdU0PPUv3PA8s=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U/evB4dF5tofFOITeIMY5JOz5LamrZ+T0L2CXIGc1+Q=
+			FUVmlDnXSX4Vwc0k7+n7CLNjVOgmhkobkRTPO0c5IiM=
 			</data>
 		</dict>
 	</dict>

@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
 // swift-module-flags: -target x86_64-apple-ios13.1-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Stonly
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import CoreGraphics
@@ -18,7 +18,7 @@ import os
   @objc(stonlyWidgetDidSendEvent:) optional func stonlyWidgetDidSend(event: Any)
   @objc(stonlyWidgetWillOpenWithWidgetRuleId:window:) optional func stonlyWidgetWillOpen(widgetRuleId: Swift.String, window: UIKit.UIWindow?)
   @objc(stonlyWidgetDidCloseWithWidgetRuleId:window:) optional func stonlyWidgetDidClose(widgetRuleId: Swift.String, window: UIKit.UIWindow?)
-  @objc(stonlyWidgetDidFailLoadingWithError:) optional func stonlyWidgetDidFailLoading(error: Swift.Error)
+  @objc(stonlyWidgetDidFailLoadingWithError:) optional func stonlyWidgetDidFailLoading(error: any Swift.Error)
 }
 @_inheritsConvenienceInitializers @objc(StonlyWidget) public class Widget : ObjectiveC.NSObject {
   @available(iOS 13.0, *)
@@ -36,7 +36,7 @@ import os
     @objc get
     @objc set
   }
-  @objc weak public static var delegate: Stonly.WidgetDelegate?
+  @objc weak public static var delegate: (any Stonly.WidgetDelegate)?
   @objc public class func setSegmentAnonymousId(_ segmentAnonymousId: Swift.String?)
   @objc public class func sendData(_ data: Any)
   @objc public class func clearSentData()
@@ -62,9 +62,10 @@ import os
     @objc override dynamic public init()
     @objc deinit
   }
-  @objc public class func identify(_ customerId: Swift.String, properties: [Swift.String : Any]? = nil)
+  @objc public class func identify(_ customerId: Swift.String? = nil, properties: [Swift.String : Any]? = nil, darkMode: Swift.Bool = false)
   @objc public class func track(_ eventName: Swift.String)
-  @objc public class func didChangeScreen(_ screenName: Swift.String, tabIndex: Swift.Int)
+  @objc public class func didChangeScreen(_ screenName: Swift.String)
+  @objc public class func setStonlyEnabled(_ enabled: Swift.Bool)
   @objc override dynamic public init()
   @objc deinit
 }

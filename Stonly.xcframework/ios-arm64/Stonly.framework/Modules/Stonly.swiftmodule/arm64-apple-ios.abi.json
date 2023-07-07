@@ -5897,35 +5897,42 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 9636,
+      "offset": 9674,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 9822,
+      "offset": 9731,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 10146,
+      "offset": 9781,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10254,
-      "length": 1,
-      "value": "0"
+      "kind": "BooleanLiteral",
+      "offset": 9962,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 10281,
+      "offset": 10298,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10530,
       "length": 5,
       "value": "false"
     },
@@ -6962,6 +6969,13 @@
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
       "offset": 17638,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17766,
       "length": 1,
       "value": "0"
     },
@@ -10385,7 +10399,7 @@
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
       "offset": 2870,
-      "length": 479,
+      "length": 567,
       "value": "\"<html>\n<head>\n<meta name=\"viewport\" content=\"initial-scale=1, user-scalable=no\">\n<style>\nbody {\nfont-family: system-ui;\nfont-size: \""
     },
     {
@@ -10400,635 +10414,635 @@
       "kind": "StringLiteral",
       "offset": 3108,
       "length": 1,
-      "value": "\";\nbackground: transparent;\ntext-align:center;\n-webkit-text-size-adjust: none;\nmargin: 16px;\n}\n<\/style>\n<\/head>\n<body>\n\""
+      "value": "\";\nbackground: transparent;\ntext-align:center;\n-webkit-text-size-adjust: none;\nmargin-top: 16px;\nmargin-bottom: 16px;\nmargin-right: 24px;\nmargin-left: 24px;\n}\n<\/style>\n<\/head>\n<body>\n\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 3305,
+      "offset": 3393,
       "length": 2,
       "value": "\"\n<\/body>\n<\/html>\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3964,
+      "offset": 4052,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4025,
+      "offset": 4113,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4227,
+      "offset": 4315,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4289,
+      "offset": 4377,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4716,
+      "offset": 4804,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4728,
+      "offset": 4816,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4857,
+      "offset": 4945,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5439,
+      "offset": 5527,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5451,
+      "offset": 5539,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5559,
+      "offset": 5647,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5907,
+      "offset": 5995,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6020,
+      "offset": 6108,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6205,
+      "offset": 6293,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6217,
+      "offset": 6305,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6312,
+      "offset": 6400,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6435,
+      "offset": 6523,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6491,
+      "offset": 6579,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6501,
+      "offset": 6589,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6513,
+      "offset": 6601,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6524,
+      "offset": 6612,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6570,
+      "offset": 6658,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 6679,
+      "offset": 6767,
       "length": 4,
       "value": "0.12"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6726,
+      "offset": 6814,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6784,
+      "offset": 6872,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6795,
+      "offset": 6883,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7285,
+      "offset": 7373,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7301,
+      "offset": 7389,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7377,
+      "offset": 7465,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7393,
+      "offset": 7481,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7627,
+      "offset": 7715,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7800,
+      "offset": 7888,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7858,
+      "offset": 7946,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7914,
+      "offset": 8002,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7954,
+      "offset": 8042,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8888,
+      "offset": 8976,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9053,
+      "offset": 9141,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9057,
+      "offset": 9145,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 9150,
+      "offset": 9238,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 9170,
+      "offset": 9258,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9238,
+      "offset": 9326,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 9915,
+      "offset": 10003,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9952,
+      "offset": 10040,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9982,
+      "offset": 10070,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10008,
+      "offset": 10096,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10034,
+      "offset": 10122,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 10070,
+      "offset": 10158,
       "length": 16,
       "value": "\"activate-scale\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 10231,
+      "offset": 10319,
       "length": 17,
       "value": "\"transform.scale\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10277,
+      "offset": 10365,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10310,
+      "offset": 10398,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10343,
+      "offset": 10431,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10372,
+      "offset": 10460,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10401,
+      "offset": 10489,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10459,
+      "offset": 10547,
       "length": 5,
       "value": "0.755"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10466,
+      "offset": 10554,
       "length": 5,
       "value": "1.525"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10473,
+      "offset": 10561,
       "length": 5,
       "value": "0.635"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10480,
+      "offset": 10568,
       "length": 5,
       "value": "1.000"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 10522,
+      "offset": 10610,
       "length": 18,
       "value": "\"activate-opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 10648,
+      "offset": 10736,
       "length": 22,
       "value": "\"transform.rotation.z\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10702,
+      "offset": 10790,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10738,
+      "offset": 10826,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10813,
+      "offset": 10901,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10845,
+      "offset": 10933,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10906,
+      "offset": 10994,
       "length": 5,
       "value": "0.755"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10913,
+      "offset": 11001,
       "length": 5,
       "value": "1.525"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10920,
+      "offset": 11008,
       "length": 5,
       "value": "0.635"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 10927,
+      "offset": 11015,
       "length": 5,
       "value": "1.000"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 10972,
+      "offset": 11060,
       "length": 19,
       "value": "\"activate-rotation\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 11198,
+      "offset": 11286,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11235,
+      "offset": 11323,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11265,
+      "offset": 11353,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11290,
+      "offset": 11378,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 11317,
+      "offset": 11405,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11388,
+      "offset": 11476,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 11480,
+      "offset": 11568,
       "length": 17,
       "value": "\"transform.scale\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 11526,
+      "offset": 11614,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11559,
+      "offset": 11647,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11592,
+      "offset": 11680,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 11620,
+      "offset": 11708,
       "length": 4,
       "value": "-0.5"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 11652,
+      "offset": 11740,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11729,
+      "offset": 11817,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 11770,
+      "offset": 11858,
       "length": 18,
       "value": "\"deactivate-scale\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 11832,
+      "offset": 11920,
       "length": 20,
       "value": "\"deactivate-opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 11974,
+      "offset": 12062,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 11994,
+      "offset": 12082,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 12093,
+      "offset": 12181,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 12113,
+      "offset": 12201,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 12242,
+      "offset": 12330,
       "length": 13,
       "value": "\"TriggerView\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12294,
+      "offset": 12382,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 12366,
+      "offset": 12454,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
@@ -11525,455 +11539,476 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 12894,
+      "offset": 12811,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 12972,
+      "offset": 12889,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 13231,
+      "offset": 13148,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 13240,
+      "offset": 13157,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13296,
+      "offset": 13213,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 13389,
+      "offset": 13306,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 13398,
+      "offset": 13315,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13489,
+      "offset": 13406,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13499,
+      "offset": 13416,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13511,
+      "offset": 13428,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13522,
+      "offset": 13439,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13575,
+      "offset": 13492,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13630,
+      "offset": 13547,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13686,
+      "offset": 13603,
       "length": 2,
       "value": "96"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13741,
+      "offset": 13658,
       "length": 3,
       "value": "690"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 15853,
+      "offset": 15770,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 15934,
+      "offset": 15851,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 16608,
+      "offset": 16525,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 16654,
+      "offset": 16571,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 16665,
+      "offset": 16582,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 16675,
+      "offset": 16592,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 16727,
+      "offset": 16644,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 16741,
+      "offset": 16658,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 16750,
+      "offset": 16667,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 16794,
+      "offset": 16711,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17073,
+      "offset": 16990,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17077,
+      "offset": 16994,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17091,
+      "offset": 17008,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17100,
+      "offset": 17017,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17111,
+      "offset": 17028,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17232,
+      "offset": 17149,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17236,
+      "offset": 17153,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17250,
+      "offset": 17167,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17293,
+      "offset": 17210,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17303,
+      "offset": 17220,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "BooleanLiteral",
-      "offset": 17448,
+      "offset": 17365,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "BooleanLiteral",
-      "offset": 17507,
+      "offset": 17424,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 17610,
+      "offset": 17527,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 17837,
+      "offset": 17754,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 18691,
+      "offset": 18608,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 18758,
+      "offset": 18675,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 18825,
+      "offset": 18742,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "FloatLiteral",
-      "offset": 19192,
+      "offset": 19109,
       "length": 4,
       "value": "0.95"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "FloatLiteral",
-      "offset": 19246,
+      "offset": 19163,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 19300,
+      "offset": 19217,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 19604,
+      "offset": 19521,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 19652,
+      "offset": 19569,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 20607,
+      "offset": 20524,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 20739,
+      "offset": 20656,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 22313,
+      "offset": 22230,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 24042,
+      "offset": 23959,
       "length": 3,
       "value": "335"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 25508,
+      "offset": 25425,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 27057,
+      "offset": 26974,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 27061,
+      "offset": 26978,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 27070,
+      "offset": 26987,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 27145,
+      "offset": 27062,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 27177,
+      "offset": 27094,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 27181,
+      "offset": 27098,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "Array",
-      "offset": 27190,
+      "offset": 27107,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 28789,
+      "offset": 28706,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 28800,
+      "offset": 28717,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 28810,
+      "offset": 28727,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 28858,
+      "offset": 28775,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 28882,
+      "offset": 28799,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 28892,
+      "offset": 28809,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28859,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28868,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28893,
       "length": 1,
       "value": "0"
     },
@@ -11994,49 +12029,49 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 28976,
+      "offset": 28962,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29025,
+      "offset": 29413,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29034,
+      "offset": 29424,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29045,
+      "offset": 29434,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29496,
+      "offset": 29482,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29507,
+      "offset": 29505,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29517,
+      "offset": 29515,
       "length": 1,
       "value": "0"
     },
@@ -12050,84 +12085,63 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29588,
+      "offset": 29574,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29598,
+      "offset": 29600,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29648,
+      "offset": 29649,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29657,
+      "offset": 29658,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29683,
+      "offset": 29669,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29732,
+      "offset": 30391,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29741,
+      "offset": 30456,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 29752,
+      "offset": 30501,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 30474,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
-      "kind": "IntegerLiteral",
-      "offset": 30539,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
-      "kind": "IntegerLiteral",
-      "offset": 30584,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
-      "kind": "IntegerLiteral",
-      "offset": 30652,
+      "offset": 30569,
       "length": 1,
       "value": "0"
     },
@@ -12400,287 +12414,280 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 3223,
+      "offset": 3193,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 3832,
+      "offset": 3746,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 3954,
+      "offset": 3868,
       "length": 14,
       "value": "\"widgetRuleId\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4117,
-      "length": 8,
-      "value": "\"accent\""
-    },
-    {
-      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 4211,
+      "offset": 3971,
       "length": 9,
       "value": "\"compact\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4229,
+      "offset": 3989,
       "length": 6,
       "value": "\"true\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4326,
+      "offset": 4086,
       "length": 11,
       "value": "\"placement\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4459,
+      "offset": 4219,
       "length": 14,
       "value": "\"widgetFormat\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4555,
+      "offset": 4315,
       "length": 19,
       "value": "\"stonlyAnonymousId\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4729,
+      "offset": 4489,
       "length": 16,
       "value": "\"customerUserId\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 4904,
+      "offset": 4664,
       "length": 20,
       "value": "\"segmentAnonymousId\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5292,
+      "offset": 5052,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5325,
+      "offset": 5085,
       "length": 70,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5339,
+      "offset": 5099,
       "length": 1,
       "value": "\"\/widget\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5362,
+      "offset": 5122,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5373,
+      "offset": 5133,
       "length": 1,
       "value": "\"\/view\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5394,
+      "offset": 5154,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5603,
+      "offset": 5363,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5619,
+      "offset": 5379,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5631,
+      "offset": 5391,
       "length": 22,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 5647,
+      "offset": 5407,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5753,
+      "offset": 5513,
       "length": 34,
       "value": "\"guide\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5775,
+      "offset": 5535,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 5786,
+      "offset": 5546,
       "length": 22,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 5802,
+      "offset": 5562,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6167,
+      "offset": 5927,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6200,
+      "offset": 5960,
       "length": 75,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6214,
+      "offset": 5974,
       "length": 1,
       "value": "\"\/widget\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6237,
+      "offset": 5997,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6253,
+      "offset": 6013,
       "length": 1,
       "value": "\"\/view\/\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6274,
+      "offset": 6034,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6626,
+      "offset": 6386,
       "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6639,
+      "offset": 6399,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6682,
+      "offset": 6442,
       "length": 18,
       "value": "\"guide_\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6699,
+      "offset": 6459,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6752,
+      "offset": 6512,
       "length": 20,
       "value": "\"gt_\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6771,
+      "offset": 6531,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6840,
+      "offset": 6600,
       "length": 65,
       "value": "\"kb_\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6862,
+      "offset": 6622,
       "length": 1,
       "value": "\"_\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 6898,
+      "offset": 6658,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Model\/ContentConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 6904,
+      "offset": 6664,
       "length": 1,
       "value": "\"\""
     },
@@ -12932,119 +12939,119 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 7763,
+      "offset": 7725,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 8925,
+      "offset": 8887,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 9620,
+      "offset": 9582,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 9753,
+      "offset": 9715,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 9881,
+      "offset": 9843,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 10070,
+      "offset": 10032,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 11205,
+      "offset": 11167,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 12006,
+      "offset": 11968,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 12726,
+      "offset": 12688,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 13445,
+      "offset": 13407,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 13725,
+      "offset": 13687,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "IntegerLiteral",
-      "offset": 14178,
+      "offset": 14140,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "IntegerLiteral",
-      "offset": 14389,
+      "offset": 14351,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "IntegerLiteral",
-      "offset": 14517,
+      "offset": 14479,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "IntegerLiteral",
-      "offset": 15184,
+      "offset": 15146,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "IntegerLiteral",
-      "offset": 15217,
+      "offset": 15179,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene.swift",
       "kind": "BooleanLiteral",
-      "offset": 15545,
+      "offset": 15507,
       "length": 4,
       "value": "true"
     },
@@ -13597,77 +13604,77 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "BooleanLiteral",
-      "offset": 436,
+      "offset": 415,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "StringLiteral",
-      "offset": 475,
+      "offset": 454,
       "length": 6,
       "value": "\"http\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "StringLiteral",
-      "offset": 507,
+      "offset": 486,
       "length": 7,
       "value": "\"https\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "BooleanLiteral",
-      "offset": 930,
+      "offset": 791,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "Dictionary",
-      "offset": 1067,
+      "offset": 928,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "StringLiteral",
-      "offset": 1613,
+      "offset": 1474,
       "length": 9,
       "value": "\"options\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "StringLiteral",
-      "offset": 1670,
+      "offset": 1531,
       "length": 5,
       "value": "\"URL\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "Dictionary",
-      "offset": 2033,
+      "offset": 1894,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "StringLiteral",
-      "offset": 2103,
+      "offset": 1964,
       "length": 151,
       "value": "\"Unsupported deep link, application delegate should implement application(open:options:), or scene delegate should implement scene(_:openURLContexts:)\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "StringLiteral",
-      "offset": 2336,
+      "offset": 2197,
       "length": 46,
       "value": "\"Unsupported deep link: \""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Scene\/Scene+OpenURL.swift",
       "kind": "StringLiteral",
-      "offset": 2381,
+      "offset": 2242,
       "length": 2,
       "value": "\"\""
     },
@@ -15830,140 +15837,154 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 783,
+      "offset": 755,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 963,
+      "offset": 935,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1023,
+      "offset": 995,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "Array",
-      "offset": 1455,
+      "offset": 1392,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1641,
+      "offset": 1578,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2232,
+      "offset": 2169,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2310,
+      "offset": 2247,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2394,
+      "offset": 2331,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2444,
+      "offset": 2381,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2589,
+      "offset": 2526,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2715,
+      "offset": 2652,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2840,
+      "offset": 2777,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3376,
+      "offset": 3313,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3391,
+      "offset": 3328,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3467,
+      "offset": 3404,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3481,
+      "offset": 3418,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3939,
+      "offset": 3876,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4449,
+      "offset": 4335,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4487,
+      "offset": 4373,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4525,
+      "offset": 4411,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5051,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5107,
       "length": 5,
       "value": "false"
     },
@@ -15976,239 +15997,225 @@
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5221,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5279,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5347,
+      "offset": 5233,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5356,
+      "offset": 5242,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5367,
+      "offset": 5253,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5377,
+      "offset": 5263,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5438,
+      "offset": 5324,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5909,
+      "offset": 5795,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5975,
+      "offset": 5861,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5990,
+      "offset": 5876,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6056,
+      "offset": 5942,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6071,
+      "offset": 5957,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7174,
+      "offset": 7060,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7531,
+      "offset": 7417,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7543,
+      "offset": 7429,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8265,
+      "offset": 8151,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8269,
+      "offset": 8155,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8316,
+      "offset": 8202,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8361,
+      "offset": 8247,
       "length": 4,
       "value": "0.45"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8368,
+      "offset": 8254,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8412,
+      "offset": 8298,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8808,
+      "offset": 8694,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8862,
+      "offset": 8748,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8931,
+      "offset": 8817,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8986,
+      "offset": 8872,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9318,
+      "offset": 9204,
       "length": 13,
       "value": "\"iosListener\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9405,
+      "offset": 9291,
       "length": 177,
       "value": "\"  var style = document.createElement('style');\n  style.innerHTML = '.progressBar { display: none; }';\n  document.head.appendChild(style);\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9741,
+      "offset": 9627,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9843,
+      "offset": 9729,
       "length": 164,
       "value": "\"window.addEventListener('message', function(e) { window.webkit.messageHandlers.\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9970,
+      "offset": 9856,
       "length": 1,
       "value": "\".postMessage(e.data); } )\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10101,
+      "offset": 9987,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10951,
+      "offset": 10837,
       "length": 50,
       "value": "\"window.name='stonlyWidgetParams_\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10999,
+      "offset": 10885,
       "length": 2,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "Dictionary",
-      "offset": 11331,
+      "offset": 11217,
       "length": 3,
       "value": "[]"
     },
@@ -16222,245 +16229,245 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11536,
+      "offset": 11422,
       "length": 55,
       "value": "\"Received message from widget content: \""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11590,
+      "offset": 11476,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14341,
+      "offset": 14227,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14425,
+      "offset": 14311,
       "length": 8,
       "value": "\"source\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14534,
+      "offset": 14420,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14626,
+      "offset": 14512,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14729,
+      "offset": 14615,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14759,
+      "offset": 14645,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14958,
+      "offset": 14844,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15251,
+      "offset": 15137,
       "length": 19,
       "value": "\"WebKitErrorDomain\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15288,
+      "offset": 15174,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16017,
+      "offset": 15903,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16205,
+      "offset": 16091,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16735,
+      "offset": 16621,
       "length": 21,
       "value": "\"Content-Disposition\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16809,
+      "offset": 16695,
       "length": 12,
       "value": "\"attachment\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16826,
+      "offset": 16712,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17384,
+      "offset": 17270,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17412,
+      "offset": 17298,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17546,
+      "offset": 17432,
       "length": 12,
       "value": "\"stonly.com\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17563,
+      "offset": 17449,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17672,
+      "offset": 17558,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17713,
+      "offset": 17599,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18184,
+      "offset": 18070,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18760,
+      "offset": 18646,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18921,
+      "offset": 18807,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19042,
+      "offset": 18928,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19293,
+      "offset": 19179,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19456,
+      "offset": 19342,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19775,
+      "offset": 19661,
       "length": 18,
       "value": "\"Stonly.WeakMessageHandler\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20404,
+      "offset": 20290,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20616,
+      "offset": 20502,
       "length": 35,
       "value": "\"failed decoding message: \""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20650,
+      "offset": 20536,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20953,
+      "offset": 20839,
       "length": 37,
       "value": "\"window.postMessage(\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20983,
+      "offset": 20869,
       "length": 1,
       "value": "\",'*');\""
     },
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21105,
+      "offset": 20991,
       "length": 3,
       "value": "\";\""
     }

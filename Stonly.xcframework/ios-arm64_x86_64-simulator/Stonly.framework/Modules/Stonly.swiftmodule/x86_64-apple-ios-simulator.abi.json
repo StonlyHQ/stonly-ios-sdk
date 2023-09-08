@@ -6016,7 +6016,21 @@
     {
       "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Framework\/Widget.swift",
       "kind": "StringLiteral",
-      "offset": 5263,
+      "offset": 5253,
+      "length": 3,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Framework\/Widget.swift",
+      "kind": "StringLiteral",
+      "offset": 5264,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/remybaroukh\/dev\/stonly\/iosSDK\/StonlyWidget\/StonlyWidget\/Framework\/Widget.swift",
+      "kind": "StringLiteral",
+      "offset": 5302,
       "length": 7,
       "value": "\"react\""
     },

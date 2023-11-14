@@ -1,7 +1,7 @@
 framework module Stonly {
   umbrella header "Stonly.h"
-
   export *
+
   module * { export * }
 }
 

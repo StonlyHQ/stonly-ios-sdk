@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		2e+UnzeTInj6qkF2rkJd38QTP+U=
+		K9U1bqbYkuoZeUW0e7G7YszUS0Y=
 		</data>
 		<key>Headers/NSData+StonlyGZIP.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/Stonly-Swift.h</key>
 		<data>
-		5pkBWC4zOfTVyd+nBMtH2oJBH2o=
+		6Y4sCnkImyXMfmAIDYixLpUnKs4=
 		</data>
 		<key>Headers/Stonly.h</key>
 		<data>
@@ -22,52 +22,44 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		U1x9UD1bxxoejOn/tVoll0qQX+g=
+		NZM+6j/kfPghz/9bpmyMEZSMgQQ=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		tlvu24qAqoexqV5h/TJnScyy0hE=
+		m6WbnjSlBaJxqsGMmAAue/9r2+g=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		vdFRo+r/wGElbw46YJAJOkQLg78=
+		9YBvbrzcwT2mCSeYl2oijzyEev8=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		/ejOvp2zkPeIcPI6HSUXwHhsUdk=
+		2fie+Np9ZV0xS8EW4M4p/RS0LKs=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		vdFRo+r/wGElbw46YJAJOkQLg78=
+		9YBvbrzcwT2mCSeYl2oijzyEev8=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		SQDeQbXz+ike2NRpuRBwD9EyJCs=
+		bWkEJT2/Hd1CwQK5VWaKcx/Ux4Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		BDl6x34UKMjuTQA9dRyRi5M5+3c=
+		o6zrceEA96KdwMcJfVKOoVKmFGo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2e+UnzeTInj6qkF2rkJd38QTP+U=
-			</data>
 			<key>hash2</key>
 			<data>
-			GBeZYAML31STalZhgi6stA9fYbaveX1tgiA2ziJNcXo=
+			qnXytphcjUtcTt01W+LnDP5ATLw+GylFa6vxw7MPWck=
 			</data>
 		</dict>
 		<key>Headers/NSData+StonlyGZIP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NyZiTCa9ezKDmunIwnP/P6qJLzs=
-			</data>
 			<key>hash2</key>
 			<data>
 			AWDRWxhpFeBYkUCuv849U3HQohj4eZm99KUVWNiKzU0=
@@ -75,21 +67,13 @@
 		</dict>
 		<key>Headers/Stonly-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5pkBWC4zOfTVyd+nBMtH2oJBH2o=
-			</data>
 			<key>hash2</key>
 			<data>
-			uZXurwkfr/JIMdkqZMrm4KnngTIM6LJF5DQsCT6SX0Q=
+			lhvdVw7mH0Lv3DjqjKEsobE57RM6ZIN1RjZHkTaq6DY=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Yg+71J9LDgsaNRsxMegqYr6v9Us=
-			</data>
 			<key>hash2</key>
 			<data>
 			ceMX96kQT683ZCi0cITlbjzHSsQmtuz1odrFYMruP1k=
@@ -97,68 +81,44 @@
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tlvu24qAqoexqV5h/TJnScyy0hE=
-			</data>
 			<key>hash2</key>
 			<data>
-			/rMIH+r/tPpWZPxB7uPNpKJ+4+0bRDgT8Uo9E/ioS70=
+			pQcf5SHuCfjy7EMXui+ug9/km61utXG3tkJ1QbHalts=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vdFRo+r/wGElbw46YJAJOkQLg78=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ulk0pUe8MlpAyGFJcUoOHxK0Q4UfaXNx2sJc5JP/5hM=
+			48K+Guk74IgZailEhLDVWgbQJMgUAkIa2flBIhAcjLY=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/ejOvp2zkPeIcPI6HSUXwHhsUdk=
-			</data>
 			<key>hash2</key>
 			<data>
-			E1jT2Q1ySulh28wHSq8Oq8SHIaejB7/BX5tQth4//Gc=
+			2nyllEqgVuGPfX0Qd7IWsnK3szlAa+lLbcMyCGelmJ4=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vdFRo+r/wGElbw46YJAJOkQLg78=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ulk0pUe8MlpAyGFJcUoOHxK0Q4UfaXNx2sJc5JP/5hM=
+			48K+Guk74IgZailEhLDVWgbQJMgUAkIa2flBIhAcjLY=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SQDeQbXz+ike2NRpuRBwD9EyJCs=
-			</data>
 			<key>hash2</key>
 			<data>
-			x0lQGbyenLVKWaCRSIG630EZCsBHinHMvI4yOTDdNG0=
+			6fmNpcnjpmTCI5D9NHZmxD7Fp2C3YmUa3mbkSu9DHq4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BDl6x34UKMjuTQA9dRyRi5M5+3c=
-			</data>
 			<key>hash2</key>
 			<data>
-			Psz4iCtagj0mghdbW53d41pkpHBOIuLiPyhy3faDy/8=
+			ClnlK9UOM99Ql1C9kUYb7qXbTvlXWhNrvB4NDZGbsOk=
 			</data>
 		</dict>
 	</dict>

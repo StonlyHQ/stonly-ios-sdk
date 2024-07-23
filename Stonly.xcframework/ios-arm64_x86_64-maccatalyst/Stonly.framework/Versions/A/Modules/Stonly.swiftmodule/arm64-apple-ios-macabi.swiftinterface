@@ -31,6 +31,10 @@ import os
     @objc get
     @objc set
   }
+  @objc public class var hasSwiftUI: Swift.Bool {
+    @objc get
+    @objc set
+  }
   @objc(debugEnabled) public class var isDebugEnabled: Swift.Bool {
     @objc(isDebugEnabled) get
     @objc set
@@ -69,6 +73,7 @@ import os
   @objc public class func track(_ eventName: Swift.String)
   @objc public class func didChangeScreen(_ screenName: Swift.String)
   @objc public class func setStonlyEnabled(_ enabled: Swift.Bool)
+  @objc public class func authorizedDomains(_ domains: [Swift.String])
   @objc override dynamic public init()
   @objc deinit
 }

@@ -378,6 +378,9 @@ SWIFT_CLASS_NAMED("Widget")
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable widgetId;)
 + (NSString * _Nullable)widgetId SWIFT_WARN_UNUSED_RESULT;
 + (void)setWidgetId:(NSString * _Nullable)newValue;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL hasSwiftUI;)
++ (BOOL)hasSwiftUI SWIFT_WARN_UNUSED_RESULT;
++ (void)setHasSwiftUI:(BOOL)newValue;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, getter=isDebugEnabled) BOOL debugEnabled;)
 + (BOOL)isDebugEnabled SWIFT_WARN_UNUSED_RESULT;
 + (void)setDebugEnabled:(BOOL)newValue;
@@ -400,6 +403,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)track:(NSString * _Nonnull)eventName;
 + (void)didChangeScreen:(NSString * _Nonnull)screenName;
 + (void)setStonlyEnabled:(BOOL)enabled;
++ (void)authorizedDomains:(NSArray<NSString *> * _Nonnull)domains;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

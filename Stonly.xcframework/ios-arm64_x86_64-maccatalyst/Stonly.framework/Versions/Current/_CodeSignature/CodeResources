@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		InlVNeW8V4LBcG5Kj41G5fLUp1s=
+		Tlj2SRPgUA1cWwbzInJIRgxEft4=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		WIjQT58bgZ1OZI986n4Go2nC3yE=
+		9I1Jldfb4YOkdQlVtZxuVLecqLg=
 		</data>
 		<key>Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -30,7 +30,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KSJu41PEpZ52WvHAq+cKUXIpSewxH8I469upS5l5+3I=
+			OhvnlgAnjNxwM04kOPQU01Pb7oIF7jIGaCgb2By3R7g=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -44,14 +44,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v8Os7tuwKSp5Ix9G9hx3ksQ4S2EwUqCALSaWtCT9HyQ=
+			zHf2+DctV12P5vDG5ffUwJ/PfGFngqKApFAMBg9VSRQ=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JyUsiMMj02cQubTRwIANiSvGbdAqdYSWnz4E8ObZlaw=
+			xBYAwWsDQZx25H0+JKWmHmSkwGGBTWgqQ/y89QxY+aI=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -65,28 +65,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JyUsiMMj02cQubTRwIANiSvGbdAqdYSWnz4E8ObZlaw=
+			xBYAwWsDQZx25H0+JKWmHmSkwGGBTWgqQ/y89QxY+aI=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			am4Ux3eJ4SHnx6ZcJPa6tRGdnzYkgPrAMictWPUNo4U=
+			g+pxW2GbgaLWT+k0C1uY5OBfAgHcAKC8k8x0hMtHAQE=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v8Os7tuwKSp5Ix9G9hx3ksQ4S2EwUqCALSaWtCT9HyQ=
+			zHf2+DctV12P5vDG5ffUwJ/PfGFngqKApFAMBg9VSRQ=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7wb+IDThaaWaSKTfmUcfuh52Nr46azQqrwiS6s9ChY=
+			/jTlD/funsq0RBTY0YBvYRiQUB4IVlZTffhUmozFVto=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -100,14 +100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7wb+IDThaaWaSKTfmUcfuh52Nr46azQqrwiS6s9ChY=
+			/jTlD/funsq0RBTY0YBvYRiQUB4IVlZTffhUmozFVto=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u8X9E8EqgvV1LCj44T+mKD1gapp4A2FEhSwdG9lup8k=
+			Cgvq0oIulIb1f3Q9A6QLlWULM6DMbCnc5GcYPgK4s0I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -121,14 +121,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FUcQXa18eNcu1RW6U2y82PRdybXZ3zmMEzZJtJWW1QU=
+			n4IWYfhx4gfLT6zV6e8tfS6Pz35EnVb6DsfWhaJC7xQ=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ewZlF4bboiYb5+fUYqGHwDeNE9Mk0ADWgDpzzyaU9yk=
+			VgWkgfpxlDdJ0esIohNAwGNjWbhMJ02iz/DcVtjhH9s=
 			</data>
 		</dict>
 		<key>Resources/PrivacyInfo.xcprivacy</key>

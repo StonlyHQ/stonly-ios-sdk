@@ -74,6 +74,7 @@ import os
   @objc public class func didChangeScreen(_ screenName: Swift.String)
   @objc public class func setStonlyEnabled(_ enabled: Swift.Bool)
   @objc public class func authorizedDomains(_ domains: [Swift.String])
+  @objc public class func updateStructure(_ flutterStructure: Swift.String)
   @objc override dynamic public init()
   @objc deinit
 }

@@ -404,6 +404,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)didChangeScreen:(NSString * _Nonnull)screenName;
 + (void)setStonlyEnabled:(BOOL)enabled;
 + (void)authorizedDomains:(NSArray<NSString *> * _Nonnull)domains;
++ (void)updateStructure:(NSString * _Nonnull)flutterStructure;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -846,6 +847,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <StonlyWidgetDelegate
 + (void)didChangeScreen:(NSString * _Nonnull)screenName;
 + (void)setStonlyEnabled:(BOOL)enabled;
 + (void)authorizedDomains:(NSArray<NSString *> * _Nonnull)domains;
++ (void)updateStructure:(NSString * _Nonnull)flutterStructure;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

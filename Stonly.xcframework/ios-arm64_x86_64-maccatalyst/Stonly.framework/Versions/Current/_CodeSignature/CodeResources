@@ -30,7 +30,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			32Fcal820AZl6YL0z8iXCaTRHj29EDvlzG4fW9264tE=
+			ORkIpeVDfrcXsIeB3+BeJyh4rkQxY9UfgHAv/NIh1ko=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -44,14 +44,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bGy6NvHIFwX5zp6eEt+e8L5shQfFyPZKjV6azN1328=
+			BHfSkBg1PzBoTulMy15GtdZD1lBpbKFn5VT43KnL0dM=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6tlJcdBnDVsmu79ny9drW6ZAPNWoTYdbk/7G0AS5ofM=
+			F8BiEUjSrALTs490Grpsw12R5r2vYvKdXGI6vtdp5Wg=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -65,28 +65,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6tlJcdBnDVsmu79ny9drW6ZAPNWoTYdbk/7G0AS5ofM=
+			F8BiEUjSrALTs490Grpsw12R5r2vYvKdXGI6vtdp5Wg=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5EoPblSr5+5N8xdoFlMm1TOR1nLirZwUanOXlaMm9s=
+			pdf2wy2wcDvb+FicQ/8qmYVvw509ErBT55OzxIOQYFU=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bGy6NvHIFwX5zp6eEt+e8L5shQfFyPZKjV6azN1328=
+			BHfSkBg1PzBoTulMy15GtdZD1lBpbKFn5VT43KnL0dM=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q4FHARr9sZlmc9wzHdqmuYzXNd2kUIm+dmwvB+KPjOw=
+			hGplg7rwMLRfiOtITTGXcUULm4+06YBOrgxMkuZAY5A=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -100,14 +100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q4FHARr9sZlmc9wzHdqmuYzXNd2kUIm+dmwvB+KPjOw=
+			hGplg7rwMLRfiOtITTGXcUULm4+06YBOrgxMkuZAY5A=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SYj4nDLTYrIq3YaAXL7WNPVwu+v8L2GGMxr3ca7mT4c=
+			khAqKR8UW9TlBjHS+V/PEeKhB3RTL/Hu9+3jPwM7NZg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

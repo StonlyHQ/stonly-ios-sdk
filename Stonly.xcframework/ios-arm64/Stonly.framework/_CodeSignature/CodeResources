@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/Stonly-Swift.h</key>
 		<data>
-		P9ez0nZqoACmKztKYXS8AjrhKsY=
+		SqeytUPkTfavUB3vWLNsnbCDb9A=
 		</data>
 		<key>Headers/Stonly.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		uxc68EDL09oFn6Le3WSn1jbFuUo=
+		xglYc9HVbwofQ2HKQ70VTTDq7xs=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		1tvpKo+hXrRrPn4JK+gCFEXug+8=
+		O0KE/uISZSZQIdIyayh0YTKy6Ds=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		1tvpKo+hXrRrPn4JK+gCFEXug+8=
+		O0KE/uISZSZQIdIyayh0YTKy6Ds=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		W4J9APNxzhGh4EEobyPwWnSIxio=
+		7ededVs8cpS6YdUSlgcNWgBE8AA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q1XedPevBvTUuW7lwcipYWlARz0/KnQiJqLN3MJ8+XI=
+			4Kfw8JbjJz4KOMOX+V1M2u3K+nDNnTNUiVrjnRB67bA=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -87,14 +87,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ck2sI36MPKW62LNcI4ldVVSfxW8r+auxws2NUgaeAq4=
+			iWsAU1B5uk1ntYdWLr0ridJUb3KVJ8b2WB5t+B9QQGk=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2rc3NeiERo/d4jA0rTMH1+iVQUhKOwsldrPYb2KX4zQ=
+			aqy1sahtYTvlDAdh1bm+dHwYTJ1BLM8gIwKL15hyKwM=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -108,14 +108,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2rc3NeiERo/d4jA0rTMH1+iVQUhKOwsldrPYb2KX4zQ=
+			aqy1sahtYTvlDAdh1bm+dHwYTJ1BLM8gIwKL15hyKwM=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QTdQTJW0YuKxckM1TtciJsnYv9DkthpYY90dcxHNZh0=
+			HFTsLAHBeQexjn/qelhCJjqsi+I8dR/4k0O5EQi/Gnc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

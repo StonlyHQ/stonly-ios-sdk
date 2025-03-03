@@ -2969,6 +2969,13 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
             "name": "_ObjectiveCBridgeable",
             "printedName": "_ObjectiveCBridgeable",
             "children": [
@@ -3009,13 +3016,6 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -3087,6 +3087,13 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
             "name": "_ObjectiveCBridgeable",
             "printedName": "_ObjectiveCBridgeable",
             "children": [
@@ -3127,13 +3134,6 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -4026,7 +4026,7 @@
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 13852,
+      "offset": 14042,
       "length": 5,
       "value": "false"
     },
@@ -12727,126 +12727,126 @@
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 4229,
+      "offset": 4432,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 4296,
+      "offset": 4499,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 4305,
+      "offset": 4508,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 4344,
+      "offset": 4547,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "BooleanLiteral",
-      "offset": 5749,
+      "offset": 5952,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "BooleanLiteral",
-      "offset": 6561,
+      "offset": 6764,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "StringLiteral",
-      "offset": 6828,
+      "offset": 7031,
       "length": 6,
       "value": "\"Stonly.Target\""
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "Dictionary",
-      "offset": 7687,
+      "offset": 7890,
       "length": 452,
       "value": "[(\"<div>\", \"\n\"), (\"<\/div>\", \"\"), (\"<br>\", \"\n\"), (\"<\/br>\", \"\"), (\"<br\/>\", \"\n\"), (\"<b>\", \"\"), (\"<\/b>\", \"\"), (\"<i>\", \"\"), (\"<\/i>\", \"\"), (\"<u>\", \"\"), (\"<\/u>\", \"\"), (\"&nbsp;\", \" \")]"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "StringLiteral",
-      "offset": 9902,
+      "offset": 10105,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 9994,
+      "offset": 10197,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "BooleanLiteral",
-      "offset": 10557,
+      "offset": 10760,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 10732,
+      "offset": 10935,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 10779,
+      "offset": 10982,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 10796,
+      "offset": 10999,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "IntegerLiteral",
-      "offset": 10854,
+      "offset": 11057,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "StringLiteral",
-      "offset": 11022,
+      "offset": 11225,
       "length": 15,
       "value": "\"CFBundleIcons\""
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "StringLiteral",
-      "offset": 11096,
+      "offset": 11299,
       "length": 21,
       "value": "\"CFBundlePrimaryIcon\""
     },
     {
       "filePath": "\/Users\/bkh\/Documents\/dev\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIKit+Stonly.swift",
       "kind": "StringLiteral",
-      "offset": 11180,
+      "offset": 11383,
       "length": 19,
       "value": "\"CFBundleIconFiles\""
     },

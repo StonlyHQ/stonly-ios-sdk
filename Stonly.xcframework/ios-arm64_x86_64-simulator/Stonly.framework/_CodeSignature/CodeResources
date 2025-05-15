@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/Y7Xhs9k+E988eaYcZaKOpSnkvo=
+		UGYyNMZre7BrhTMKlfYNnJKW8DI=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CmNdd6QEv/4+XKUJqaGfK7Ve+Pw=
+		Ohnr1+tAkAVjfO8W/mJ0MF4AzCA=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/Y7Xhs9k+E988eaYcZaKOpSnkvo=
+		UGYyNMZre7BrhTMKlfYNnJKW8DI=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eJLpY1iM+ZJeVtRugwJtWwuKhFA=
+		paJTwtL7wo0At07m4rB/KWDq/2c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UbLq3DFC1UnA8CxXHHH6Q/h55kdIv8KNYEdSQLZjORI=
+			Qv5l7yCA3cK6lMCoZM0a4yTTgWaDj2Zc35EgRI4SRcI=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -135,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JGUYaM1Yv7rYShOHyWkweDstsxIimzDuvSODmuQcEx4=
+			6g/A6+glxVfsx01QbDDqzFHQfZf8h/w+LBq7UyMuFZY=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UbLq3DFC1UnA8CxXHHH6Q/h55kdIv8KNYEdSQLZjORI=
+			Qv5l7yCA3cK6lMCoZM0a4yTTgWaDj2Zc35EgRI4SRcI=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -170,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6TzVOBEc8vnrVjCRKXe+8EB21mvi1q94IefqdHFpLrY=
+			574AtiphVe7GPAcX8rE52zoB6T/deD88L8waE1AQ9bQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

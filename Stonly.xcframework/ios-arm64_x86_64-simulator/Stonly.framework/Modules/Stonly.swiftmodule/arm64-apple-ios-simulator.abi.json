@@ -57,14 +57,20 @@
         "name": "SDWebImageSVGCoder",
         "printedName": "SDWebImageSVGCoder",
         "declKind": "Import",
-        "moduleName": "Stonly"
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
         "name": "SDWebImage",
         "printedName": "SDWebImage",
         "declKind": "Import",
-        "moduleName": "Stonly"
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -2442,7 +2448,10 @@
         "name": "SDWebImage",
         "printedName": "SDWebImage",
         "declKind": "Import",
-        "moduleName": "Stonly"
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -4038,91 +4047,91 @@
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "Array",
-      "offset": 789,
+      "offset": 831,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 915,
+      "offset": 957,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 4205,
+      "offset": 4247,
       "length": 22,
       "value": "\"StonlyCustomWidgetID\""
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 4232,
+      "offset": 4274,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 4303,
+      "offset": 4345,
       "length": 29,
       "value": "\"StonlyCustomWidgetIDEnabled\""
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4390,
+      "offset": 4432,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5225,
+      "offset": 5267,
       "length": 8,
       "value": "0x1e8098"
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5474,
+      "offset": 5516,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5877,
+      "offset": 5919,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "FloatLiteral",
-      "offset": 6121,
+      "offset": 6163,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6323,
+      "offset": 6365,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 10427,
+      "offset": 10469,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
       "filePath": "\/Users\/adam\/Volumes\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 11304,
+      "offset": 11346,
       "length": 55,
       "value": "\"StonlyWidget.KeyboardScreenFrameDidChangeNotification\""
     },

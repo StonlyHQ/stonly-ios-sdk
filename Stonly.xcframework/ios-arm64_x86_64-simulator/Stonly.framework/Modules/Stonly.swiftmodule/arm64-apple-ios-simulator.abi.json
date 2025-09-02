@@ -4250,58 +4250,51 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4366,
+      "offset": 27283,
       "length": 12,
       "value": "\"appVersion\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4500,
+      "offset": 27417,
       "length": 17,
       "value": "\"appShortVersion\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4567,
+      "offset": 27484,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4641,
+      "offset": 27558,
       "length": 13,
       "value": "\"appLanguage\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4714,
+      "offset": 27631,
       "length": 15,
       "value": "\"deviceVersion\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4792,
+      "offset": 27709,
       "length": 15,
       "value": "\"systemVersion\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
       "kind": "StringLiteral",
-      "offset": 4870,
+      "offset": 27787,
       "length": 12,
       "value": "\"systemName\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMPage.swift",
-      "kind": "StringLiteral",
-      "offset": 8064,
-      "length": 2,
-      "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
@@ -4494,15 +4487,22 @@
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
+      "kind": "StringLiteral",
+      "offset": 449,
+      "length": 14,
+      "value": "\"1.0.16-BETA2\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "Array",
-      "offset": 458,
+      "offset": 502,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "BooleanLiteral",
-      "offset": 488,
+      "offset": 532,
       "length": 5,
       "value": "false"
     },
@@ -5924,13 +5924,27 @@
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
       "offset": 11379,
-      "length": 32,
-      "value": "\"Stonly\/MobileIntegration\/Apple\""
+      "length": 113,
+      "value": "\"Stonly\/MobileIntegration\/Apple (sdk-version=\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
+      "kind": "StringLiteral",
+      "offset": 11476,
+      "length": 13,
+      "value": "\"unavailable\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
+      "kind": "StringLiteral",
+      "offset": 11490,
+      "length": 1,
+      "value": "\")\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12690,
+      "offset": 12771,
       "length": 1,
       "value": "0"
     },
@@ -6217,21 +6231,21 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/AutoSizingWebView.swift",
       "kind": "StringLiteral",
-      "offset": 1612,
+      "offset": 1693,
       "length": 14,
       "value": "\"heightChange\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/AutoSizingWebView.swift",
       "kind": "StringLiteral",
-      "offset": 1664,
+      "offset": 1745,
       "length": 462,
       "value": "\"    function postHeight(event) {\n    var el = document.body\n    var styles = window.getComputedStyle(el);\n      var margin = parseFloat(styles['marginTop']) +\n                   parseFloat(styles['marginBottom']);\n    var height = Math.ceil(el.offsetHeight + margin);\n    window.webkit.messageHandlers.\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/AutoSizingWebView.swift",
       "kind": "StringLiteral",
-      "offset": 1997,
+      "offset": 2078,
       "length": 1,
       "value": "\".postMessage(height);\n    }\n    window.addEventListener(\"load\", postHeight)\n    window.addEventListener(\"resize\", postHeight)\""
     },
@@ -6539,231 +6553,336 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 1936,
+      "offset": 2074,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 3070,
+      "offset": 3834,
       "length": 13,
       "value": "\"RCTTextView\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 4124,
+      "length": 15,
+      "value": "\"UIHostingView\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 4163,
+      "length": 19,
+      "value": "\"HostingScrollView\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 4206,
+      "length": 15,
+      "value": "\"CGDrawingView\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 4245,
+      "length": 16,
+      "value": "\"UIGraphicsView\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 3772,
+      "offset": 5014,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5114,
+      "offset": 6356,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5185,
+      "offset": 6427,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5251,
+      "offset": 6493,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5320,
+      "offset": 6562,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5388,
+      "offset": 6630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5458,
+      "offset": 6700,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5528,
+      "offset": 6770,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5595,
+      "offset": 6837,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 5676,
+      "offset": 6918,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 10388,
+      "offset": 11630,
       "length": 26,
       "value": "\"accessibility-identifier\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 10444,
+      "offset": 11686,
       "length": 6,
       "value": "\"path\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 10484,
+      "offset": 11726,
       "length": 24,
       "value": "\"restoration-identifier\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "IntegerLiteral",
-      "offset": 10663,
+      "offset": 11905,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 11056,
+      "offset": 12298,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 11324,
+      "offset": 12566,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 11354,
+      "offset": 12596,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 12480,
+      "offset": 13719,
       "length": 10,
       "value": "\"page-url\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 12522,
+      "offset": 13758,
       "length": 18,
       "value": "\"controller-class\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 13091,
+      "offset": 16597,
+      "length": 19,
+      "value": "\"swiftui-view-name\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 16651,
+      "length": 26,
+      "value": "\"swiftui-navigation-title\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 16710,
+      "length": 24,
+      "value": "\"swiftui-tab-identifier\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 16767,
+      "length": 24,
+      "value": "\"swiftui-view-hierarchy\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 16834,
+      "length": 34,
+      "value": "\"swiftui-accessibility-identifier\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 16906,
+      "length": 29,
+      "value": "\"swiftui-accessibility-label\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 16972,
+      "length": 28,
+      "value": "\"swiftui-environment-values\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 17041,
+      "length": 33,
+      "value": "\"swiftui-hosting-controller-type\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 17105,
+      "length": 14,
+      "value": "\"swiftui-text\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 17147,
+      "length": 19,
+      "value": "\"swiftui-text-font\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 17195,
+      "length": 20,
+      "value": "\"swiftui-text-style\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 22159,
       "length": 6,
       "value": "\"text\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 13118,
+      "offset": 22186,
       "length": 11,
       "value": "\"text-i18n\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 13150,
+      "offset": 22218,
       "length": 11,
       "value": "\"font-name\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 13182,
+      "offset": 22250,
       "length": 11,
       "value": "\"font-size\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 13215,
+      "offset": 22283,
       "length": 12,
       "value": "\"font-style\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 16907,
+      "offset": 26797,
       "length": 15,
       "value": "\"keyboard-type\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 16978,
+      "offset": 26868,
       "length": 17,
       "value": "\"return-key-type\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 17066,
+      "offset": 26956,
       "length": 22,
       "value": "\"is-secure-text-entry\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 17116,
+      "offset": 27006,
       "length": 19,
       "value": "\"text-content-type\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 18674,
+      "offset": 28564,
       "length": 13,
       "value": "\"is-editable\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 19970,
+      "offset": 29860,
       "length": 18,
       "value": "\"reuse-identifier\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 22756,
+      "offset": 32646,
       "length": 19,
       "value": "\"image-fingerprint\""
     },
@@ -6812,196 +6931,203 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5131,
+      "offset": 10651,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5169,
+      "offset": 17769,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5207,
+      "offset": 17807,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9172,
+      "offset": 17845,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22770,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9238,
+      "offset": 22836,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9253,
+      "offset": 22851,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9319,
+      "offset": 22917,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9334,
+      "offset": 22932,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9701,
+      "offset": 23299,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9766,
+      "offset": 23364,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9781,
+      "offset": 23379,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9846,
+      "offset": 23444,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9861,
+      "offset": 23459,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17763,
+      "offset": 31454,
       "length": 13,
       "value": "\"iosListener\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17850,
+      "offset": 31541,
       "length": 177,
       "value": "\"  var style = document.createElement('style');\n  style.innerHTML = '.progressBar { display: none; }';\n  document.head.appendChild(style);\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18186,
+      "offset": 31877,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18288,
+      "offset": 31979,
       "length": 164,
       "value": "\"window.addEventListener('message', function(e) { window.webkit.messageHandlers.\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18415,
+      "offset": 32106,
       "length": 1,
       "value": "\".postMessage(e.data); } )\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18546,
+      "offset": 32237,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18641,
+      "offset": 32332,
       "length": 1422,
       "value": "\" (function() {\n     function updateCloseButtonBackground() {\n         \/\/ Find all buttons with class containing \"CloseButton__CloseFunction\"\n         var buttons = document.querySelectorAll('button[class*=\"CloseButton__CloseFunction\"]');\n         \n         buttons.forEach(function(button) {\n             \/\/ Find div elements inside the button \n\n             button.style.cssText += '; z-index: 1000 !important;';\n             var divs = button.querySelectorAll('div');\n             divs.forEach(function(div) {\n                 \/\/ Change background-color to black\n                 div.style.backgroundColor = 'rgb(0,0,0)';\n                 \n             });\n         });\n     }\n     \n     \/\/ Run initially\n     updateCloseButtonBackground();\n     \n     \/\/ Observer for close button changes\n     var closeButtonObserver = new MutationObserver(function(mutations) {\n         mutations.forEach(function(mutation) {\n             if (mutation.addedNodes.length > 0) {\n                 updateCloseButtonBackground();\n             }\n         });\n     });\n     \n     closeButtonObserver.observe(document.body, {\n         childList: true,\n         subtree: true\n     });\n })();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20157,
+      "offset": 33848,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20248,
-      "length": 2460,
-      "value": "\"(function() {\n    function modifyYouTubeIframes() {\n        var iframes = document.querySelectorAll('iframe'); \n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('youtube.com\/embed')) {\n                var src = iframe.src; \n                if (!src.includes('fs=0')) {\n                    if (src.includes('?')) {\n                        src += '&fs=0';\n                    } else {\n                        src += '?fs=0';\n                    }\n                    iframe.src = src;\n                }\n                iframe.setAttribute('allowfullscreen', 'false');\n            }\n        });\n    }\n\n    \/\/ Run initially\n    modifyYouTubeIframes();\n\n    \/\/ Enhanced observer for YouTube changes - watch all DOM changes\n    var youtubeObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            \/\/ Check for new iframes\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    \n                    modifyYouTubeIframes();\n                    shouldCheck = true;\n                }\n            });\n            \n            \/\/ Check for any DOM changes that might indicate new content loaded\n            if (mutation.type === 'childList' || mutation.type === 'attributes') {\n                shouldCheck = true;\n            }\n        });\n        \n        \/\/ Check for YouTube iframes after any significant DOM change\n        if (shouldCheck) {\n            setTimeout(function() {\n                \n                modifyYouTubeIframes();\n            }, 500);\n        }\n    });\n\n    youtubeObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true,\n        characterData: true\n    });\n    \n    \/\/ Periodic check for YouTube iframes (every 3 seconds)\n    setInterval(function() {\n       \n        modifyYouTubeIframes();\n    }, 3000);\n})();\""
+      "offset": 33939,
+      "length": 5696,
+      "value": "\"(function() {\n    console.log('[YOUTUBE DEBUG] Script started');\n    \n    function debugMessage(msg) {\n        console.log('[YOUTUBE DEBUG] ' + msg);\n        try {\n            window.webkit.messageHandlers.iosListener.postMessage({\n                type: 'debug',\n                message: '[YOUTUBE] ' + msg,\n                timestamp: Date.now()\n            });\n        } catch(e) {\n            console.log('Could not send debug message to iOS:', e);\n        }\n    }\n    \n    function modifyYouTubeIframes() {\n        var iframes = document.querySelectorAll('iframe'); \n        var youtubeCount = 0;\n        \n        iframes.forEach(function(iframe, index) {\n            if (iframe.src.includes('youtube.com\/embed') || iframe.src.includes('youtube-nocookie.com\/embed')) {\n                youtubeCount++;\n                debugMessage('Found YouTube iframe #' + youtubeCount + ': ' + iframe.src);\n                \n                \/\/ Enable fullscreen instead of disabling it\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                iframe.setAttribute('mozallowfullscreen', 'true');\n                \n                debugMessage('Set allowfullscreen=true for iframe #' + youtubeCount);\n                \n                \/\/ Listen for fullscreen events on YouTube iframe\n                try {\n                    iframe.addEventListener('fullscreenchange', function() {\n                        if (document.fullscreenElement === iframe) {\n                            debugMessage('YouTube fullscreen ENTER detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            debugMessage('YouTube fullscreen EXIT detected'); \n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenExit',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    iframe.addEventListener('webkitfullscreenchange', function() {\n                        if (document.webkitFullscreenElement === iframe) {\n                            debugMessage('YouTube webkit fullscreen ENTER detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            debugMessage('YouTube webkit fullscreen EXIT detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenExit', \n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    debugMessage('Added fullscreen event listeners to iframe #' + youtubeCount);\n                } catch(e) {\n                    debugMessage('Could not add fullscreen listeners: ' + e.message);\n                }\n            }\n        });\n        \n        if (youtubeCount > 0) {\n            debugMessage('Total YouTube iframes processed: ' + youtubeCount);\n        } else {\n            debugMessage('No YouTube iframes found');\n        }\n    }\n\n    \/\/ Run initially\n    modifyYouTubeIframes();\n\n    \/\/ Enhanced observer for YouTube changes\n    var youtubeObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    shouldCheck = true;\n                }\n            });\n        });\n        \n        if (shouldCheck) {\n            debugMessage('New iframe detected, re-checking YouTube videos');\n            setTimeout(modifyYouTubeIframes, 100);\n        }\n    });\n\n    youtubeObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true\n    });\n\n    \/\/ Additional periodic check specifically for YouTube embeds\n    setInterval(function() {\n        modifyYouTubeIframes();\n    }, 3000);\n    \n    debugMessage('YouTube script setup complete');\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22721,
+      "offset": 39648,
       "length": 21,
       "value": "\"youtubeScript added\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22837,
+      "offset": 39764,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22931,
-      "length": 1710,
-      "value": "\"(function() {\n    function modifyVimeoIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('vimeo.com\/video') || iframe.src.includes('player.vimeo.com')) {\n                var src = iframe.src;\n                if (!src.includes('fullscreen=0')) {\n                    if (src.includes('?')) {\n                        src += '&fullscreen=0';\n                    } else {\n                        src += '?fullscreen=0';\n                    }\n                    iframe.src = src;\n                } \n                iframe.setAttribute('allowfullscreen', 'false');\n                iframe.removeAttribute('webkitallowfullscreen');\n                iframe.removeAttribute('mozallowfullscreen');\n            }\n        });\n    }\n\n    \/\/ Run initially\n    modifyVimeoIframes();\n\n    \/\/ Observer for Vimeo iframe changes\n    var vimeoObserver = new MutationObserver(function(mutations) {\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    modifyVimeoIframes();\n                }\n            });\n        });\n    });\n\n    vimeoObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true,\n        characterData: true\n    });\n})();\""
+      "offset": 39858,
+      "length": 6353,
+      "value": "\"(function() {\n    console.log('[VIMEO DEBUG] Script started');\n    \n    function debugMessage(msg) {\n        console.log('[VIMEO DEBUG] ' + msg);\n        try {\n            window.webkit.messageHandlers.iosListener.postMessage({\n                type: 'debug',\n                message: '[VIMEO] ' + msg,\n                timestamp: Date.now()\n            });\n        } catch(e) {\n            console.log('Could not send debug message to iOS:', e);\n        }\n    }\n    \n    function modifyVimeoIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        debugMessage('Found ' + iframes.length + ' total iframes');\n        \n        var vimeoCount = 0;\n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('vimeo.com\/video') || iframe.src.includes('player.vimeo.com')) {\n                vimeoCount++;\n                debugMessage('Found Vimeo iframe #' + vimeoCount + ': ' + iframe.src);\n                \n                var src = iframe.src;\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                debugMessage('Set allowfullscreen=true for iframe #' + vimeoCount);\n                \n                \/\/ Listen for Vimeo fullscreen events\n                try {\n                    iframe.contentWindow.postMessage(JSON.stringify({\n                        method: 'addEventListener',\n                        value: 'enterfullscreen'\n                    }), '*');\n                    \n                    iframe.contentWindow.postMessage(JSON.stringify({\n                        method: 'addEventListener', \n                        value: 'exitfullscreen'\n                    }), '*');\n                    debugMessage('Added event listeners to iframe #' + vimeoCount);\n                } catch(e) {\n                    debugMessage('Could not add event listeners to iframe #' + vimeoCount + ': ' + e.message);\n                }\n            }\n        });\n        \n        if (vimeoCount === 0) {\n            debugMessage('No Vimeo iframes found');\n        } else {\n            debugMessage('Modified ' + vimeoCount + ' Vimeo iframes');\n        }\n    }\n    \n    \/\/ Listen for ALL window messages to debug\n    window.addEventListener('message', function(event) {\n        debugMessage('Received message from origin: ' + event.origin);\n        debugMessage('Message data: ' + JSON.stringify(event.data));\n        \n        if (event.origin === 'https:\/\/player.vimeo.com') {\n            debugMessage('This is a Vimeo player message');\n            \n            try {\n                var data = JSON.parse(event.data);\n                debugMessage('Parsed Vimeo data: ' + JSON.stringify(data));\n                \n                if (data.event === 'enterfullscreen') {\n                    debugMessage('DETECTED: Vimeo video entered fullscreen!');\n                    window.webkit.messageHandlers.iosListener.postMessage({\n                        type: 'vimeoFullscreenEnter',\n                        timestamp: Date.now()\n                    });\n                } else if (data.event === 'exitfullscreen') {\n                    debugMessage('DETECTED: Vimeo video exited fullscreen!');\n                    window.webkit.messageHandlers.iosListener.postMessage({\n                        type: 'vimeoFullscreenExit',\n                        timestamp: Date.now()\n                    });\n                }\n            } catch(e) {\n                debugMessage('Error parsing Vimeo message: ' + e.message);\n            }\n        }\n    });\n    \n    \/\/ Monitor fullscreen API changes\n    document.addEventListener('fullscreenchange', function() {\n        debugMessage('Fullscreen change detected - isFullscreen: ' + !!document.fullscreenElement);\n    });\n    \n    document.addEventListener('webkitfullscreenchange', function() {\n        debugMessage('Webkit fullscreen change detected - isFullscreen: ' + !!document.webkitFullscreenElement);\n    });\n\n    \/\/ Run initially\n    debugMessage('Running initial iframe modification');\n    modifyVimeoIframes();\n\n    \/\/ Observer for Vimeo iframe changes\n    var vimeoObserver = new MutationObserver(function(mutations) {\n        var hasNewIframes = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    hasNewIframes = true;\n                }\n            });\n        });\n        \n        if (hasNewIframes) {\n            debugMessage('New iframes detected, re-running modification');\n            modifyVimeoIframes();\n        }\n    });\n\n    vimeoObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true,\n        characterData: true\n    });\n    \n    debugMessage('Vimeo script setup complete');\n    \n    \/\/ Add manual debug trigger - can be called from browser console\n    window.debugWindowMonitor = function() {\n        debugMessage('Manual window monitor trigger requested');\n        window.webkit.messageHandlers.iosListener.postMessage({\n            type: 'debugWindowMonitor',\n            timestamp: Date.now()\n        });\n    };\n    \n    debugMessage('Added window.debugWindowMonitor() function for manual debugging');\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24735,
+      "offset": 46305,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24828,
-      "length": 3643,
-      "value": "\"(function() {\n    function modifyLoomIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('loom.com\/embed') || iframe.src.includes('loom.com\/share')) {\n                var src = iframe.src;\n                if (!src.includes('hide_owner=true')) {\n                    if (src.includes('?')) {\n                        src += '&hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    }\n                    iframe.src = src;\n                }else{\n                    if (src.includes('?')) {\n                        src += '&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_share=true&hideEmbedTopBar=true';\n                    }\n                } \n                iframe.setAttribute('allowfullscreen', 'false');\n                iframe.removeAttribute('webkitallowfullscreen');\n                iframe.removeAttribute('mozallowfullscreen');\n            }\n        });\n        \n        \/\/ Hide Loom fullscreen button\n        var fullscreenBtns = document.querySelectorAll('[data-name=\"FullScreenBtn\"]');\n        fullscreenBtns.forEach(function(btn) {\n            btn.style.display = 'none';\n        });\n    }\n\n                \/\/ Run initially\n    modifyLoomIframes();\n\n    \/\/ Enhanced observer for Loom changes - watch all DOM changes\n    var loomObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            \/\/ Check for new iframes\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    modifyLoomIframes();\n                    shouldCheck = true;\n                }\n            });\n            \n            \/\/ Check for any DOM changes that might indicate player UI loaded\n            if (mutation.type === 'childList' || mutation.type === 'attributes') {\n                shouldCheck = true;\n            }\n        });\n        \n        \/\/ Hide fullscreen buttons after any significant DOM change\n        if (shouldCheck) {\n            setTimeout(function() {\n                var fullscreenBtns = document.querySelectorAll('[data-name=\"FullScreenBtn\"]');\n                fullscreenBtns.forEach(function(btn) {\n                    btn.style.display = 'none';\n                });\n            }, 100);\n        }\n    });\n\n    loomObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true,\n        characterData: true\n    });\n    \n    \/\/ Periodic check for fullscreen buttons (every 2 seconds)\n    setInterval(function() {\n        var fullscreenBtns = document.querySelectorAll('[data-name=\"FullScreenBtn\"]');\n        fullscreenBtns.forEach(function(btn) {\n            btn.style.display = 'none';\n        });\n    }, 2000);\n})();\""
+      "offset": 46398,
+      "length": 6431,
+      "value": "\"(function() {\n    console.log('[LOOM DEBUG] Script started');\n    \n    function debugMessage(msg) {\n        console.log('[LOOM DEBUG] ' + msg);\n        try {\n            window.webkit.messageHandlers.iosListener.postMessage({\n                type: 'debug',\n                message: '[LOOM] ' + msg,\n                timestamp: Date.now()\n            });\n        } catch(e) {\n            console.log('Could not send debug message to iOS:', e);\n        }\n    }\n    \n    function modifyLoomIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        var loomCount = 0;\n        \n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('loom.com\/embed') || iframe.src.includes('loom.com\/share')) {\n                loomCount++;\n                debugMessage('Found Loom iframe #' + loomCount + ': ' + iframe.src);\n                \n                var src = iframe.src;\n                if (!src.includes('hide_owner=true')) {\n                    if (src.includes('?')) {\n                        src += '&hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    }\n                    iframe.src = src;\n                } else {\n                    if (src.includes('?')) {\n                        src += '&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_share=true&hideEmbedTopBar=true';\n                    }\n                }\n                \n                \/\/ Enable fullscreen instead of disabling it\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                iframe.setAttribute('mozallowfullscreen', 'true');\n                \n                debugMessage('Set allowfullscreen=true for Loom iframe #' + loomCount);\n                \n                \/\/ Listen for fullscreen events on Loom iframe\n                try {\n                    iframe.addEventListener('fullscreenchange', function() {\n                        if (document.fullscreenElement === iframe) {\n                            debugMessage('Loom fullscreen ENTER detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            debugMessage('Loom fullscreen EXIT detected'); \n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenExit',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    iframe.addEventListener('webkitfullscreenchange', function() {\n                        if (document.webkitFullscreenElement === iframe) {\n                            debugMessage('Loom webkit fullscreen ENTER detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            debugMessage('Loom webkit fullscreen EXIT detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenExit', \n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    debugMessage('Added fullscreen event listeners to Loom iframe #' + loomCount);\n                } catch(e) {\n                    debugMessage('Could not add fullscreen listeners: ' + e.message);\n                }\n            }\n        });\n        \n        if (loomCount > 0) {\n            debugMessage('Total Loom iframes processed: ' + loomCount);\n        } else {\n            debugMessage('No Loom iframes found');\n        }\n    }\n\n    \/\/ Run initially\n    modifyLoomIframes();\n\n    \/\/ Enhanced observer for Loom changes\n    var loomObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    shouldCheck = true;\n                }\n            });\n        });\n        \n        if (shouldCheck) {\n            debugMessage('New iframe detected, re-checking Loom videos');\n            setTimeout(modifyLoomIframes, 100);\n        }\n    });\n\n    loomObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true\n    });\n    \n    \/\/ Additional periodic check specifically for Loom embeds\n    setInterval(function() {\n        modifyLoomIframes();\n    }, 3000);\n    \n    debugMessage('Loom script setup complete');\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28565,
+      "offset": 52923,
       "length": 5,
       "value": "false"
     },

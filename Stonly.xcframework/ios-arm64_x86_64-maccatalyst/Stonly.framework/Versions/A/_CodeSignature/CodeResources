@@ -44,7 +44,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bq9n7lRkEREEAzwFN0VA5uZrtPBXkgIDTLq0JNEmTKI=
+			ELUpuIHl3ENSUXCAkitvN22dR2aCRujAGnB09YprLe8=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lVpgiDwq1EVYVdGlP1KeDWdWzrgl86zOZbnSDKZgcqs=
+			ImgZKgwLZavLkviaDabp0BiChKFYVWwQosTeODOg7/M=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bq9n7lRkEREEAzwFN0VA5uZrtPBXkgIDTLq0JNEmTKI=
+			ELUpuIHl3ENSUXCAkitvN22dR2aCRujAGnB09YprLe8=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ARh3U4eeErjuyk5fCMfEymg+pyUflqFJh9iRc6HPMJQ=
+			zH+j9FzL+HDYdzL8+ESvuPbTKGy3by8zABCaaKvCH4k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

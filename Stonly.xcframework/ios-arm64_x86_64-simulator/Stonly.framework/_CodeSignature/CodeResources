@@ -22,11 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NmkmpvEUuaT9JSVj3LEqw2L43yM=
+		EpAt/mxfUEuRDAqgJTdsRRwANXU=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		BAQNFFmLwVrxW33/SFP1FF5tZkY=
+		GLEbzVzGojUMCBthQsquLgcP0Rc=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		utfE2CNaIHQZkf6Mf+YRlexD8wQ=
+		n3Sl7Gi/Vp3Xa0cjHQLSQZ5ZRGg=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		BAQNFFmLwVrxW33/SFP1FF5tZkY=
+		GLEbzVzGojUMCBthQsquLgcP0Rc=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aZzWAxazdlUq30l4jRdtRImx/rI=
+		ENXDKfKPuePgrqHfOYSIVIPDTII=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			66u8IEtE8z71seOoQepMp8+N46KdZeIkrMNjPtLFR5w=
+			il8MofOoSxvT/qWIbOoQolH3vjsRAqDIIjj01RzZne0=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -135,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b3iKMmMM4PTzSi4B+++cBv1mkIYGIOGyhsNC2MB3nO8=
+			p94/aFKb/9X+DZqg64BJYWVuq9XjejBYcGlik2IKVI0=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			66u8IEtE8z71seOoQepMp8+N46KdZeIkrMNjPtLFR5w=
+			il8MofOoSxvT/qWIbOoQolH3vjsRAqDIIjj01RzZne0=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -170,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zyIQ6qgQo1R/kDx+IvULxRC6vwaPuxInEebktExrwms=
+			TkNzP9eaAJxocajzG/kvtsQXTuQ3HxNbK5h/byrcszo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

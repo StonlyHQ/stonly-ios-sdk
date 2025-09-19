@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		DeaV/qNPVZ6ttUNq+hhEbcyxxWA=
+		8q9rAx4CNfjYBXxWHctfM3UbIpg=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
@@ -44,7 +44,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			04m7uhxso6D4R/0N5HSZjR7AvmVLjHVJMzR/KfrlPfE=
+			toynoxZlE4YX5qY/uy+dy6/R9OvlwCjyxEdL1tGFzoE=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zYT5zs1treCLnHYtNI46sU1ivkHbaZwGVOjcSQ3WZsM=
+			YwFdUO85JDBGAlA9w11f7sBGhH1tsaO5QEYBCLgZmxc=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			04m7uhxso6D4R/0N5HSZjR7AvmVLjHVJMzR/KfrlPfE=
+			toynoxZlE4YX5qY/uy+dy6/R9OvlwCjyxEdL1tGFzoE=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PNnA4SP5Bf+MvuT8OGUVQ/XrUX46NNyh6KG+s7R8+tI=
+			DYffIzTzYwJG+Q9mZvNXQvpbv1evUaqES0dkGscjEcg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -121,7 +121,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			peNaHqsSSOJqBBbyZGHGITMjhbc0h0qKgogMcVs+n9Y=
+			8NVm3L8+nHLvXRFWYJDUL09lkd+6t8SSs51kYP0Hsf0=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

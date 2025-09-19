@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
 // swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name Stonly
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import CoreGraphics
 import Darwin
 import DeveloperToolsSupport
@@ -15,22 +15,29 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import _WebKit_SwiftUI
 import os.log
 import os
 @objc(StonlyWidgetDelegate) public protocol WidgetDelegate {
   @objc(stonlyWidgetDidSendEvent:) optional func stonlyWidgetDidSend(event: Any)
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc(stonlyWidgetWillOpenWithWidgetRuleId:window:) optional func stonlyWidgetWillOpen(widgetRuleId: Swift.String, window: UIKit.UIWindow?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc(stonlyWidgetDidCloseWithWidgetRuleId:window:) optional func stonlyWidgetDidClose(widgetRuleId: Swift.String, window: UIKit.UIWindow?)
+  #endif
   @objc(stonlyWidgetDidFailLoadingWithError:) optional func stonlyWidgetDidFailLoading(error: any Swift.Error)
 }
 @_inheritsConvenienceInitializers @objc(StonlyWidget) public class Widget : ObjectiveC.NSObject {
   @available(iOS 13.0, *)
   @objc public class func handleURL(_ url: Foundation.URL, scene: UIKit.UIScene) -> Swift.Bool
   @objc public class func handleURL(_ url: Foundation.URL) -> Swift.Bool
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class var widgetId: Swift.String? {
     @objc get
     @objc set
   }
+  #endif
   @objc public class var hasSwiftUI: Swift.Bool {
     @objc get
     @objc set
@@ -44,15 +51,27 @@ import os
     @objc set
   }
   @objc weak public static var delegate: (any Stonly.WidgetDelegate)?
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func setSegmentAnonymousId(_ segmentAnonymousId: Swift.String?)
+  #endif
   @objc public class func sendData(_ data: Any)
   @objc public class func clearSentData()
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func setWidgetLanguage(_ languageCode: Swift.String?)
+  #endif
   @objc public class func setWindowLevel(_ windowLevel: UIKit.UIWindow.Level)
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func openGuide(_ guideId: Swift.String, stepId: Swift.String? = nil, widgetOptions: Stonly.Widget.Options? = nil, window: UIKit.UIWindow? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func openGuidedTour(_ guideId: Swift.String, stepId: Swift.String? = nil, window: UIKit.UIWindow? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func openKnowledgeBase(_ teamKnowledgeBaseId: Swift.String, folderId: Swift.String?, window: UIKit.UIWindow? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func closeWidget(_ widgetRuleId: Swift.String? = nil, window: UIKit.UIWindow? = nil)
+  #endif
   @_inheritsConvenienceInitializers @objc(StonlyWidgetOptions) public class Options : ObjectiveC.NSObject {
     @objc public var placement: Stonly.Widget.Options.Placement
     @objc(StonlyWidgetPlacement) public enum Placement : Swift.Int {
@@ -60,7 +79,9 @@ import os
       case dialog
       case popover
       case fullscreen
+      #if compiler(>=5.3) && $NonescapableTypes
       public init?(rawValue: Swift.Int)
+      #endif
       public typealias RawValue = Swift.Int
       public var rawValue: Swift.Int {
         get
@@ -69,7 +90,9 @@ import os
     @objc override dynamic public init()
     @objc deinit
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc public class func identify(_ customerId: Swift.String? = nil, properties: [Swift.String : Any]? = nil, darkMode: Swift.Bool = false)
+  #endif
   @objc public class func track(_ eventName: Swift.String)
   @objc public class func didChangeScreen(_ screenName: Swift.String)
   @objc public class func setStonlyEnabled(_ enabled: Swift.Bool)
@@ -77,6 +100,20 @@ import os
   @objc override dynamic public init()
   @objc deinit
 }
+@available(iOS 13.0, *)
+extension SwiftUICore.View {
+  nonisolated public func stonlyIdentifier(_ identifier: Swift.String) -> some SwiftUICore.View
+  
+}
+@available(iOS 13.0, *)
+@_Concurrency.MainActor @preconcurrency public struct StonlyUniqueIdModifier : SwiftUICore.ViewModifier {
+  @_Concurrency.MainActor @preconcurrency public func body(content: Stonly.StonlyUniqueIdModifier.Content) -> some SwiftUICore.View
+  
+  @available(iOS 13.0, *)
+  public typealias Body = @_opaqueReturnTypeOf("$s6Stonly0A16UniqueIdModifierV4body7contentQr7SwiftUI05_ViewD8_ContentVyACG_tF", 0) __
+}
 extension Stonly.Widget.Options.Placement : Swift.Equatable {}
 extension Stonly.Widget.Options.Placement : Swift.Hashable {}
 extension Stonly.Widget.Options.Placement : Swift.RawRepresentable {}
+@available(iOS 13.0, *)
+extension Stonly.StonlyUniqueIdModifier : Swift.Sendable {}

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		YG3Law5N48uZWGIOCSAKIvIKHJc=
+		+hrlbJKbfZ4k0+l2/b6aeq0A8OA=
 		</data>
 		<key>Headers/NSData+StonlyGZIP.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nCe72x1+f3vizEim/ezDROKM4bY=
+		1/ugqWlWWHPfniJ6pbM7UrBbKF8=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		GIB7zWHE1xXab2r0pgJBL6GlE/c=
+		m8QV7kQ8UTG7k/79b7rCp55A+FY=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OOr3EfleOZQOD4tgNB3plbIoi8E=
+		gr2V2+DKHOQ8h7bxy+6a2KMs6dQ=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		GIB7zWHE1xXab2r0pgJBL6GlE/c=
+		m8QV7kQ8UTG7k/79b7rCp55A+FY=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1LKt3WBwmPHJlFMxOfft1xGbNB4=
+		lpRalQ/agCsSYgorXHpUA5XEZ8Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FQ0zvRYfHE4aBNJaMgUFOEq29BiAVPHGvY1wDlSh/ok=
+			2dp6sRq3iU7IcMXzLD8Q2zo5DBdcmzrsTTGHLJLoIAM=
 			</data>
 		</dict>
 		<key>Headers/NSData+StonlyGZIP.h</key>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			52Tx+uTUMcyTY+Eu+DnPbLJBTrjXlcaKzXgoXulTNEU=
+			lEB8hjMAxPgR7pNGLFFhB5NyM7bYBiR+48T9XGFtYFM=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -135,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wI15ZYLj6868hQ6iPyvRgIFroflkBhIP1tdWX4u8u3s=
+			ty2x3L363uQBFdVsv1A9CxWwTzp9q7KaOAPOZAxg50E=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			52Tx+uTUMcyTY+Eu+DnPbLJBTrjXlcaKzXgoXulTNEU=
+			lEB8hjMAxPgR7pNGLFFhB5NyM7bYBiR+48T9XGFtYFM=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -170,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yFG+QllmGLJ/gguoSfB+pRUjR24AREs6liBD66X3ANA=
+			BGFIAfrfNxD5JwzsDXUcnFYr1g4U4R82MMidqumDPkk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

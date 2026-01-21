@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		nRtMqpWVt0U4IbfjXU+Q8w0wF4E=
+		rmw55UmQMO/Zsu8WaZ1zN92o+sE=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		iBicDMNp0cJpciSpMCz+FhKlm4Q=
+		q+eczvSc9H3XmKGIQhtD2Az6wsI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		ttxPa1EH+lpQWVT2grhVFL0DIxw=
+		PFHYbs0V3eUFDWQyYQcwEetuqEk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TAfdW3YPC+ZZqaAd8uvLlmmuXQ/Ebz56/MCDVJs5EFY=
+			UhWilBxJylJFS6Q3lhiit5lEU4w0+lpOVJwQWJz96C8=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aLT2QvnVljyIoikDNpMeIxt0Ya5LKChpnI1N7hU9xAQ=
+			7akrWXYbq5fjzHb9plhKF+a+rGR+RasozHsau+zidgo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -129,7 +129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PonLzPoHlAeRvKvC+WrHWpDHP/FoGgilrx/s/C0RQSM=
+			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
 			</data>
 		</dict>
 	</dict>

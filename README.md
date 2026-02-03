@@ -1,5 +1,5 @@
 Stonly iOS implementation.
-v1.0.25
+v1.0.26
 
 Stonly: modern knowledge for customer service.
 

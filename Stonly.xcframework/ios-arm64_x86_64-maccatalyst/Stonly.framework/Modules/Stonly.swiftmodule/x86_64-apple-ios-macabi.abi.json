@@ -4942,41 +4942,41 @@
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 449,
-      "length": 14,
-      "value": "\"1.0.25-BETA1\""
+      "length": 8,
+      "value": "\"1.0.25\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "Array",
-      "offset": 502,
+      "offset": 496,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "BooleanLiteral",
-      "offset": 532,
+      "offset": 526,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "StringLiteral",
-      "offset": 568,
+      "offset": 562,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "StringLiteral",
-      "offset": 603,
+      "offset": 597,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "BooleanLiteral",
-      "offset": 639,
+      "offset": 633,
       "length": 5,
       "value": "false"
     },

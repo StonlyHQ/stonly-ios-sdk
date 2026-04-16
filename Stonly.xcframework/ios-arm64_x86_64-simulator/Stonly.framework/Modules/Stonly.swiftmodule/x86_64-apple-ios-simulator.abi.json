@@ -23,6 +23,16 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
         "moduleName": "Stonly"
       },
       {
@@ -1769,17 +1779,17 @@
                   },
                   {
                     "kind": "Conformance",
-                    "name": "Escapable",
-                    "printedName": "Escapable",
-                    "usr": "s:s9EscapableP",
-                    "mangledName": "$ss9EscapableP"
-                  },
-                  {
-                    "kind": "Conformance",
                     "name": "Equatable",
                     "printedName": "Equatable",
                     "usr": "s:SQ",
                     "mangledName": "$sSQ"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Escapable",
+                    "printedName": "Escapable",
+                    "usr": "s:s9EscapableP",
+                    "mangledName": "$ss9EscapableP"
                   },
                   {
                     "kind": "Conformance",
@@ -1856,38 +1866,10 @@
             "conformances": [
               {
                 "kind": "Conformance",
-                "name": "Copyable",
-                "printedName": "Copyable",
-                "usr": "s:s8CopyableP",
-                "mangledName": "$ss8CopyableP"
-              },
-              {
-                "kind": "Conformance",
-                "name": "Escapable",
-                "printedName": "Escapable",
-                "usr": "s:s9EscapableP",
-                "mangledName": "$ss9EscapableP"
-              },
-              {
-                "kind": "Conformance",
-                "name": "Equatable",
-                "printedName": "Equatable",
-                "usr": "s:SQ",
-                "mangledName": "$sSQ"
-              },
-              {
-                "kind": "Conformance",
-                "name": "Hashable",
-                "printedName": "Hashable",
-                "usr": "s:SH",
-                "mangledName": "$sSH"
-              },
-              {
-                "kind": "Conformance",
-                "name": "CVarArg",
-                "printedName": "CVarArg",
-                "usr": "s:s7CVarArgP",
-                "mangledName": "$ss7CVarArgP"
+                "name": "_KeyValueCodingAndObserving",
+                "printedName": "_KeyValueCodingAndObserving",
+                "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+                "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
               },
               {
                 "kind": "Conformance",
@@ -1898,10 +1880,24 @@
               },
               {
                 "kind": "Conformance",
-                "name": "_KeyValueCodingAndObserving",
-                "printedName": "_KeyValueCodingAndObserving",
-                "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-                "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+                "name": "CVarArg",
+                "printedName": "CVarArg",
+                "usr": "s:s7CVarArgP",
+                "mangledName": "$ss7CVarArgP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomDebugStringConvertible",
+                "printedName": "CustomDebugStringConvertible",
+                "usr": "s:s28CustomDebugStringConvertibleP",
+                "mangledName": "$ss28CustomDebugStringConvertibleP"
               },
               {
                 "kind": "Conformance",
@@ -1912,10 +1908,24 @@
               },
               {
                 "kind": "Conformance",
-                "name": "CustomDebugStringConvertible",
-                "printedName": "CustomDebugStringConvertible",
-                "usr": "s:s28CustomDebugStringConvertibleP",
-                "mangledName": "$ss28CustomDebugStringConvertibleP"
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
               }
             ]
           },
@@ -2183,38 +2193,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -2225,10 +2207,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -2239,10 +2235,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           }
         ]
       },
@@ -2255,6 +2265,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Stonly"
       },
       {
         "kind": "Import",
@@ -2926,6 +2943,13 @@
       },
       {
         "kind": "Import",
+        "name": "ObjectiveC",
+        "printedName": "ObjectiveC",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -2933,6 +2957,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhotosUI",
+        "printedName": "PhotosUI",
+        "declKind": "Import",
+        "moduleName": "Stonly"
       },
       {
         "kind": "Import",
@@ -2997,38 +3028,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -3039,10 +3042,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -3053,10 +3070,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           },
           {
             "kind": "Conformance",
@@ -3095,38 +3126,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -3137,17 +3140,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
           },
           {
             "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
           },
           {
             "kind": "Conformance",
@@ -3158,10 +3161,45 @@
           },
           {
             "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
             "name": "Sendable",
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
           },
           {
             "kind": "Conformance",
@@ -3176,13 +3214,6 @@
             "printedName": "UITraitChangeObservable",
             "usr": "s:5UIKit23UITraitChangeObservableP",
             "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
           }
         ]
       },
@@ -3219,6 +3250,56 @@
             "declKind": "Func",
             "usr": "s:7SwiftUI4ViewP6StonlyE16stonlyIdentifieryQrSSF",
             "mangledName": "$s7SwiftUI4ViewP6StonlyE16stonlyIdentifieryQrSSF",
+            "moduleName": "Stonly",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+            "sugared_genericSig": "<Self where Self : SwiftUI.View>",
+            "declAttributes": [
+              "AccessControl",
+              "Nonisolated",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stonlyTappable",
+            "printedName": "stonlyTappable(action:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SwiftUI4ViewP6StonlyE14stonlyTappable6actionQryyc_tF",
+            "mangledName": "$s7SwiftUI4ViewP6StonlyE14stonlyTappable6actionQryyc_tF",
             "moduleName": "Stonly",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Self where Self : SwiftUI.View>",
@@ -3280,14 +3361,60 @@
         "declKind": "Struct",
         "usr": "c:@S@CGRect",
         "moduleName": "CoreFoundation",
+        "declAttributes": [
+          "SynthesizedProtocol",
+          "Sendable"
+        ],
         "isExternal": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          },
           {
             "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
             "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -3298,6 +3425,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Sendable",
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
@@ -3305,10 +3446,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "BitwiseCopyable",
-            "printedName": "BitwiseCopyable",
-            "usr": "s:s15BitwiseCopyableP",
-            "mangledName": "$ss15BitwiseCopyableP"
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
           },
           {
             "kind": "Conformance",
@@ -3331,55 +3472,6 @@
             ],
             "usr": "s:s21_ObjectiveCBridgeableP",
             "mangledName": "$ss21_ObjectiveCBridgeableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomReflectable",
-            "printedName": "CustomReflectable",
-            "usr": "s:s17CustomReflectableP",
-            "mangledName": "$ss17CustomReflectableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_CustomPlaygroundQuickLookable",
-            "printedName": "_CustomPlaygroundQuickLookable",
-            "usr": "s:s30_CustomPlaygroundQuickLookableP",
-            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Decodable",
-            "printedName": "Decodable",
-            "usr": "s:Se",
-            "mangledName": "$sSe"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Encodable",
-            "printedName": "Encodable",
-            "usr": "s:SE",
-            "mangledName": "$sSE"
           },
           {
             "kind": "Conformance",
@@ -3454,14 +3546,60 @@
         "declKind": "Struct",
         "usr": "c:@S@CGPoint",
         "moduleName": "CoreFoundation",
+        "declAttributes": [
+          "SynthesizedProtocol",
+          "Sendable"
+        ],
         "isExternal": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          },
           {
             "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
             "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -3472,6 +3610,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Sendable",
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
@@ -3479,10 +3631,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "BitwiseCopyable",
-            "printedName": "BitwiseCopyable",
-            "usr": "s:s15BitwiseCopyableP",
-            "mangledName": "$ss15BitwiseCopyableP"
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
           },
           {
             "kind": "Conformance",
@@ -3505,55 +3657,6 @@
             ],
             "usr": "s:s21_ObjectiveCBridgeableP",
             "mangledName": "$ss21_ObjectiveCBridgeableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomReflectable",
-            "printedName": "CustomReflectable",
-            "usr": "s:s17CustomReflectableP",
-            "mangledName": "$ss17CustomReflectableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_CustomPlaygroundQuickLookable",
-            "printedName": "_CustomPlaygroundQuickLookable",
-            "usr": "s:s30_CustomPlaygroundQuickLookableP",
-            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Decodable",
-            "printedName": "Decodable",
-            "usr": "s:Se",
-            "mangledName": "$sSe"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Encodable",
-            "printedName": "Encodable",
-            "usr": "s:SE",
-            "mangledName": "$sSE"
           },
           {
             "kind": "Conformance",
@@ -3600,14 +3703,60 @@
         "declKind": "Struct",
         "usr": "c:@S@CGSize",
         "moduleName": "CoreFoundation",
+        "declAttributes": [
+          "SynthesizedProtocol",
+          "Sendable"
+        ],
         "isExternal": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          },
           {
             "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
             "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -3618,6 +3767,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Sendable",
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
@@ -3625,10 +3788,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "BitwiseCopyable",
-            "printedName": "BitwiseCopyable",
-            "usr": "s:s15BitwiseCopyableP",
-            "mangledName": "$ss15BitwiseCopyableP"
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
           },
           {
             "kind": "Conformance",
@@ -3651,55 +3814,6 @@
             ],
             "usr": "s:s21_ObjectiveCBridgeableP",
             "mangledName": "$ss21_ObjectiveCBridgeableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomReflectable",
-            "printedName": "CustomReflectable",
-            "usr": "s:s17CustomReflectableP",
-            "mangledName": "$ss17CustomReflectableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_CustomPlaygroundQuickLookable",
-            "printedName": "_CustomPlaygroundQuickLookable",
-            "usr": "s:s30_CustomPlaygroundQuickLookableP",
-            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Decodable",
-            "printedName": "Decodable",
-            "usr": "s:Se",
-            "mangledName": "$sSe"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Encodable",
-            "printedName": "Encodable",
-            "usr": "s:SE",
-            "mangledName": "$sSE"
           },
           {
             "kind": "Conformance",
@@ -3767,38 +3881,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -3809,17 +3895,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
           },
           {
             "kind": "Conformance",
@@ -3830,17 +3923,38 @@
           },
           {
             "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
             "name": "Sendable",
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "SendableMetatype",
-            "printedName": "SendableMetatype",
-            "usr": "s:s16SendableMetatypeP",
-            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -3873,38 +3987,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -3915,10 +4001,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -3929,10 +4029,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           },
           {
             "kind": "Conformance",
@@ -3986,38 +4100,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -4028,10 +4114,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -4042,10 +4142,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           },
           {
             "kind": "Conformance",
@@ -4063,17 +4177,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -4106,38 +4220,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -4148,10 +4234,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -4162,10 +4262,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           },
           {
             "kind": "Conformance",
@@ -4183,17 +4297,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -4226,38 +4340,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -4268,10 +4354,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -4282,10 +4382,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           },
           {
             "kind": "Conformance",
@@ -4303,17 +4417,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       }
@@ -4355,6 +4469,97 @@
       "offset": 5895,
       "length": 3,
       "value": "\".\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "BooleanLiteral",
+      "offset": 282,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "FloatLiteral",
+      "offset": 786,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "FloatLiteral",
+      "offset": 993,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "FloatLiteral",
+      "offset": 1210,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1303,
+      "length": 3,
+      "value": "230"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "FloatLiteral",
+      "offset": 1307,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1321,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "FloatLiteral",
+      "offset": 1324,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1337,
+      "length": 3,
+      "value": "104"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "FloatLiteral",
+      "offset": 1341,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "FloatLiteral",
+      "offset": 1355,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "FloatLiteral",
+      "offset": 1400,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1516,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/UIImage+Scale.swift",
@@ -4631,50 +4836,57 @@
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5044,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5236,
-      "length": 8,
-      "value": "0x1e8098"
+      "offset": 5093,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5485,
+      "offset": 5424,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5888,
-      "length": 4,
-      "value": "true"
+      "kind": "IntegerLiteral",
+      "offset": 5473,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "FloatLiteral",
-      "offset": 6132,
+      "offset": 5650,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6334,
+      "offset": 5852,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 10438,
+      "offset": 9956,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/WidgetManager.swift",
       "kind": "StringLiteral",
-      "offset": 11315,
+      "offset": 10833,
       "length": 55,
       "value": "\"StonlyWidget.KeyboardScreenFrameDidChangeNotification\""
     },
@@ -4842,56 +5054,56 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2567,
+      "offset": 2994,
       "length": 19,
       "value": "\"StonlyLaunchCount\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2618,
+      "offset": 3045,
       "length": 23,
       "value": "\"StonlyAutoLaunchCount\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2677,
+      "offset": 3104,
       "length": 27,
       "value": "\"StonlyDisabledByUserCount\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2732,
+      "offset": 3159,
       "length": 19,
       "value": "\"StonlyCurrentStep\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2779,
+      "offset": 3206,
       "length": 19,
       "value": "\"StonlyAnonymousId\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2821,
+      "offset": 3248,
       "length": 14,
       "value": "\"StonlyUserId\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2870,
+      "offset": 3297,
       "length": 26,
       "value": "\"StonlySegmentAnonymousId\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
       "kind": "StringLiteral",
-      "offset": 2923,
+      "offset": 3350,
       "length": 18,
       "value": "\"StonlyCustomerId\""
     },
@@ -4905,49 +5117,49 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/TourOperator\/TourOperator.swift",
       "kind": "BooleanLiteral",
-      "offset": 4125,
+      "offset": 4829,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/TourOperator\/TourOperator.swift",
       "kind": "BooleanLiteral",
-      "offset": 4253,
+      "offset": 4957,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/TourOperator\/TourOperator.swift",
       "kind": "BooleanLiteral",
-      "offset": 15235,
+      "offset": 15705,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/TourOperator\/TourOperator.swift",
       "kind": "BooleanLiteral",
-      "offset": 15270,
+      "offset": 15740,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/TourOperator\/TourOperator.swift",
       "kind": "BooleanLiteral",
-      "offset": 17835,
+      "offset": 18917,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/TourOperator\/TourOperator.swift",
       "kind": "BooleanLiteral",
-      "offset": 20213,
+      "offset": 21295,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/TourOperator\/TourOperator.swift",
       "kind": "BooleanLiteral",
-      "offset": 21293,
+      "offset": 22568,
       "length": 5,
       "value": "false"
     },
@@ -5040,7 +5252,7 @@
       "kind": "StringLiteral",
       "offset": 449,
       "length": 8,
-      "value": "\"1.0.27\""
+      "value": "\"1.0.29\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
@@ -5169,6 +5381,13 @@
       "value": "0"
     },
     {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/DOMElement.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1571,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Wizard\/WidgetManager+Wizard.swift",
       "kind": "IntegerLiteral",
       "offset": 2549,
@@ -5192,16 +5411,51 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 558,
+      "offset": 554,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 1653,
+      "offset": 798,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1063,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2664,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3455,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3494,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3536,
+      "length": 3,
+      "value": "100"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Framework\/Widget.swift",
@@ -5486,154 +5740,154 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 744,
+      "offset": 858,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 846,
+      "offset": 960,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 872,
+      "offset": 986,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 916,
+      "offset": 1030,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 6215,
+      "offset": 6660,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 20332,
+      "offset": 27203,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 20414,
+      "offset": 27285,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 20564,
+      "offset": 27435,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 20648,
+      "offset": 27519,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 20804,
+      "offset": 27675,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 20886,
+      "offset": 27757,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 21036,
+      "offset": 27907,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 21120,
+      "offset": 27991,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 21193,
+      "offset": 28064,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 21201,
+      "offset": 28072,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 21418,
+      "offset": 28289,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 21440,
+      "offset": 28311,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 22036,
+      "offset": 28907,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 22058,
+      "offset": 28929,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 22966,
+      "offset": 29837,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 23050,
+      "offset": 29921,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 23178,
+      "offset": 30049,
       "length": 1,
       "value": "0"
     },
@@ -5776,6 +6030,13 @@
       "offset": 851,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Wizard\/WizardStreamer.swift",
+      "kind": "FloatLiteral",
+      "offset": 937,
+      "length": 4,
+      "value": "0.25"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/OverlayWindow.swift",
@@ -6571,217 +6832,217 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 8845,
+      "offset": 8940,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 8899,
+      "offset": 8994,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 8954,
+      "offset": 9049,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9010,
+      "offset": 9105,
       "length": 3,
       "value": "560"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9065,
+      "offset": 9160,
       "length": 3,
       "value": "560"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9123,
+      "offset": 9218,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9133,
+      "offset": 9228,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9145,
+      "offset": 9240,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9156,
+      "offset": 9251,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11441,
+      "offset": 11536,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11451,
+      "offset": 11546,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11463,
+      "offset": 11558,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11474,
+      "offset": 11569,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11538,
+      "offset": 11633,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11548,
+      "offset": 11643,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11560,
+      "offset": 11655,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11571,
+      "offset": 11666,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11634,
+      "offset": 11729,
       "length": 3,
       "value": "626"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11647,
+      "offset": 11742,
       "length": 3,
       "value": "480"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13406,
+      "offset": 13501,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13416,
+      "offset": 13511,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13428,
+      "offset": 13523,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13439,
+      "offset": 13534,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13492,
+      "offset": 13587,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13547,
+      "offset": 13642,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13603,
+      "offset": 13698,
       "length": 2,
       "value": "96"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13658,
+      "offset": 13753,
       "length": 3,
       "value": "690"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "FloatLiteral",
-      "offset": 19109,
+      "offset": 19204,
       "length": 4,
       "value": "0.95"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "FloatLiteral",
-      "offset": 19163,
+      "offset": 19258,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 19217,
+      "offset": 19312,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 23959,
+      "offset": 24112,
       "length": 3,
       "value": "335"
     },
@@ -7136,6 +7397,825 @@
       "value": "[]"
     },
     {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 14989,
+      "length": 50,
+      "value": "\"\/System\/Library\/Frameworks\/IOKit.framework\/IOKit\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 15074,
+      "length": 48,
+      "value": "\"[synthesizeTap-rawHID] FAIL: cannot load IOKit\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15143,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 15935,
+      "length": 32,
+      "value": "\"IOHIDEventCreateDigitizerEvent\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 16016,
+      "length": 38,
+      "value": "\"IOHIDEventCreateDigitizerFingerEvent\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 16100,
+      "length": 23,
+      "value": "\"IOHIDEventAppendEvent\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 16169,
+      "length": 27,
+      "value": "\"IOHIDEventSetIntegerValue\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 16245,
+      "length": 23,
+      "value": "\"IOHIDEventSetSenderID\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 16301,
+      "length": 52,
+      "value": "\"[synthesizeTap-rawHID] FAIL: missing IOKit symbols\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16374,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 16836,
+      "length": 18,
+      "value": "\"_handleHIDEvent:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 16943,
+      "length": 61,
+      "value": "\"[synthesizeTap-rawHID] FAIL: _handleHIDEvent: not available\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17025,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17113,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17132,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17148,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17320,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17370,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17423,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17577,
+      "length": 10,
+      "value": "0x000b0018"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17759,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17762,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17765,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17774,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17807,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 17819,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 17825,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17830,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17865,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18002,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18005,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18044,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 18056,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 18062,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18067,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18102,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18258,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18291,
+      "length": 18,
+      "value": "0x8000000817319375"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18420,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 18438,
+      "length": 58,
+      "value": "\"[synthesizeTap-rawHID] touch-down sent at \""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 18495,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 18556,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18593,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 18616,
+      "length": 56,
+      "value": "\"[synthesizeTap-rawHID] touch-up sent at \""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 18671,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 18735,
+      "length": 4,
+      "value": "0.05"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18836,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 25197,
+      "length": 50,
+      "value": "\"\/System\/Library\/Frameworks\/IOKit.framework\/IOKit\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 25608,
+      "length": 32,
+      "value": "\"IOHIDEventCreateDigitizerEvent\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 25804,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 25823,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 25988,
+      "length": 6,
+      "value": "0x0001"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 25997,
+      "length": 6,
+      "value": "0x0002"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26006,
+      "length": 6,
+      "value": "0x0008"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26103,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26106,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26109,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26118,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26147,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 26171,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 26177,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26182,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26213,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 26478,
+      "length": 50,
+      "value": "\"\/System\/Library\/Frameworks\/IOKit.framework\/IOKit\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 26563,
+      "length": 45,
+      "value": "\"[synthesizeTap-HID] FAIL: cannot load IOKit\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26629,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 28011,
+      "length": 32,
+      "value": "\"IOHIDEventCreateDigitizerEvent\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 28095,
+      "length": 38,
+      "value": "\"IOHIDEventCreateDigitizerFingerEvent\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 28184,
+      "length": 23,
+      "value": "\"IOHIDEventAppendEvent\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 28240,
+      "length": 54,
+      "value": "\"[synthesizeTap-HID] FAIL: required symbols not found\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 28315,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28665,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28684,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 28700,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 28875,
+      "length": 19,
+      "value": "\"_enqueueHIDEvent:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 28984,
+      "length": 59,
+      "value": "\"[synthesizeTap-HID] FAIL: _enqueueHIDEvent: not available\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 29064,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29129,
+      "length": 10,
+      "value": "0x00000001"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29188,
+      "length": 10,
+      "value": "0x00000002"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29250,
+      "length": 10,
+      "value": "0x00000008"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29606,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29609,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29612,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29685,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29718,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 29746,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 29752,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29757,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29808,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29965,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 29968,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 30055,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 30083,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 30089,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 30094,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 30145,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 30366,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 30429,
+      "length": 4,
+      "value": "0.08"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 30467,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 30490,
+      "length": 53,
+      "value": "\"[synthesizeTap-HID] touch-up sent at \""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 30542,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "FloatLiteral",
+      "offset": 30606,
+      "length": 4,
+      "value": "0.05"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 30707,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 34234,
+      "length": 37,
+      "value": "\"_setLocationInWindow:resetPrevious:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 34762,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 34905,
+      "length": 15,
+      "value": "\"_touchesEvent\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 35219,
+      "length": 15,
+      "value": "\"_clearTouches\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 35387,
+      "length": 31,
+      "value": "\"_addTouch:forDelayedDelivery:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 35944,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 36019,
+      "length": 33,
+      "value": "\"_setTouches:forDelayedDelivery:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 36428,
+      "length": 14,
+      "value": "\"NSInvocation\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 36523,
+      "length": 29,
+      "value": "\"methodSignatureForSelector:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 36678,
+      "length": 32,
+      "value": "\"invocationWithMethodSignature:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 36869,
+      "length": 14,
+      "value": "\"setSelector:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 36943,
+      "length": 12,
+      "value": "\"setTarget:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "StringLiteral",
+      "offset": 37039,
+      "length": 22,
+      "value": "\"setArgument:atIndex:\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIView+SimulatedTap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 37443,
+      "length": 1,
+      "value": "2"
+    },
+    {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Wizard\/StonlyWizard.swift",
       "kind": "StringLiteral",
       "offset": 3365,
@@ -7236,695 +8316,688 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 4838,
+      "offset": 11741,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 5354,
+      "offset": 12257,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 8545,
+      "offset": 15448,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 8567,
+      "offset": 15470,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 8825,
+      "offset": 15728,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 8847,
+      "offset": 15750,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4272,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 4741,
+      "offset": 9623,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 6984,
+      "offset": 12241,
       "length": 5,
       "value": "\"RCT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 7014,
+      "offset": 12271,
       "length": 13,
       "value": "\"RCTTextView\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 7441,
+      "offset": 12698,
       "length": 15,
       "value": "\"UIHostingView\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 7480,
+      "offset": 12737,
       "length": 19,
       "value": "\"HostingScrollView\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 7523,
+      "offset": 12780,
       "length": 15,
       "value": "\"CGDrawingView\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 7562,
+      "offset": 12819,
       "length": 16,
       "value": "\"UIGraphicsView\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 13286,
+      "length": 13,
+      "value": "\"UITabButton\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 8399,
+      "offset": 14054,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 9741,
+      "offset": 15396,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 9812,
+      "offset": 15467,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 9878,
+      "offset": 15533,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 9947,
+      "offset": 15602,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 10015,
+      "offset": 15670,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 10085,
+      "offset": 15740,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 10155,
+      "offset": 15810,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 10222,
+      "offset": 15877,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 10303,
+      "offset": 15958,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 15015,
+      "offset": 20670,
       "length": 26,
       "value": "\"accessibility-identifier\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 15071,
+      "offset": 20726,
       "length": 6,
       "value": "\"path\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 15111,
+      "offset": 20766,
       "length": 24,
       "value": "\"restoration-identifier\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 15199,
+      "offset": 20854,
       "length": 18,
       "value": "\"react-native-tag\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "IntegerLiteral",
-      "offset": 15376,
+      "offset": 21031,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "Array",
+      "offset": 21212,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 15769,
+      "offset": 21672,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 16037,
+      "offset": 22078,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "BooleanLiteral",
-      "offset": 16067,
+      "offset": 22108,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 17700,
+      "offset": 25848,
       "length": 10,
       "value": "\"page-url\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 17739,
+      "offset": 25887,
       "length": 18,
       "value": "\"controller-class\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 20649,
+      "offset": 28797,
       "length": 19,
       "value": "\"stonly-identifier\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 20740,
+      "offset": 28888,
       "length": 19,
       "value": "\"swiftui-view-type\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 20790,
+      "offset": 28938,
       "length": 14,
       "value": "\"swiftui-text\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 20847,
+      "offset": 28995,
       "length": 34,
       "value": "\"swiftui-accessibility-identifier\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 20919,
+      "offset": 29067,
       "length": 29,
       "value": "\"swiftui-accessibility-label\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 20977,
+      "offset": 29125,
       "length": 20,
       "value": "\"swiftui-view-index\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 27606,
+      "offset": 35754,
       "length": 6,
       "value": "\"text\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 27633,
+      "offset": 35781,
       "length": 11,
       "value": "\"text-i18n\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 27665,
+      "offset": 35813,
       "length": 11,
       "value": "\"font-name\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 27697,
+      "offset": 35845,
       "length": 11,
       "value": "\"font-size\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 27730,
+      "offset": 35878,
       "length": 12,
       "value": "\"font-style\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 38964,
+      "offset": 36996,
+      "length": 6,
+      "value": "\"text\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 37033,
+      "length": 21,
+      "value": "\"accessibility-label\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
+      "kind": "StringLiteral",
+      "offset": 48105,
       "length": 15,
       "value": "\"keyboard-type\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 39035,
+      "offset": 48176,
       "length": 17,
       "value": "\"return-key-type\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 39123,
+      "offset": 48264,
       "length": 22,
       "value": "\"is-secure-text-entry\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 39173,
+      "offset": 48314,
       "length": 19,
       "value": "\"text-content-type\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 40731,
+      "offset": 49872,
       "length": 13,
       "value": "\"is-editable\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 42027,
+      "offset": 51168,
       "length": 18,
       "value": "\"reuse-identifier\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/HostFrameworks\/UIKit\/UIKit+DOMElement.swift",
       "kind": "StringLiteral",
-      "offset": 44813,
+      "offset": 53954,
       "length": 19,
       "value": "\"image-fingerprint\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 550,
+      "offset": 565,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 617,
+      "offset": 632,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 864,
+      "offset": 879,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 925,
+      "offset": 940,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1105,
+      "offset": 1120,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1165,
+      "offset": 1180,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11568,
+      "offset": 6916,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19280,
+      "offset": 13687,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19318,
+      "offset": 13725,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19356,
+      "offset": 13763,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24281,
+      "offset": 19075,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24347,
+      "offset": 19141,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24362,
+      "offset": 19156,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24428,
+      "offset": 19222,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24443,
+      "offset": 19237,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24957,
+      "offset": 19751,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25022,
+      "offset": 19816,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25037,
+      "offset": 19831,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25102,
+      "offset": 19896,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25117,
+      "offset": 19911,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20932,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34484,
+      "offset": 28464,
+      "length": 26,
+      "value": "\"NSCameraUsageDescription\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 28576,
       "length": 13,
       "value": "\"iosListener\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 34571,
+      "offset": 28679,
+      "length": 2237,
+      "value": "\"(function() {\n    if (window.__stonlyFileUploadInterceptInstalled) return;\n    window.__stonlyFileUploadInterceptInstalled = true;\n\n    var pendingFileInput = null;\n\n    document.addEventListener('click', function(e) {\n        var target = e.target;\n        while (target && target !== document) {\n            if (target.tagName === 'INPUT' && target.type === 'file') {\n                e.preventDefault();\n                e.stopPropagation();\n                e.stopImmediatePropagation();\n                pendingFileInput = target;\n                window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 29401,
+      "length": 1,
+      "value": "\".postMessage({\n                    type: 'stonlyFileUploadRequest',\n                    accept: target.accept || '',\n                    multiple: target.multiple || false\n                });\n                return false;\n            }\n            target = target.parentElement;\n        }\n    }, true);\n\n    window.__stonlySetFileOnInput = function(fileName, mimeType, base64Data) {\n        if (!pendingFileInput) return;\n        try {\n            var byteChars = atob(base64Data);\n            var byteNums = new Array(byteChars.length);\n            for (var i = 0; i < byteChars.length; i++) {\n                byteNums[i] = byteChars.charCodeAt(i);\n            }\n            var byteArray = new Uint8Array(byteNums);\n            var blob = new Blob([byteArray], { type: mimeType });\n            var file = new File([blob], fileName, { type: mimeType });\n            var dt = new DataTransfer();\n            dt.items.add(file);\n            pendingFileInput.files = dt.files;\n            var evt = new Event('change', { bubbles: true });\n            pendingFileInput.dispatchEvent(evt);\n        } catch(err) {}\n        pendingFileInput = null;\n    };\n\n    window.__stonlyCancelFileUpload = function() {\n        pendingFileInput = null;\n    };\n})();\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 31010,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 31098,
       "length": 177,
       "value": "\"  var style = document.createElement('style');\n  style.innerHTML = '.progressBar { display: none; }';\n  document.head.appendChild(style);\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34907,
+      "offset": 31434,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35009,
+      "offset": 31536,
       "length": 164,
       "value": "\"window.addEventListener('message', function(e) { window.webkit.messageHandlers.\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35136,
+      "offset": 31663,
       "length": 1,
       "value": "\".postMessage(e.data); } )\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35267,
-      "length": 5,
-      "value": "false"
+      "offset": 31794,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 35362,
+      "offset": 31888,
       "length": 1422,
       "value": "\" (function() {\n     function updateCloseButtonBackground() {\n         \/\/ Find all buttons with class containing \"CloseButton__CloseFunction\"\n         var buttons = document.querySelectorAll('button[class*=\"CloseButton__CloseFunction\"]');\n         \n         buttons.forEach(function(button) {\n             \/\/ Find div elements inside the button \n\n             button.style.cssText += '; z-index: 1000 !important;';\n             var divs = button.querySelectorAll('div');\n             divs.forEach(function(div) {\n                 \/\/ Change background-color to black\n                 div.style.backgroundColor = 'rgb(0,0,0)';\n                 \n             });\n         });\n     }\n     \n     \/\/ Run initially\n     updateCloseButtonBackground();\n     \n     \/\/ Observer for close button changes\n     var closeButtonObserver = new MutationObserver(function(mutations) {\n         mutations.forEach(function(mutation) {\n             if (mutation.addedNodes.length > 0) {\n                 updateCloseButtonBackground();\n             }\n         });\n     });\n     \n     closeButtonObserver.observe(document.body, {\n         childList: true,\n         subtree: true\n     });\n })();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36878,
+      "offset": 33404,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 36969,
-      "length": 5696,
-      "value": "\"(function() {\n    console.log('[YOUTUBE DEBUG] Script started');\n    \n    function debugMessage(msg) {\n        console.log('[YOUTUBE DEBUG] ' + msg);\n        try {\n            window.webkit.messageHandlers.iosListener.postMessage({\n                type: 'debug',\n                message: '[YOUTUBE] ' + msg,\n                timestamp: Date.now()\n            });\n        } catch(e) {\n            console.log('Could not send debug message to iOS:', e);\n        }\n    }\n    \n    function modifyYouTubeIframes() {\n        var iframes = document.querySelectorAll('iframe'); \n        var youtubeCount = 0;\n        \n        iframes.forEach(function(iframe, index) {\n            if (iframe.src.includes('youtube.com\/embed') || iframe.src.includes('youtube-nocookie.com\/embed')) {\n                youtubeCount++;\n                debugMessage('Found YouTube iframe #' + youtubeCount + ': ' + iframe.src);\n                \n                \/\/ Enable fullscreen instead of disabling it\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                iframe.setAttribute('mozallowfullscreen', 'true');\n                \n                debugMessage('Set allowfullscreen=true for iframe #' + youtubeCount);\n                \n                \/\/ Listen for fullscreen events on YouTube iframe\n                try {\n                    iframe.addEventListener('fullscreenchange', function() {\n                        if (document.fullscreenElement === iframe) {\n                            debugMessage('YouTube fullscreen ENTER detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            debugMessage('YouTube fullscreen EXIT detected'); \n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenExit',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    iframe.addEventListener('webkitfullscreenchange', function() {\n                        if (document.webkitFullscreenElement === iframe) {\n                            debugMessage('YouTube webkit fullscreen ENTER detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            debugMessage('YouTube webkit fullscreen EXIT detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenExit', \n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    debugMessage('Added fullscreen event listeners to iframe #' + youtubeCount);\n                } catch(e) {\n                    debugMessage('Could not add fullscreen listeners: ' + e.message);\n                }\n            }\n        });\n        \n        if (youtubeCount > 0) {\n            debugMessage('Total YouTube iframes processed: ' + youtubeCount);\n        } else {\n            debugMessage('No YouTube iframes found');\n        }\n    }\n\n    \/\/ Run initially\n    modifyYouTubeIframes();\n\n    \/\/ Enhanced observer for YouTube changes\n    var youtubeObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    shouldCheck = true;\n                }\n            });\n        });\n        \n        if (shouldCheck) {\n            debugMessage('New iframe detected, re-checking YouTube videos');\n            setTimeout(modifyYouTubeIframes, 100);\n        }\n    });\n\n    youtubeObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true\n    });\n\n    \/\/ Additional periodic check specifically for YouTube embeds\n    setInterval(function() {\n        modifyYouTubeIframes();\n    }, 3000);\n    \n    debugMessage('YouTube script setup complete');\n})();\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 42678,
-      "length": 21,
-      "value": "\"youtubeScript added\""
+      "offset": 33495,
+      "length": 4017,
+      "value": "\"(function() {\n    \n    \n    function modifyYouTubeIframes() {\n        var iframes = document.querySelectorAll('iframe'); \n        var youtubeCount = 0;\n        \n        iframes.forEach(function(iframe, index) {\n            if (iframe.src.includes('youtube.com\/embed') || iframe.src.includes('youtube-nocookie.com\/embed')) {\n                youtubeCount++;\n                \n                \/\/ Enable fullscreen instead of disabling it\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                iframe.setAttribute('mozallowfullscreen', 'true');\n                \n                \n                \/\/ Listen for fullscreen events on YouTube iframe\n                try {\n                    iframe.addEventListener('fullscreenchange', function() {\n                        if (document.fullscreenElement === iframe) {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenExit',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    iframe.addEventListener('webkitfullscreenchange', function() {\n                        if (document.webkitFullscreenElement === iframe) {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenExit', \n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                } catch(e) {\n                }\n            }\n        });\n         \n    }\n\n    \/\/ Run initially\n    modifyYouTubeIframes();\n\n    \/\/ Enhanced observer for YouTube changes\n    var youtubeObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    shouldCheck = true;\n                }\n            });\n        });\n        \n        if (shouldCheck) {\n            setTimeout(modifyYouTubeIframes, 100);\n        }\n    });\n\n    youtubeObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true\n    });\n\n    \/\/ Additional periodic check specifically for YouTube embeds\n    setInterval(function() {\n        modifyYouTubeIframes();\n    }, 3000);\n    \n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 42794,
+      "offset": 37606,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 42888,
-      "length": 6353,
-      "value": "\"(function() {\n    console.log('[VIMEO DEBUG] Script started');\n    \n    function debugMessage(msg) {\n        console.log('[VIMEO DEBUG] ' + msg);\n        try {\n            window.webkit.messageHandlers.iosListener.postMessage({\n                type: 'debug',\n                message: '[VIMEO] ' + msg,\n                timestamp: Date.now()\n            });\n        } catch(e) {\n            console.log('Could not send debug message to iOS:', e);\n        }\n    }\n    \n    function modifyVimeoIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        debugMessage('Found ' + iframes.length + ' total iframes');\n        \n        var vimeoCount = 0;\n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('vimeo.com\/video') || iframe.src.includes('player.vimeo.com')) {\n                vimeoCount++;\n                debugMessage('Found Vimeo iframe #' + vimeoCount + ': ' + iframe.src);\n                \n                var src = iframe.src;\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                debugMessage('Set allowfullscreen=true for iframe #' + vimeoCount);\n                \n                \/\/ Listen for Vimeo fullscreen events\n                try {\n                    iframe.contentWindow.postMessage(JSON.stringify({\n                        method: 'addEventListener',\n                        value: 'enterfullscreen'\n                    }), '*');\n                    \n                    iframe.contentWindow.postMessage(JSON.stringify({\n                        method: 'addEventListener', \n                        value: 'exitfullscreen'\n                    }), '*');\n                    debugMessage('Added event listeners to iframe #' + vimeoCount);\n                } catch(e) {\n                    debugMessage('Could not add event listeners to iframe #' + vimeoCount + ': ' + e.message);\n                }\n            }\n        });\n        \n        if (vimeoCount === 0) {\n            debugMessage('No Vimeo iframes found');\n        } else {\n            debugMessage('Modified ' + vimeoCount + ' Vimeo iframes');\n        }\n    }\n    \n    \/\/ Listen for ALL window messages to debug\n    window.addEventListener('message', function(event) {\n        debugMessage('Received message from origin: ' + event.origin);\n        debugMessage('Message data: ' + JSON.stringify(event.data));\n        \n        if (event.origin === 'https:\/\/player.vimeo.com') {\n            debugMessage('This is a Vimeo player message');\n            \n            try {\n                var data = JSON.parse(event.data);\n                debugMessage('Parsed Vimeo data: ' + JSON.stringify(data));\n                \n                if (data.event === 'enterfullscreen') {\n                    debugMessage('DETECTED: Vimeo video entered fullscreen!');\n                    window.webkit.messageHandlers.iosListener.postMessage({\n                        type: 'vimeoFullscreenEnter',\n                        timestamp: Date.now()\n                    });\n                } else if (data.event === 'exitfullscreen') {\n                    debugMessage('DETECTED: Vimeo video exited fullscreen!');\n                    window.webkit.messageHandlers.iosListener.postMessage({\n                        type: 'vimeoFullscreenExit',\n                        timestamp: Date.now()\n                    });\n                }\n            } catch(e) {\n                debugMessage('Error parsing Vimeo message: ' + e.message);\n            }\n        }\n    });\n    \n    \/\/ Monitor fullscreen API changes\n    document.addEventListener('fullscreenchange', function() {\n        debugMessage('Fullscreen change detected - isFullscreen: ' + !!document.fullscreenElement);\n    });\n    \n    document.addEventListener('webkitfullscreenchange', function() {\n        debugMessage('Webkit fullscreen change detected - isFullscreen: ' + !!document.webkitFullscreenElement);\n    });\n\n    \/\/ Run initially\n    debugMessage('Running initial iframe modification');\n    modifyVimeoIframes();\n\n    \/\/ Observer for Vimeo iframe changes\n    var vimeoObserver = new MutationObserver(function(mutations) {\n        var hasNewIframes = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    hasNewIframes = true;\n                }\n            });\n        });\n        \n        if (hasNewIframes) {\n            debugMessage('New iframes detected, re-running modification');\n            modifyVimeoIframes();\n        }\n    });\n\n    vimeoObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true,\n        characterData: true\n    });\n    \n    debugMessage('Vimeo script setup complete');\n    \n    \/\/ Add manual debug trigger - can be called from browser console\n    window.debugWindowMonitor = function() {\n        debugMessage('Manual window monitor trigger requested');\n        window.webkit.messageHandlers.iosListener.postMessage({\n            type: 'debugWindowMonitor',\n            timestamp: Date.now()\n        });\n    };\n    \n    debugMessage('Added window.debugWindowMonitor() function for manual debugging');\n})();\""
+      "offset": 37700,
+      "length": 3208,
+      "value": "\"(function() {\n\n    \n    \n    function modifyVimeoIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        \n        var vimeoCount = 0;\n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('vimeo.com\/video') || iframe.src.includes('player.vimeo.com')) {\n                vimeoCount++;\n                \n                var src = iframe.src;\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                \n                \/\/ Listen for Vimeo fullscreen events\n                try {\n                    iframe.contentWindow.postMessage(JSON.stringify({\n                        method: 'addEventListener',\n                        value: 'enterfullscreen'\n                    }), '*');\n                    \n                    iframe.contentWindow.postMessage(JSON.stringify({\n                        method: 'addEventListener', \n                        value: 'exitfullscreen'\n                    }), '*');\n                } catch(e) {\n              }\n            }\n        }); \n    }\n    \n    \/\/ Listen for Vimeo player messages only\n    window.addEventListener('message', function(event) {\n        if (event.origin !== 'https:\/\/player.vimeo.com') return;\n\n        try {\n            var data = JSON.parse(event.data);\n            if (data.event === 'enterfullscreen') {\n                window.webkit.messageHandlers.iosListener.postMessage({\n                    type: 'vimeoFullscreenEnter',\n                    timestamp: Date.now()\n                });\n            } else if (data.event === 'exitfullscreen') {\n               window.webkit.messageHandlers.iosListener.postMessage({\n                    type: 'vimeoFullscreenExit',\n                    timestamp: Date.now()\n                });\n            }\n        } catch(e) {\n        }\n    });\n    \n   \n\n    \/\/ Run initially\n    modifyVimeoIframes();\n\n    \/\/ Observer for Vimeo iframe changes\n    var vimeoObserver = new MutationObserver(function(mutations) {\n        var hasNewIframes = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    hasNewIframes = true;\n                }\n            });\n        });\n        \n        if (hasNewIframes) {\n            modifyVimeoIframes();\n        }\n    });\n\n    vimeoObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true,\n        characterData: true\n    });\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 49335,
+      "offset": 41002,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49428,
-      "length": 6431,
-      "value": "\"(function() {\n    console.log('[LOOM DEBUG] Script started');\n    \n    function debugMessage(msg) {\n        console.log('[LOOM DEBUG] ' + msg);\n        try {\n            window.webkit.messageHandlers.iosListener.postMessage({\n                type: 'debug',\n                message: '[LOOM] ' + msg,\n                timestamp: Date.now()\n            });\n        } catch(e) {\n            console.log('Could not send debug message to iOS:', e);\n        }\n    }\n    \n    function modifyLoomIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        var loomCount = 0;\n        \n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('loom.com\/embed') || iframe.src.includes('loom.com\/share')) {\n                loomCount++;\n                debugMessage('Found Loom iframe #' + loomCount + ': ' + iframe.src);\n                \n                var src = iframe.src;\n                if (!src.includes('hide_owner=true')) {\n                    if (src.includes('?')) {\n                        src += '&hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    }\n                    iframe.src = src;\n                } else {\n                    if (src.includes('?')) {\n                        src += '&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_share=true&hideEmbedTopBar=true';\n                    }\n                }\n                \n                \/\/ Enable fullscreen instead of disabling it\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                iframe.setAttribute('mozallowfullscreen', 'true');\n                \n                debugMessage('Set allowfullscreen=true for Loom iframe #' + loomCount);\n                \n                \/\/ Listen for fullscreen events on Loom iframe\n                try {\n                    iframe.addEventListener('fullscreenchange', function() {\n                        if (document.fullscreenElement === iframe) {\n                            debugMessage('Loom fullscreen ENTER detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            debugMessage('Loom fullscreen EXIT detected'); \n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenExit',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    iframe.addEventListener('webkitfullscreenchange', function() {\n                        if (document.webkitFullscreenElement === iframe) {\n                            debugMessage('Loom webkit fullscreen ENTER detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            debugMessage('Loom webkit fullscreen EXIT detected');\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenExit', \n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    debugMessage('Added fullscreen event listeners to Loom iframe #' + loomCount);\n                } catch(e) {\n                    debugMessage('Could not add fullscreen listeners: ' + e.message);\n                }\n            }\n        });\n        \n        if (loomCount > 0) {\n            debugMessage('Total Loom iframes processed: ' + loomCount);\n        } else {\n            debugMessage('No Loom iframes found');\n        }\n    }\n\n    \/\/ Run initially\n    modifyLoomIframes();\n\n    \/\/ Enhanced observer for Loom changes\n    var loomObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    shouldCheck = true;\n                }\n            });\n        });\n        \n        if (shouldCheck) {\n            debugMessage('New iframe detected, re-checking Loom videos');\n            setTimeout(modifyLoomIframes, 100);\n        }\n    });\n\n    loomObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true\n    });\n    \n    \/\/ Additional periodic check specifically for Loom embeds\n    setInterval(function() {\n        modifyLoomIframes();\n    }, 3000);\n    \n    debugMessage('Loom script setup complete');\n})();\""
+      "offset": 41095,
+      "length": 4758,
+      "value": "\"(function() {\n\n    \n    function modifyLoomIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        var loomCount = 0;\n        \n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('loom.com\/embed') || iframe.src.includes('loom.com\/share')) {\n                loomCount++;\n                \n                var src = iframe.src;\n                if (!src.includes('hide_owner=true')) {\n                    if (src.includes('?')) {\n                        src += '&hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    }\n                    iframe.src = src;\n                } else {\n                    if (src.includes('?')) {\n                        src += '&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_share=true&hideEmbedTopBar=true';\n                    }\n                }\n                \n                \/\/ Enable fullscreen instead of disabling it\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                iframe.setAttribute('mozallowfullscreen', 'true');\n                \n                \n                \/\/ Listen for fullscreen events on Loom iframe\n                try {\n                    iframe.addEventListener('fullscreenchange', function() {\n                        if (document.fullscreenElement === iframe) {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenExit',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    iframe.addEventListener('webkitfullscreenchange', function() {\n                        if (document.webkitFullscreenElement === iframe) {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenExit', \n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                } catch(e) {\n                }\n            }\n        });\n    }\n\n    \/\/ Run initially\n    modifyLoomIframes();\n\n    \/\/ Enhanced observer for Loom changes\n    var loomObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    shouldCheck = true;\n                }\n            });\n        });\n        \n        if (shouldCheck) {\n            setTimeout(modifyLoomIframes, 100);\n        }\n    });\n\n    loomObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true\n    });\n    \n    \/\/ Additional periodic check specifically for Loom embeds\n    setInterval(function() {\n        modifyLoomIframes();\n    }, 3000);\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 55953,
+      "offset": 45947,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 80093,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 80613,
-      "length": 3,
-      "value": "3.0"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 80820,
-      "length": 3,
-      "value": "0.5"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 81045,
-      "length": 3,
-      "value": "3.0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 81138,
-      "length": 3,
-      "value": "230"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 81142,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 81156,
+      "offset": 55665,
       "length": 2,
-      "value": "17"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 81159,
-      "length": 5,
-      "value": "255.0"
+      "value": "25"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 81172,
-      "length": 3,
-      "value": "104"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 81176,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 81190,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 81235,
+      "offset": 55670,
       "length": 4,
-      "value": "0.25"
+      "value": "1024"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 81359,
-      "length": 1,
-      "value": "1"
+      "offset": 55677,
+      "length": 4,
+      "value": "1024"
     },
     {
       "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-iphonesimulator\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",

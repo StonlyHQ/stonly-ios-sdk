@@ -1,26 +1,45 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.5
 import PackageDescription
 
 
+// Two library products:
+//   • "StonlyWidget" — the historical product. Points at the binary xcframework only.
+//     Host apps consuming this must add `sentry-cocoa` to their own Package.swift:
+//         .package(url: "https://github.com/getsentry/sentry-cocoa.git", from: "8.35.0")
+//     The Stonly xcframework is built with `@_implementationOnly import Sentry`, so
+//     the Sentry dylib must be available at link time.
+//
+//   • "StonlyKit" — recommended for new integrations. Wraps the binary xcframework
+//     with a Swift shim that declares Sentry as a transitive dependency, so host
+//     apps get Sentry for free. `import Stonly` keeps working because the shim
+//     re-exports the binary module.
+//
+// CocoaPods consumers ignore this file entirely; `Stonly.podspec` declares the
+// Sentry dependency directly.
 let package = Package(
     name: "StonlyWidget",
     platforms: [
         .macOS(.v10_14), .iOS(.v14), .tvOS(.v14)
     ],
     products: [
-        // Products define the executables and libraries a package produces, and make them visible to other packages.
-        .library(
-            name: "StonlyWidget",
-            targets: ["Stonly"])
+        .library(name: "StonlyWidget", targets: ["Stonly"]),
+        .library(name: "StonlyKit", targets: ["StonlyKit"])
     ],
     dependencies: [
-        // Dependencies declare other packages that this package depends on.
+        .package(url: "https://github.com/getsentry/sentry-cocoa.git", from: "8.35.0")
     ],
     targets: [
-        // Targets are the basic building blocks of a package. A target can define a module or a test suite.
-        // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "Stonly",
             path: "Stonly.xcframework"
-        )]
+        ),
+        .target(
+            name: "StonlyKit",
+            dependencies: [
+                .target(name: "Stonly"),
+                .product(name: "Sentry", package: "sentry-cocoa")
+            ],
+            path: "Sources/StonlyKit"
+        )
+    ]
 )

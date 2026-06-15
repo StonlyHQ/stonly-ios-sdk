@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		MUgEXlRIx3j+m/wLiLXEhbLbCAw=
+		B8vrFGg17Yz+lRMR88ZWNS0/ZGI=
 		</data>
 		<key>Headers/NSData+StonlyGZIP.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/Stonly-Swift.h</key>
 		<data>
-		ytJqQPQpi4a4klZy5lACezrLQW0=
+		DE26W+S6rfIr3fS2TbDZfYhqStc=
 		</data>
 		<key>Headers/Stonly.h</key>
 		<data>
@@ -22,23 +22,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zYsa/VOMUPBGzwFmBxK2ufD+FhM=
+		GutrCumZGrtkx3VDgwUJWcGQJVw=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		cioYcg7RV7Ubel6CQ2CdCcCSxKg=
+		pn7/BP8xM3LrMjivFW6iYs5Cwr0=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		EWQZZKuf2pMYZRDIOqmE+tCSM3M=
+		k73zNv4T2OJnx8PUnEkKdMam5JY=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		+QCF+t27YOfMecjaB28C8mWPEjQ=
+		geeuSjaLn9lKXJSkFpefMCbijlM=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		EWQZZKuf2pMYZRDIOqmE+tCSM3M=
+		k73zNv4T2OJnx8PUnEkKdMam5JY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TdEZs4mWBDVU0xYBXgxQGABEUJniCzwpkpM8xPQOGz0=
+			0rG4OH57xwwR3TNMhXCHtxXj88MP5vu743YkpRblEkI=
 			</data>
 		</dict>
 		<key>Headers/NSData+StonlyGZIP.h</key>
@@ -69,7 +69,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IMnJsafaD0198PCldWEwdoT2k18I6hMGCZGI9WwyjiI=
+			jW66L0Vkz/30MByEld1vwJ6Mt6OFnFeO9kPtahJI7vE=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -83,28 +83,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mip5jch+VnddZiSooup0wqEJ/0/iD7YFVrXMH5TxOKA=
+			OK5euo9t39kTMq8+Xl+yHStFPxXaXwquzTPEEMwsZFI=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zNeZ0e8DM/AMm6KvQsg2GOjtQZBt/rLE22QYKEn8pks=
+			IXRASEC2w6rV2cOiq5cgY222teazzzSgsJsMLBEQQVI=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nh/mSSZniVhGuA8x7gy+278vrJGZjqsPR9MwOMwgkY4=
+			lR4rvAYlQoqVOmhB8L68ii+iNP2NmDuba8SKPF0jmxs=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zNeZ0e8DM/AMm6KvQsg2GOjtQZBt/rLE22QYKEn8pks=
+			IXRASEC2w6rV2cOiq5cgY222teazzzSgsJsMLBEQQVI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

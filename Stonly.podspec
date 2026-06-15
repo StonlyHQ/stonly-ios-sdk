@@ -1,18 +1,22 @@
 Pod::Spec.new do |spec|
   spec.name               = "Stonly"
-  spec.version            = "1.0.29"
+  spec.version            = "1.0.30"
   spec.summary            = "Stonly for iOS apps"
   spec.description        = "Stonly implemation code for iOS native apps"
   spec.homepage           = "https://stonly.com"
   spec.documentation_url  = "https://stonly.com"
   spec.license           = { :type => 'MIT', :file => 'LICENSE' }
   spec.author             = { "Stonly" => "..." }
-  spec.source             = { :git => 'https://github.com/StonlyHQ/stonly-ios-sdk.git', :tag => "v1.0.29" }
+  spec.source             = { :git => 'https://github.com/StonlyHQ/stonly-ios-sdk.git', :tag => "v1.0.30" }
   spec.swift_version      = "5.5.2"
 
   # Supported deployment targets
-  spec.ios.deployment_target  = "14.0" 
-  
+  spec.ios.deployment_target  = "14.0"
+
   # Published binaries
   spec.vendored_frameworks = "Stonly.xcframework"
+
+  # Sentry is linked with @_implementationOnly inside the xcframework.
+  # Host apps receive it transitively so the dynamic symbols resolve at runtime.
+  spec.dependency 'Sentry', '~> 8.35'
 end

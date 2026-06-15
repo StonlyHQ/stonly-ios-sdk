@@ -238,6 +238,13 @@
       },
       {
         "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -513,6 +520,99 @@
               "ObjC"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "datacenter",
+            "printedName": "datacenter",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cpy)datacenter",
+            "mangledName": "$s6Stonly6WidgetC10datacenterSSvpZ",
+            "moduleName": "Stonly",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cm)datacenter",
+                "mangledName": "$s6Stonly6WidgetC10datacenterSSvgZ",
+                "moduleName": "Stonly",
+                "static": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cm)setDatacenter:",
+                "mangledName": "$s6Stonly6WidgetC10datacenterSSvsZ",
+                "moduleName": "Stonly",
+                "static": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Stonly6WidgetC10datacenterSSvMZ",
+                "mangledName": "$s6Stonly6WidgetC10datacenterSSvMZ",
+                "moduleName": "Stonly",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
           },
           {
             "kind": "Var",
@@ -909,6 +1009,196 @@
                 "accessorKind": "_modify"
               }
             ]
+          },
+          {
+            "kind": "Var",
+            "name": "isSentryEnabled",
+            "printedName": "isSentryEnabled",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cpy)sentryEnabled",
+            "mangledName": "$s6Stonly6WidgetC15isSentryEnabledSbvpZ",
+            "moduleName": "Stonly",
+            "static": true,
+            "objc_name": "sentryEnabled",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cm)sentryEnabled",
+                "mangledName": "$s6Stonly6WidgetC15isSentryEnabledSbvgZ",
+                "moduleName": "Stonly",
+                "static": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cm)setSentryEnabled:",
+                "mangledName": "$s6Stonly6WidgetC15isSentryEnabledSbvsZ",
+                "moduleName": "Stonly",
+                "static": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Stonly6WidgetC15isSentryEnabledSbvMZ",
+                "mangledName": "$s6Stonly6WidgetC15isSentryEnabledSbvMZ",
+                "moduleName": "Stonly",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "sendSentryTestEvent",
+            "printedName": "sendSentryTestEvent()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cm)sendSentryTestEvent",
+            "mangledName": "$s6Stonly6WidgetC19sendSentryTestEventSSSgyFZ",
+            "moduleName": "Stonly",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sendSentrySDKCrashTestEvent",
+            "printedName": "sendSentrySDKCrashTestEvent()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cm)sendSentrySDKCrashTestEvent",
+            "mangledName": "$s6Stonly6WidgetC27sendSentrySDKCrashTestEventSSSgyFZ",
+            "moduleName": "Stonly",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sendSentryUnresolvedTriggerTestEvent",
+            "printedName": "sendSentryUnresolvedTriggerTestEvent()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Stonly@objc(cs)StonlyWidget(cm)sendSentryUnresolvedTriggerTestEvent",
+            "mangledName": "$s6Stonly6WidgetC36sendSentryUnresolvedTriggerTestEventSSSgyFZ",
+            "moduleName": "Stonly",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
           },
           {
             "kind": "Var",
@@ -2977,6 +3267,214 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
         "moduleName": "Stonly"
       },
       {
@@ -3905,6 +4403,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SentryApplication",
+            "printedName": "SentryApplication",
+            "usr": "c:@M@Sentry@objc(pl)SentryApplication",
+            "mangledName": "$s6Sentry0A11ApplicationP"
+          },
+          {
+            "kind": "Conformance",
             "name": "CVarArg",
             "printedName": "CVarArg",
             "usr": "s:s7CVarArgP",
@@ -4590,90 +5095,90 @@
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "BooleanLiteral",
       "offset": 282,
-      "length": 5,
-      "value": "false"
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "FloatLiteral",
-      "offset": 786,
+      "offset": 980,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "FloatLiteral",
-      "offset": 993,
+      "offset": 1187,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "FloatLiteral",
-      "offset": 1210,
+      "offset": 1404,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "IntegerLiteral",
-      "offset": 1303,
+      "offset": 1497,
       "length": 3,
       "value": "230"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "FloatLiteral",
-      "offset": 1307,
+      "offset": 1501,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "IntegerLiteral",
-      "offset": 1321,
+      "offset": 1515,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "FloatLiteral",
-      "offset": 1324,
+      "offset": 1518,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "IntegerLiteral",
-      "offset": 1337,
+      "offset": 1531,
       "length": 3,
       "value": "104"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "FloatLiteral",
-      "offset": 1341,
+      "offset": 1535,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "FloatLiteral",
-      "offset": 1355,
+      "offset": 1549,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "FloatLiteral",
-      "offset": 1400,
+      "offset": 1594,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/InfiniteProgressBar.swift",
       "kind": "IntegerLiteral",
-      "offset": 1516,
+      "offset": 1710,
       "length": 1,
       "value": "1"
     },
@@ -4701,9 +5206,23 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Log.swift",
       "kind": "BooleanLiteral",
-      "offset": 379,
+      "offset": 375,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Log.swift",
+      "kind": "StringLiteral",
+      "offset": 1119,
+      "length": 26,
+      "value": "\"com.stonly.log.forwarder\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Log.swift",
+      "kind": "Array",
+      "offset": 1186,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/AccessibilityHelper.swift",
@@ -5224,6 +5743,13 @@
       "value": "\"StonlyCustomerId\""
     },
     {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/LocalStorage\/LocalStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 4777,
+      "length": 28,
+      "value": "\"StonlyDatacenterByWidgetId\""
+    },
+    {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/TourOperator\/TourOperator.swift",
       "kind": "Array",
       "offset": 1046,
@@ -5303,107 +5829,135 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
       "kind": "StringLiteral",
-      "offset": 496,
+      "offset": 497,
+      "length": 27,
+      "value": "\"https:\/\/api.us.stonly.com\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 580,
+      "length": 23,
+      "value": "\"https:\/\/us.stonly.com\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 658,
+      "length": 29,
+      "value": "\"https:\/\/media.us.stonly.com\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 736,
       "length": 32,
       "value": "\"https:\/\/api.staging-stonly.com\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
       "kind": "StringLiteral",
-      "offset": 579,
+      "offset": 819,
       "length": 28,
       "value": "\"https:\/\/staging-stonly.com\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
       "kind": "StringLiteral",
-      "offset": 657,
+      "offset": 897,
       "length": 34,
       "value": "\"https:\/\/media.staging-stonly.com\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
       "kind": "StringLiteral",
-      "offset": 741,
+      "offset": 981,
       "length": 29,
       "value": "\"https:\/\/api.test-stonly.com\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
       "kind": "StringLiteral",
-      "offset": 818,
+      "offset": 1058,
       "length": 25,
       "value": "\"https:\/\/test-stonly.com\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIEnvironment.swift",
       "kind": "StringLiteral",
-      "offset": 890,
+      "offset": 1130,
       "length": 31,
       "value": "\"https:\/\/media.test-stonly.com\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "IntegerLiteral",
-      "offset": 249,
+      "offset": 245,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "BooleanLiteral",
-      "offset": 378,
+      "offset": 374,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "StringLiteral",
-      "offset": 411,
+      "offset": 407,
       "length": 8,
       "value": "\"native\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "StringLiteral",
-      "offset": 449,
+      "offset": 445,
       "length": 8,
-      "value": "\"1.0.29\""
+      "value": "\"1.0.30\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "Array",
-      "offset": 496,
+      "offset": 492,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "BooleanLiteral",
-      "offset": 526,
+      "offset": 522,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "StringLiteral",
-      "offset": 562,
+      "offset": 558,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "StringLiteral",
-      "offset": 597,
+      "offset": 593,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
       "kind": "BooleanLiteral",
-      "offset": 633,
+      "offset": 629,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 667,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/OverlayView.swift",
@@ -5527,77 +6081,77 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 554,
+      "offset": 568,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 798,
+      "offset": 812,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "IntegerLiteral",
-      "offset": 1063,
+      "offset": 1077,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "BooleanLiteral",
-      "offset": 2664,
+      "offset": 2678,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "IntegerLiteral",
-      "offset": 3455,
+      "offset": 3469,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "IntegerLiteral",
-      "offset": 3494,
+      "offset": 3508,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Page\/Page.swift",
       "kind": "IntegerLiteral",
-      "offset": 3536,
+      "offset": 3550,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Framework\/Widget.swift",
       "kind": "IntegerLiteral",
-      "offset": 5611,
+      "offset": 11964,
       "length": 6,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Framework\/Widget.swift",
       "kind": "IntegerLiteral",
-      "offset": 5635,
+      "offset": 11988,
       "length": 7,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Framework\/Widget.swift",
       "kind": "IntegerLiteral",
-      "offset": 5660,
+      "offset": 12013,
       "length": 10,
       "value": "3"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Framework\/Widget.swift",
       "kind": "BooleanLiteral",
-      "offset": 5809,
+      "offset": 12162,
       "length": 5,
       "value": "false"
     },
@@ -6192,448 +6746,448 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5102,
+      "offset": 5108,
       "length": 8,
       "value": "\"URL_IS\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5131,
+      "offset": 5137,
       "length": 12,
       "value": "\"URL_IS_NOT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5167,
+      "offset": 5173,
       "length": 14,
       "value": "\"URL_CONTAINS\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5207,
+      "offset": 5213,
       "length": 17,
       "value": "\"URL_STARTS_WITH\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5248,
+      "offset": 5254,
       "length": 15,
       "value": "\"URL_ENDS_WITH\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5293,
+      "offset": 5299,
       "length": 22,
       "value": "\"URL_DOES_NOT_CONTAIN\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5336,
+      "offset": 5342,
       "length": 11,
       "value": "\"URL_REGEX\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5412,
+      "offset": 5418,
       "length": 5,
       "value": "\"AND\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5432,
+      "offset": 5438,
       "length": 4,
       "value": "\"OR\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5494,
+      "offset": 5500,
       "length": 14,
       "value": "\"IN_PAGE_PILL\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5528,
+      "offset": 5534,
       "length": 9,
       "value": "\"HOTSPOT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5557,
+      "offset": 5563,
       "length": 9,
       "value": "\"TOOLTIP\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5588,
+      "offset": 5594,
       "length": 19,
       "value": "\"CLICKABLE_ELEMENT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5632,
+      "offset": 5638,
       "length": 8,
       "value": "\"DIRECT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5659,
+      "offset": 5665,
       "length": 8,
       "value": "\"BANNER\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5726,
+      "offset": 5732,
       "length": 7,
       "value": "\"GUIDE\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5756,
+      "offset": 5762,
       "length": 13,
       "value": "\"GUIDED_TOUR\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5795,
+      "offset": 5801,
       "length": 16,
       "value": "\"KNOWLEDGE_BASE\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5828,
+      "offset": 5834,
       "length": 6,
       "value": "\"LINK\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5851,
+      "offset": 5857,
       "length": 6,
       "value": "\"NONE\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5922,
+      "offset": 5928,
       "length": 12,
       "value": "\"FIRST_STEP\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 5959,
+      "offset": 5965,
       "length": 15,
       "value": "\"SPECIFIC_STEP\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6043,
+      "offset": 6049,
       "length": 15,
       "value": "\"not_installed\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6080,
+      "offset": 6086,
       "length": 11,
       "value": "\"installed\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6154,
+      "offset": 6160,
       "length": 15,
       "value": "\"QUESTION_MARK\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6186,
+      "offset": 6192,
       "length": 6,
       "value": "\"INFO\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6212,
+      "offset": 6218,
       "length": 9,
       "value": "\"WARNING\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6240,
+      "offset": 6246,
       "length": 8,
       "value": "\"TARGET\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6265,
+      "offset": 6271,
       "length": 6,
       "value": "\"logo\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6288,
+      "offset": 6294,
       "length": 6,
       "value": "\"home\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6311,
+      "offset": 6317,
       "length": 9,
       "value": "\"bulb-on\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6341,
+      "offset": 6347,
       "length": 10,
       "value": "\"messages\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6367,
+      "offset": 6373,
       "length": 5,
       "value": "\"faq\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6389,
+      "offset": 6395,
       "length": 6,
       "value": "\"wand\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6414,
+      "offset": 6420,
       "length": 8,
       "value": "\"CUSTOM\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6451,
+      "offset": 6457,
       "length": 15,
       "value": "\"question-mark\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6528,
+      "offset": 6534,
       "length": 5,
       "value": "\"TOP\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6552,
+      "offset": 6558,
       "length": 8,
       "value": "\"BOTTOM\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6580,
+      "offset": 6586,
       "length": 10,
       "value": "\"TOP_LEFT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6611,
+      "offset": 6617,
       "length": 11,
       "value": "\"TOP_RIGHT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6647,
+      "offset": 6653,
       "length": 15,
       "value": "\"BOTTOM_MIDDLE\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6685,
+      "offset": 6691,
       "length": 13,
       "value": "\"BOTTOM_LEFT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6722,
+      "offset": 6728,
       "length": 14,
       "value": "\"BOTTOM_RIGHT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6761,
+      "offset": 6767,
       "length": 15,
       "value": "\"BOTTOM_CENTER\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6860,
+      "offset": 6866,
       "length": 9,
       "value": "\"CLASSIC\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6887,
+      "offset": 6893,
       "length": 7,
       "value": "\"LIGHT\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6969,
+      "offset": 6975,
       "length": 8,
       "value": "\"DIALOG\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 6995,
+      "offset": 7001,
       "length": 7,
       "value": "\"SHEET\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 7058,
+      "offset": 7064,
       "length": 9,
       "value": "\"POPOVER\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 7136,
+      "offset": 7142,
       "length": 13,
       "value": "\"FULL_SCREEN\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 7194,
+      "offset": 7200,
       "length": 12,
       "value": "\"INTEGRATED\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 7359,
+      "offset": 7365,
       "length": 8,
       "value": "\"MEDIUM\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 7390,
+      "offset": 7396,
       "length": 13,
       "value": "\"FULL_SCREEN\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 7421,
+      "offset": 7427,
       "length": 7,
       "value": "\"SMALL\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 10900,
+      "offset": 10985,
       "length": 8,
       "value": "\"BORDER\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 11219,
+      "offset": 11304,
       "length": 7,
       "value": "\"CLICK\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 11244,
+      "offset": 11329,
       "length": 7,
       "value": "\"HOVER\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 11271,
+      "offset": 11356,
       "length": 10,
       "value": "\"OPEN_URL\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 11298,
+      "offset": 11383,
       "length": 6,
       "value": "\"NONE\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 11377,
+      "offset": 11462,
       "length": 8,
       "value": "\"BUTTON\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 11409,
+      "offset": 11494,
       "length": 13,
       "value": "\"INTERACTION\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 11455,
+      "offset": 11540,
       "length": 24,
       "value": "\"BUTTON_AND_INTERACTION\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 12011,
+      "offset": 12096,
       "length": 7,
       "value": "\"HOVER\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/APIModel.swift",
       "kind": "StringLiteral",
-      "offset": 12036,
+      "offset": 12121,
       "length": 7,
       "value": "\"CLICK\""
     },
@@ -6647,301 +7201,301 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10466,
+      "offset": 10415,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10477,
+      "offset": 10426,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10627,
+      "offset": 10576,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10950,
+      "offset": 10899,
       "length": 2,
       "value": "-2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11235,
+      "offset": 11184,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11247,
+      "offset": 11196,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11355,
+      "offset": 11304,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11702,
+      "offset": 11651,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11815,
+      "offset": 11764,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12000,
+      "offset": 11949,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12012,
+      "offset": 11961,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12107,
+      "offset": 12056,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12230,
+      "offset": 12179,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12286,
+      "offset": 12235,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12296,
+      "offset": 12245,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12308,
+      "offset": 12257,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12319,
+      "offset": 12268,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12365,
+      "offset": 12314,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 12474,
+      "offset": 12423,
       "length": 4,
       "value": "0.12"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12521,
+      "offset": 12470,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12579,
+      "offset": 12528,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12590,
+      "offset": 12539,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13080,
+      "offset": 13029,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13096,
+      "offset": 13045,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13172,
+      "offset": 13121,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13188,
+      "offset": 13137,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13422,
+      "offset": 13371,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13595,
+      "offset": 13544,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13653,
+      "offset": 13602,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13709,
+      "offset": 13658,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13749,
+      "offset": 13698,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13835,
+      "offset": 13784,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 13952,
+      "offset": 13901,
       "length": 113,
       "value": "\"Stonly\/MobileIntegration\/Apple (sdk-version=\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 14049,
+      "offset": 13998,
       "length": 13,
       "value": "\"unavailable\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 14063,
+      "offset": 14012,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14925,
+      "offset": 14874,
       "length": 2,
       "value": "-4"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15661,
+      "offset": 15610,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerButton.swift",
       "kind": "BooleanLiteral",
-      "offset": 396,
+      "offset": 487,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerButton.swift",
       "kind": "IntegerLiteral",
-      "offset": 547,
+      "offset": 638,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerButton.swift",
       "kind": "BooleanLiteral",
-      "offset": 576,
+      "offset": 667,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/JSONValue.swift",
       "kind": "IntegerLiteral",
-      "offset": 2982,
+      "offset": 3418,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/JSONValue.swift",
       "kind": "StringLiteral",
-      "offset": 3020,
+      "offset": 3456,
       "length": 28,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSSZ\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Helpers\/JSONValue.swift",
       "kind": "IntegerLiteral",
-      "offset": 3288,
+      "offset": 3724,
       "length": 1,
       "value": "0"
     },
@@ -8374,100 +8928,44 @@
       "value": "\"|\""
     },
     {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/URLSession+API.swift",
-      "kind": "StringLiteral",
-      "offset": 368,
-      "length": 38,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/URLSession+API.swift",
-      "kind": "StringLiteral",
-      "offset": 379,
-      "length": 1,
-      "value": "\"\/api\/v2\/widget\/integration\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/URLSession+API.swift",
-      "kind": "StringLiteral",
-      "offset": 445,
-      "length": 29,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/URLSession+API.swift",
-      "kind": "StringLiteral",
-      "offset": 456,
-      "length": 1,
-      "value": "\"\/api\/v1\/targeting\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/URLSession+API.swift",
-      "kind": "StringLiteral",
-      "offset": 510,
-      "length": 27,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/URLSession+API.swift",
-      "kind": "StringLiteral",
-      "offset": 522,
-      "length": 1,
-      "value": "\"\/api\/v1\/mobile\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/URLSession+API.swift",
-      "kind": "StringLiteral",
-      "offset": 571,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/API\/URLSession+API.swift",
-      "kind": "StringLiteral",
-      "offset": 582,
-      "length": 1,
-      "value": "\"\/api\/v1\/stat\""
-    },
-    {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 11741,
+      "offset": 12230,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 12257,
+      "offset": 12746,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 15448,
+      "offset": 15937,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 15470,
+      "offset": 15959,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 15728,
+      "offset": 16217,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/DOM\/CSSSelector\/CSSSelector.swift",
       "kind": "BooleanLiteral",
-      "offset": 15750,
+      "offset": 16239,
       "length": 5,
       "value": "false"
     },
@@ -9116,119 +9614,532 @@
       "value": "1024"
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 858,
+      "length": 62,
+      "value": "\"https:\/\/42183719d4f074bda3009c2e78c0331f@sentry.stonly.com\/8\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 960,
+      "length": 12,
+      "value": "\"production\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1013,
+      "length": 13,
+      "value": "\"development\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "FloatLiteral",
+      "offset": 1068,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "FloatLiteral",
+      "offset": 1107,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1150,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1519,
+      "length": 23,
+      "value": "\"SIMULATOR_DEVICE_NAME\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1761,
+      "length": 17,
+      "value": "\"StonlySentryDSN\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1812,
+      "length": 25,
+      "value": "\"StonlySentryEnvironment\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1876,
+      "length": 30,
+      "value": "\"StonlySentryTracesSampleRate\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1939,
+      "length": 24,
+      "value": "\"StonlySentrySampleRate\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 2211,
+      "length": 22,
+      "value": "\"StonlySentryDisabled\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 2293,
+      "length": 17,
+      "value": "\"StonlySentryDSN\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 2343,
+      "length": 24,
+      "value": "\"StonlySentryDSNEnabled\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 2401,
+      "length": 25,
+      "value": "\"StonlySentryEnvironment\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 2467,
+      "length": 32,
+      "value": "\"StonlySentryEnvironmentEnabled\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 2530,
+      "length": 22,
+      "value": "\"StonlySentryDisabled\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryCrashReporter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1397,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryCrashReporter.swift",
+      "kind": "StringLiteral",
+      "offset": 1448,
+      "length": 19,
+      "value": "\"com.stonly.sentry\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryCrashReporter.swift",
+      "kind": "Dictionary",
+      "offset": 9761,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryCrashReporter.swift",
+      "kind": "Dictionary",
+      "offset": 9817,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryCrashReporter.swift",
+      "kind": "Dictionary",
+      "offset": 9889,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryCrashReporter.swift",
+      "kind": "StringLiteral",
+      "offset": 11701,
+      "length": 8,
+      "value": "\"stonly\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryDOMRedactor.swift",
+      "kind": "Array",
+      "offset": 859,
+      "length": 185,
+      "value": "[\"text\", \"value\", \"placeholder\", \"accessibilitylabel\", \"accessibilityvalue\", \"attributedtext\", \"title\", \"subtitle\"]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryDOMRedactor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1080,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventFilter.swift",
+      "kind": "Array",
+      "offset": 1521,
+      "length": 92,
+      "value": "[\"StonlyWidget\", \"Stonly.framework\", \"StonlyWidget.framework\"]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventFilter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2486,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventFilter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2913,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventFilter.swift",
+      "kind": "Dictionary",
+      "offset": 3012,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventFilter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3169,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventFilter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3226,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventType.swift",
+      "kind": "StringLiteral",
+      "offset": 616,
+      "length": 11,
+      "value": "\"sdk.crash\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventType.swift",
+      "kind": "StringLiteral",
+      "offset": 779,
+      "length": 16,
+      "value": "\"sdk.crash_test\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventType.swift",
+      "kind": "StringLiteral",
+      "offset": 980,
+      "length": 25,
+      "value": "\"widget.bootstrap_failed\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventType.swift",
+      "kind": "StringLiteral",
+      "offset": 1114,
+      "length": 22,
+      "value": "\"wizard.stream_failed\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventType.swift",
+      "kind": "StringLiteral",
+      "offset": 1237,
+      "length": 20,
+      "value": "\"trigger.unresolved\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventType.swift",
+      "kind": "StringLiteral",
+      "offset": 1401,
+      "length": 24,
+      "value": "\"sdk.contract_violation\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventType.swift",
+      "kind": "StringLiteral",
+      "offset": 1532,
+      "length": 22,
+      "value": "\"render.flicker_burst\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventType.swift",
+      "kind": "StringLiteral",
+      "offset": 1659,
+      "length": 19,
+      "value": "\"stonly.event_type\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventBudget.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1173,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventBudget.swift",
+      "kind": "Array",
+      "offset": 1255,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryEventBudget.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1287,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryDOMAttachment.swift",
+      "kind": "StringLiteral",
+      "offset": 977,
+      "length": 20,
+      "value": "\"stonly-dom.json.gz\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryDOMAttachment.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1186,
+      "length": 3,
+      "value": "512"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryDOMAttachment.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1192,
+      "length": 4,
+      "value": "1024"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryTriggerDiagnostics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1173,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryTriggerDiagnostics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1423,
+      "length": 4,
+      "value": "2048"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryTriggerDiagnostics.swift",
+      "kind": "StringLiteral",
+      "offset": 1474,
+      "length": 31,
+      "value": "\"com.stonly.sentry.diagnostics\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryTriggerDiagnostics.swift",
+      "kind": "Array",
+      "offset": 1553,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryTriggerDiagnostics.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1596,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryCaptureSink.swift",
+      "kind": "Dictionary",
+      "offset": 1045,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryCaptureSink.swift",
+      "kind": "StringLiteral",
+      "offset": 1386,
+      "length": 8,
+      "value": "\"stonly\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryRenderTracker.swift",
+      "kind": "FloatLiteral",
+      "offset": 1095,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryRenderTracker.swift",
+      "kind": "FloatLiteral",
+      "offset": 1142,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryRenderTracker.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1182,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryRenderTracker.swift",
+      "kind": "StringLiteral",
+      "offset": 1330,
+      "length": 26,
+      "value": "\"com.stonly.sentry.render\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryRenderTracker.swift",
+      "kind": "Dictionary",
+      "offset": 1419,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryMemoryWarningObserver.swift",
+      "kind": "BooleanLiteral",
+      "offset": 709,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Sentry\/SentryMemoryWarningObserver.swift",
+      "kind": "StringLiteral",
+      "offset": 760,
+      "length": 26,
+      "value": "\"com.stonly.sentry.memory\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 733,
       "length": 12,
       "value": "\"BackWidget\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 879,
       "length": 14,
       "value": "\"CloseTrigger\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1025,
       "length": 13,
       "value": "\"CloseWidget\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1162,
       "length": 9,
       "value": "\"hotspot\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1372,
       "length": 11,
       "value": "\"pill\/bulb\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1512,
       "length": 10,
       "value": "\"pill\/faq\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1653,
       "length": 11,
       "value": "\"pill\/home\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1795,
       "length": 11,
       "value": "\"pill\/info\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1937,
       "length": 11,
       "value": "\"pill\/logo\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2087,
       "length": 15,
       "value": "\"pill\/messages\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2250,
       "length": 20,
       "value": "\"pill\/question-mark\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2427,
       "length": 25,
       "value": "\"pill\/question-mark-pill\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2583,
       "length": 11,
       "value": "\"pill\/wand\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2731,
       "length": 14,
       "value": "\"pill\/warning\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2962,
       "length": 14,
       "value": "\"tooltip\/info\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3127,
       "length": 23,
       "value": "\"tooltip\/question-mark\""
     },
     {
-      "filePath": "\/Users\/adam\/Library\/Developer\/Xcode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-maccatalyst\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3290,
       "length": 17,

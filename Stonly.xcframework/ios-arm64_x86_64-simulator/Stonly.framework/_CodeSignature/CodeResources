@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		B8vrFGg17Yz+lRMR88ZWNS0/ZGI=
+		knyeMXQm2jlLSvHkEVkuoaRST2Y=
 		</data>
 		<key>Headers/NSData+StonlyGZIP.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/Stonly-Swift.h</key>
 		<data>
-		GvebV4VbXMBxpvMDZ/iYVyJTPms=
+		+YOxlA24NAzM0nfliaq9CNXcH+g=
 		</data>
 		<key>Headers/Stonly.h</key>
 		<data>
@@ -22,39 +22,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6zHs6Wlgg4w1JXTrfBViOpffYY4=
+		8SSbpmHqGtbaSUJUslJs356jq8c=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		XzI6Ry8HObiYZ9Fgg9GCoqnLSmU=
+		k+5jzRgneS11cs9D7u34sILeFVc=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		urxVRXx0zqjUA/dvBEBBSztHkvs=
+		rY6RRis5s1zAL68b8UgzEs2gHw4=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		nCIBN0o7qx311iarvp3Pt3O9ipc=
+		cM1WFMD//uV0D/GX0WpNiEgv898=
 		</data>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		urxVRXx0zqjUA/dvBEBBSztHkvs=
+		rY6RRis5s1zAL68b8UgzEs2gHw4=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		XzI6Ry8HObiYZ9Fgg9GCoqnLSmU=
+		k+5jzRgneS11cs9D7u34sILeFVc=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		L/FLbVBr/+BCkhyKyJKph08rrgo=
+		SNylXTtG8k/j7jlrkwDnQEkuRMA=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		sIHRl5zLXsKFFXJkBAqAjD/ZceU=
+		8gKz6i3sc74FGBNqI1c4LZmZA2U=
 		</data>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		L/FLbVBr/+BCkhyKyJKph08rrgo=
+		SNylXTtG8k/j7jlrkwDnQEkuRMA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0rG4OH57xwwR3TNMhXCHtxXj88MP5vu743YkpRblEkI=
+			wPI244RMSako/4Yp4JrhJplGzCDCvoGI20pqnjPCh6U=
 			</data>
 		</dict>
 		<key>Headers/NSData+StonlyGZIP.h</key>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0U87b8G9vWsRpLy5SLP2HnvLBb/amkL02gJrsXzAVN8=
+			FjpZunDiAWvZ0ALLPS3w0nh4x9EcgOX/6kfBDuZl0fI=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -99,56 +99,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WJcXHcjCHexJMMqRDoHmOzo4xDWElwnP03bSVVMgCSc=
+			smc/nQ0fGZdAR1qU3gM1U6huwDVncHtXYLOIlB3D7vs=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vYL5t/YK2EuwnaR9bNF8D7PMRNQDLOcZJtsesD7GXBc=
+			JOCZMzYyBgW2t3oD6uttnDMo21cHwiazIOhf5vyucZ0=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s0m2cv7AUdE77msieHxt68l4JMNbd3MaKEJ6xlfV02A=
+			Tdz1D6j6W5PLgLd3XT/LcR1x1amuRLUxgLxQb6DOcys=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vYL5t/YK2EuwnaR9bNF8D7PMRNQDLOcZJtsesD7GXBc=
+			JOCZMzYyBgW2t3oD6uttnDMo21cHwiazIOhf5vyucZ0=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WJcXHcjCHexJMMqRDoHmOzo4xDWElwnP03bSVVMgCSc=
+			smc/nQ0fGZdAR1qU3gM1U6huwDVncHtXYLOIlB3D7vs=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mtBL/cSGCcdeCYTGuluo/xlCOHTD6dZcPDz7/GExdzk=
+			2sBKBD3+Z21ogVVvypeLI5BTJEBnp4lyXp4zS9DEPL8=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5zjrMiYrOHgBIdn/150SSCPLtWPahdyy70JLobCKFSM=
+			cUR39U2WfVkAH79SDnzcgH/8wLMEFmB/DR0Wejmnknw=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mtBL/cSGCcdeCYTGuluo/xlCOHTD6dZcPDz7/GExdzk=
+			2sBKBD3+Z21ogVVvypeLI5BTJEBnp4lyXp4zS9DEPL8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

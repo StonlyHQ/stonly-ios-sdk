@@ -25,6 +25,7 @@ import os
   @objc(stonlyWidgetWillOpenWithWidgetRuleId:window:) optional func stonlyWidgetWillOpen(widgetRuleId: Swift.String, window: UIKit.UIWindow?)
   @objc(stonlyWidgetDidCloseWithWidgetRuleId:window:) optional func stonlyWidgetDidClose(widgetRuleId: Swift.String, window: UIKit.UIWindow?)
   @objc(stonlyWidgetDidFailLoadingWithError:) optional func stonlyWidgetDidFailLoading(error: any Swift.Error)
+  @objc(stonlyWidgetEvent:) optional func stonlyWidgetEvent(_ event: Stonly.WidgetEvent)
 }
 @_inheritsConvenienceInitializers @objc(StonlyWidget) public class Widget : ObjectiveC.NSObject {
   @available(iOS 13.0, *)
@@ -99,6 +100,37 @@ extension SwiftUICore.View {
   nonisolated public func stonlyTappable(action: @escaping () -> Swift.Void) -> some SwiftUICore.View
   
 }
+@objc(StonlyWidgetEventKind) public enum WidgetEventKind : Swift.Int {
+  case widgetOpened
+  case widgetClosed
+  case stepChanged
+  case articleChanged
+  case triggerViewed
+  case triggerClicked
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers @objc(StonlyWidgetEvent) final public class WidgetEvent : ObjectiveC.NSObject {
+  @objc final public let kind: Stonly.WidgetEventKind
+  @objc final public let name: Swift.String
+  @objc final public let properties: [Swift.String : Any]
+  @objc final public var widgetType: Swift.String? {
+    @objc get
+  }
+  @objc final public var guideId: Swift.String? {
+    @objc get
+  }
+  @objc final public var stepId: Swift.String? {
+    @objc get
+  }
+  @objc final public var closeReason: Swift.String? {
+    @objc get
+  }
+  @objc deinit
+}
 @available(iOS 13.0, *)
 @_Concurrency.MainActor @preconcurrency public struct StonlyUniqueIdModifier : SwiftUICore.ViewModifier {
   @_Concurrency.MainActor @preconcurrency public func body(content: Stonly.StonlyUniqueIdModifier.Content) -> some SwiftUICore.View
@@ -109,5 +141,8 @@ extension SwiftUICore.View {
 extension Stonly.Widget.Options.Placement : Swift.Equatable {}
 extension Stonly.Widget.Options.Placement : Swift.Hashable {}
 extension Stonly.Widget.Options.Placement : Swift.RawRepresentable {}
+extension Stonly.WidgetEventKind : Swift.Equatable {}
+extension Stonly.WidgetEventKind : Swift.Hashable {}
+extension Stonly.WidgetEventKind : Swift.RawRepresentable {}
 @available(iOS 13.0, *)
 extension Stonly.StonlyUniqueIdModifier : Swift.Sendable {}

@@ -30,7 +30,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FjpZunDiAWvZ0ALLPS3w0nh4x9EcgOX/6kfBDuZl0fI=
+			1JjIR2HQ6z45OumIT1A4nAiH5TL11zl8rnkMrZz2UeA=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -44,56 +44,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Hg3mJluWgxG2TsdjhLxaejrfao+jlc7/BVJut9+1Zs=
+			5gVMih64dhcL3XbRiWMMQDNUZapqyqVvGhlLyUzHOMQ=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ENYbo0KCUfqnWn1MFXjQcOtlkLyuz5zLms0uRCspQJw=
+			U5uCrK98fx2u6FTM48Reff8CDWaOxdtT3Ro9K1XJr3s=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UkcHt9DwFNGjOPFsdbqwl0tuXfMTnlPFbvHxqUZ4jF4=
+			5e6HuALNqrtQ3QXHhJBuB5A8tYon7TVIeO/qKSOhHdU=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ENYbo0KCUfqnWn1MFXjQcOtlkLyuz5zLms0uRCspQJw=
+			U5uCrK98fx2u6FTM48Reff8CDWaOxdtT3Ro9K1XJr3s=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Hg3mJluWgxG2TsdjhLxaejrfao+jlc7/BVJut9+1Zs=
+			5gVMih64dhcL3XbRiWMMQDNUZapqyqVvGhlLyUzHOMQ=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qI49PN+1gqddx7GRI82NWH6guZxJqlj6CPbWldJcQAs=
+			0i3LfVcxRSUbso7ZyGwP61UfOqIiJ8Qi6iv50rM+kyw=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X+ouKQvXw6MzKuPWFAuiiC/pmy1G2tHkLzRPZGcplWc=
+			JVVs6pzcVVt1l+NdzAq4TsNw1YlNXEl0LF28etymt54=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qI49PN+1gqddx7GRI82NWH6guZxJqlj6CPbWldJcQAs=
+			0i3LfVcxRSUbso7ZyGwP61UfOqIiJ8Qi6iv50rM+kyw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

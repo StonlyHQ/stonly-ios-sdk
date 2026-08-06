@@ -461,6 +461,7 @@ typedef SWIFT_ENUM_NAMED(NSInteger, StonlyWidgetPlacement, "Placement", open) {
   StonlyWidgetPlacementFullscreen = 3,
 };
 
+@class StonlyWidgetEvent;
 SWIFT_PROTOCOL_NAMED("WidgetDelegate")
 @protocol StonlyWidgetDelegate
 @optional
@@ -468,7 +469,33 @@ SWIFT_PROTOCOL_NAMED("WidgetDelegate")
 - (void)stonlyWidgetWillOpenWithWidgetRuleId:(NSString * _Nonnull)widgetRuleId window:(UIWindow * _Nullable)window;
 - (void)stonlyWidgetDidCloseWithWidgetRuleId:(NSString * _Nonnull)widgetRuleId window:(UIWindow * _Nullable)window;
 - (void)stonlyWidgetDidFailLoadingWithError:(NSError * _Nonnull)error;
+- (void)stonlyWidgetEvent:(StonlyWidgetEvent * _Nonnull)event;
 @end
+
+SWIFT_ENUM_FWD_DECL(NSInteger, StonlyWidgetEventKind)
+/// Public analytics event delivered to <code>WidgetDelegate.stonlyWidgetEvent(_:)</code>.
+/// <code>name</code> + <code>properties</code> are stable and safe to forward verbatim to 3rd party analytics.
+SWIFT_CLASS_NAMED("WidgetEvent")
+@interface StonlyWidgetEvent : NSObject
+@property (nonatomic, readonly) enum StonlyWidgetEventKind kind;
+@property (nonatomic, readonly, copy) NSString * _Nonnull name;
+@property (nonatomic, readonly, copy) NSDictionary<NSString *, id> * _Nonnull properties;
+@property (nonatomic, readonly, copy) NSString * _Nullable widgetType;
+@property (nonatomic, readonly, copy) NSString * _Nullable guideId;
+@property (nonatomic, readonly, copy) NSString * _Nullable stepId;
+@property (nonatomic, readonly, copy) NSString * _Nullable closeReason;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+typedef SWIFT_ENUM_NAMED(NSInteger, StonlyWidgetEventKind, "WidgetEventKind", open) {
+  StonlyWidgetEventKindWidgetOpened = 0,
+  StonlyWidgetEventKindWidgetClosed = 1,
+  StonlyWidgetEventKindStepChanged = 2,
+  StonlyWidgetEventKindArticleChanged = 3,
+  StonlyWidgetEventKindTriggerViewed = 4,
+  StonlyWidgetEventKindTriggerClicked = 5,
+};
 
 #endif // defined(__OBJC__)
 #if __has_attribute(external_source_symbol)
@@ -941,6 +968,7 @@ typedef SWIFT_ENUM_NAMED(NSInteger, StonlyWidgetPlacement, "Placement", open) {
   StonlyWidgetPlacementFullscreen = 3,
 };
 
+@class StonlyWidgetEvent;
 SWIFT_PROTOCOL_NAMED("WidgetDelegate")
 @protocol StonlyWidgetDelegate
 @optional
@@ -948,7 +976,33 @@ SWIFT_PROTOCOL_NAMED("WidgetDelegate")
 - (void)stonlyWidgetWillOpenWithWidgetRuleId:(NSString * _Nonnull)widgetRuleId window:(UIWindow * _Nullable)window;
 - (void)stonlyWidgetDidCloseWithWidgetRuleId:(NSString * _Nonnull)widgetRuleId window:(UIWindow * _Nullable)window;
 - (void)stonlyWidgetDidFailLoadingWithError:(NSError * _Nonnull)error;
+- (void)stonlyWidgetEvent:(StonlyWidgetEvent * _Nonnull)event;
 @end
+
+SWIFT_ENUM_FWD_DECL(NSInteger, StonlyWidgetEventKind)
+/// Public analytics event delivered to <code>WidgetDelegate.stonlyWidgetEvent(_:)</code>.
+/// <code>name</code> + <code>properties</code> are stable and safe to forward verbatim to 3rd party analytics.
+SWIFT_CLASS_NAMED("WidgetEvent")
+@interface StonlyWidgetEvent : NSObject
+@property (nonatomic, readonly) enum StonlyWidgetEventKind kind;
+@property (nonatomic, readonly, copy) NSString * _Nonnull name;
+@property (nonatomic, readonly, copy) NSDictionary<NSString *, id> * _Nonnull properties;
+@property (nonatomic, readonly, copy) NSString * _Nullable widgetType;
+@property (nonatomic, readonly, copy) NSString * _Nullable guideId;
+@property (nonatomic, readonly, copy) NSString * _Nullable stepId;
+@property (nonatomic, readonly, copy) NSString * _Nullable closeReason;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+typedef SWIFT_ENUM_NAMED(NSInteger, StonlyWidgetEventKind, "WidgetEventKind", open) {
+  StonlyWidgetEventKindWidgetOpened = 0,
+  StonlyWidgetEventKindWidgetClosed = 1,
+  StonlyWidgetEventKindStepChanged = 2,
+  StonlyWidgetEventKindArticleChanged = 3,
+  StonlyWidgetEventKindTriggerViewed = 4,
+  StonlyWidgetEventKindTriggerClicked = 5,
+};
 
 #endif // defined(__OBJC__)
 #if __has_attribute(external_source_symbol)

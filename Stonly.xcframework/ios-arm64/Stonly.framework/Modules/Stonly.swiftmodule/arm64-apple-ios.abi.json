@@ -3784,6 +3784,63 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4315,190 +4372,6 @@
       },
       {
         "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Sentry",
-        "printedName": "Sentry",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Sentry",
-        "printedName": "Sentry",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Stonly"
-      },
-      {
-        "kind": "Import",
-        "name": "Sentry",
-        "printedName": "Sentry",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Sentry",
-        "printedName": "Sentry",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Stonly"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Stonly",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4512,6 +4385,200 @@
         "name": "CoreGraphics",
         "printedName": "CoreGraphics",
         "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Stonly"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
         "moduleName": "Stonly"
       },
       {
@@ -4535,6 +4602,16 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Stonly",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "Stonly",
         "declAttributes": [
@@ -6870,7 +6947,7 @@
       "kind": "StringLiteral",
       "offset": 445,
       "length": 8,
-      "value": "\"1.0.33\""
+      "value": "\"1.0.34\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",
@@ -7260,189 +7337,196 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 1957,
+      "offset": 2104,
       "length": 22,
       "value": "\"setIsImageFullscreen\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2031,
-      "length": 1,
-      "value": "0"
+      "kind": "BooleanLiteral",
+      "offset": 2178,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2103,
+      "offset": 2254,
       "length": 15,
       "value": "\"contentHeight\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2232,
+      "offset": 2383,
       "length": 10,
       "value": "\"stepType\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2394,
+      "offset": 2545,
       "length": 9,
       "value": "\"regular\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2426,
+      "offset": 2577,
       "length": 13,
       "value": "\"guided_tour\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2468,
+      "offset": 2619,
       "length": 20,
       "value": "\"mobile_guided_tour\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2506,
+      "offset": 2657,
       "length": 7,
       "value": "\"guide\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2537,
+      "offset": 2688,
       "length": 13,
       "value": "\"contactForm\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2569,
+      "offset": 2720,
       "length": 8,
       "value": "\"iframe\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2593,
+      "offset": 2744,
       "length": 5,
       "value": "\"nps\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2620,
+      "offset": 2771,
       "length": 11,
       "value": "\"checklist\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2651,
+      "offset": 2802,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 2738,
+      "offset": 2889,
       "length": 22,
       "value": "\"stepIllustrationType\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3661,
+      "offset": 3812,
       "length": 14,
       "value": "\"iFrameParams\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 3778,
+      "offset": 3929,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "BooleanLiteral",
-      "offset": 3885,
+      "offset": 4036,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "BooleanLiteral",
-      "offset": 3912,
+      "offset": 4063,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4123,
+      "offset": 4274,
       "length": 14,
       "value": "\"goToNextStep\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4431,
+      "offset": 4582,
       "length": 14,
       "value": "\"goToPrevStep\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4613,
+      "offset": 4764,
       "length": 18,
       "value": "\"responseSentData\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4861,
+      "offset": 5526,
+      "length": 17,
+      "value": "\"requestSentData\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 5648,
       "length": 13,
       "value": "\"contactForm\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4886,
+      "offset": 5673,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4895,
+      "offset": 5682,
       "length": 16,
       "value": "\"user@email.com\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 4921,
+      "offset": 5708,
       "length": 16,
       "value": "\"additionalInfo\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "Dictionary",
-      "offset": 4939,
+      "offset": 5726,
       "length": 49,
       "value": "[(\"subscription\", \"premium\")]"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetMessage.swift",
       "kind": "StringLiteral",
-      "offset": 5278,
+      "offset": 6065,
       "length": 24,
       "value": "\"stonlyDataTransmission\""
     },
@@ -7484,119 +7568,119 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 35222,
+      "offset": 36105,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 35304,
+      "offset": 36187,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 35454,
+      "offset": 36337,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 35538,
+      "offset": 36421,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 35694,
+      "offset": 36577,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 35776,
+      "offset": 36659,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 35926,
+      "offset": 36809,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 36010,
+      "offset": 36893,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 36083,
+      "offset": 36966,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 36091,
+      "offset": 36974,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 36308,
+      "offset": 37191,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 36330,
+      "offset": 37213,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 36926,
+      "offset": 37809,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 36948,
+      "offset": 37831,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 37856,
+      "offset": 38739,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 37940,
+      "offset": 38823,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerInstance.swift",
       "kind": "IntegerLiteral",
-      "offset": 38068,
+      "offset": 38951,
       "length": 1,
       "value": "0"
     },
@@ -8422,261 +8506,380 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11217,
+      "offset": 14758,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11228,
+      "offset": 14769,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11378,
+      "offset": 14919,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11701,
+      "offset": 15242,
       "length": 2,
       "value": "-2"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11986,
+      "offset": 15527,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11998,
+      "offset": 15539,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12106,
+      "offset": 15647,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12453,
+      "offset": 15994,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12566,
+      "offset": 16107,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12751,
+      "offset": 16292,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12763,
+      "offset": 16304,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12858,
+      "offset": 16399,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12981,
+      "offset": 16522,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13037,
+      "offset": 16578,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13047,
+      "offset": 16588,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13059,
+      "offset": 16600,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13070,
+      "offset": 16611,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13116,
+      "offset": 16657,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "FloatLiteral",
-      "offset": 13225,
+      "offset": 16766,
       "length": 4,
       "value": "0.12"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13272,
+      "offset": 16813,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13330,
+      "offset": 16871,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13341,
+      "offset": 16882,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13831,
+      "offset": 17372,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13847,
+      "offset": 17388,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13923,
+      "offset": 17464,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13939,
+      "offset": 17480,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14173,
+      "offset": 18054,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14346,
+      "offset": 18726,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18953,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14404,
+      "offset": 19011,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15407,
+      "offset": 20014,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15447,
+      "offset": 20054,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15533,
+      "offset": 20140,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 15650,
+      "offset": 20257,
       "length": 113,
       "value": "\"Stonly\/MobileIntegration\/Apple (sdk-version=\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 15747,
+      "offset": 20354,
       "length": 13,
       "value": "\"unavailable\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "StringLiteral",
-      "offset": 15761,
+      "offset": 20368,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16623,
+      "offset": 21230,
       "length": 2,
       "value": "-4"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17359,
+      "offset": 21966,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionTapHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 822,
+      "length": 12,
+      "value": "\"captionTap\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionTapHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1087,
+      "length": 416,
+      "value": "\"document.addEventListener('click', function (e) {\n  var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;\n  if (a) { e.preventDefault(); e.stopPropagation();\n           window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionTapHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1341,
+      "length": 1,
+      "value": "\".postMessage({ href: a.getAttribute('href') }); }\n  else   { window.webkit.messageHandlers.\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionTapHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1450,
+      "length": 1,
+      "value": "\".postMessage({ href: null }); }\n}, true);\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionLinkPolicy.swift",
+      "kind": "Array",
+      "offset": 1184,
+      "length": 94,
+      "value": "[\"javascript\", \"data\", \"file\", \"about\", \"blob\"]"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionPlaceholderResolver.swift",
+      "kind": "StringLiteral",
+      "offset": 1633,
+      "length": 4,
+      "value": "\"%{\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionPlaceholderResolver.swift",
+      "kind": "StringLiteral",
+      "offset": 1670,
+      "length": 4,
+      "value": "\"}%\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionPlaceholderResolver.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1936,
+      "length": 3,
+      "value": "256"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionPlaceholderResolver.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2049,
+      "length": 4,
+      "value": "4096"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionHTML.swift",
+      "kind": "StringLiteral",
+      "offset": 2023,
+      "length": 53,
+      "value": "\"<\\s*\/?\\s*[A-Za-z][A-Za-z0-9-]*(\\s[^<>]*)?\/?\\s*>\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionHTML.swift",
+      "kind": "StringLiteral",
+      "offset": 2194,
+      "length": 28,
+      "value": "\"<\\s*a\\b[^>]*\\bhref\\s*=\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionHTML.swift",
+      "kind": "StringLiteral",
+      "offset": 2488,
+      "length": 51,
+      "value": "\"<\\s*(script|style)\\b[^>]*>.*?<\\s*\/\\s*\\1\\s*>\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionHTML.swift",
+      "kind": "StringLiteral",
+      "offset": 2787,
+      "length": 46,
+      "value": "\"<\\s*br\\s*\/?\\s*>|<\\s*\/\\s*(p|div|li)\\s*>\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionHTML.swift",
+      "kind": "StringLiteral",
+      "offset": 2959,
+      "length": 9,
+      "value": "\"<[^>]*>\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionHTML.swift",
+      "kind": "StringLiteral",
+      "offset": 3154,
+      "length": 6,
+      "value": "\"\\s+\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/CaptionHTML.swift",
+      "kind": "Array",
+      "offset": 3529,
+      "length": 152,
+      "value": "[(\"&lt;\", \"<\"), (\"&gt;\", \">\"), (\"&quot;\", \"\"\"), (\"&#39;\", \"'\"), (\"&nbsp;\", \" \"), (\"&amp;\", \"&\")]"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Triggers\/TriggerButton.swift",
@@ -8723,217 +8926,217 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 8940,
+      "offset": 8937,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 8994,
+      "offset": 8991,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9049,
+      "offset": 9046,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9105,
+      "offset": 9102,
       "length": 3,
       "value": "560"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9160,
+      "offset": 9157,
       "length": 3,
       "value": "560"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9218,
+      "offset": 9215,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9228,
+      "offset": 9225,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9240,
+      "offset": 9237,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 9251,
+      "offset": 9248,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11536,
+      "offset": 11533,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11546,
+      "offset": 11543,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11558,
+      "offset": 11555,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11569,
+      "offset": 11566,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11633,
+      "offset": 11630,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11643,
+      "offset": 11640,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11655,
+      "offset": 11652,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11666,
+      "offset": 11663,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11729,
+      "offset": 11726,
       "length": 3,
       "value": "626"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 11742,
+      "offset": 11739,
       "length": 3,
       "value": "480"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13501,
+      "offset": 13803,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13511,
+      "offset": 13813,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13523,
+      "offset": 13825,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13534,
+      "offset": 13836,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13587,
+      "offset": 13889,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13642,
+      "offset": 13944,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13698,
+      "offset": 14000,
       "length": 2,
       "value": "96"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 13753,
+      "offset": 14055,
       "length": 3,
       "value": "690"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "FloatLiteral",
-      "offset": 19204,
+      "offset": 19506,
       "length": 4,
       "value": "0.95"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "FloatLiteral",
-      "offset": 19258,
+      "offset": 19560,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 19312,
+      "offset": 19614,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Presentation\/WidgetPresentationPlacement.swift",
       "kind": "IntegerLiteral",
-      "offset": 24112,
+      "offset": 24414,
       "length": 3,
       "value": "335"
     },
@@ -10627,280 +10830,308 @@
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28338,
+      "offset": 28676,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28376,
+      "offset": 28714,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28414,
+      "offset": 28752,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34166,
+      "offset": 34995,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34232,
+      "offset": 35061,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34247,
+      "offset": 35076,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34313,
+      "offset": 35142,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34328,
+      "offset": 35157,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34842,
+      "offset": 35671,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34907,
+      "offset": 35736,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34922,
+      "offset": 35751,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34987,
+      "offset": 35816,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35002,
+      "offset": 35831,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36023,
+      "offset": 36852,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43555,
+      "offset": 39808,
+      "length": 26,
+      "value": "\"data-stonly-native-close\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 39957,
+      "length": 28,
+      "value": "\"__stonlyRefreshCloseButton\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 45578,
       "length": 26,
       "value": "\"NSCameraUsageDescription\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43667,
+      "offset": 45690,
       "length": 13,
       "value": "\"iosListener\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43770,
+      "offset": 45793,
       "length": 2237,
       "value": "\"(function() {\n    if (window.__stonlyFileUploadInterceptInstalled) return;\n    window.__stonlyFileUploadInterceptInstalled = true;\n\n    var pendingFileInput = null;\n\n    document.addEventListener('click', function(e) {\n        var target = e.target;\n        while (target && target !== document) {\n            if (target.tagName === 'INPUT' && target.type === 'file') {\n                e.preventDefault();\n                e.stopPropagation();\n                e.stopImmediatePropagation();\n                pendingFileInput = target;\n                window.webkit.messageHandlers.\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 44492,
+      "offset": 46515,
       "length": 1,
       "value": "\".postMessage({\n                    type: 'stonlyFileUploadRequest',\n                    accept: target.accept || '',\n                    multiple: target.multiple || false\n                });\n                return false;\n            }\n            target = target.parentElement;\n        }\n    }, true);\n\n    window.__stonlySetFileOnInput = function(fileName, mimeType, base64Data) {\n        if (!pendingFileInput) return;\n        try {\n            var byteChars = atob(base64Data);\n            var byteNums = new Array(byteChars.length);\n            for (var i = 0; i < byteChars.length; i++) {\n                byteNums[i] = byteChars.charCodeAt(i);\n            }\n            var byteArray = new Uint8Array(byteNums);\n            var blob = new Blob([byteArray], { type: mimeType });\n            var file = new File([blob], fileName, { type: mimeType });\n            var dt = new DataTransfer();\n            dt.items.add(file);\n            pendingFileInput.files = dt.files;\n            var evt = new Event('change', { bubbles: true });\n            pendingFileInput.dispatchEvent(evt);\n        } catch(err) {}\n        pendingFileInput = null;\n    };\n\n    window.__stonlyCancelFileUpload = function() {\n        pendingFileInput = null;\n    };\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 46101,
+      "offset": 48124,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 46189,
+      "offset": 48212,
       "length": 177,
       "value": "\"  var style = document.createElement('style');\n  style.innerHTML = '.progressBar { display: none; }';\n  document.head.appendChild(style);\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 46525,
+      "offset": 48548,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 46627,
+      "offset": 48650,
       "length": 164,
       "value": "\"window.addEventListener('message', function(e) { window.webkit.messageHandlers.\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 46754,
+      "offset": 48777,
       "length": 1,
       "value": "\".postMessage(e.data); } )\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 46885,
+      "offset": 48908,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 47265,
+      "offset": 49288,
       "length": 1301,
       "value": "\"(function() {\n    if (window.__stonlyNativeViewportZoomLock) { return; }\n    var host = window.location.hostname;\n    if (host !== 'stonly.com' && host.indexOf('.stonly.com', host.length - '.stonly.com'.length) === -1) { return; }\n    window.__stonlyNativeViewportZoomLock = true;\n    var LOCKED_CONTENT = 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no';\n    var applyLock = function() {\n        var meta = document.querySelector('meta[name=\"viewport\"]');\n        if (!meta) {\n            if (!document.head) { return; }\n            meta = document.createElement('meta');\n            meta.setAttribute('name', 'viewport');\n            document.head.appendChild(meta);\n        }\n        if (meta.getAttribute('content') !== LOCKED_CONTENT) {\n            meta.setAttribute('content', LOCKED_CONTENT);\n        }\n    };\n    applyLock();\n    if (document.head) {\n        var observer = new MutationObserver(applyLock);\n        observer.observe(document.head, { childList: true, subtree: true, attributes: true, attributeFilter: ['content'] });\n    }\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 48660,
+      "offset": 50683,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49140,
+      "offset": 51163,
       "length": 1248,
       "value": "\"(function() {\n    if (window.__stonlyNativeHeightObserver) { return; }\n    window.__stonlyNativeHeightObserver = true;\n    var lastReported = 0;\n    var report = function() {\n        var body = document.body;\n        var root = document.documentElement;\n        var height = Math.max(body ? body.scrollHeight : 0,\n                              root ? root.scrollHeight : 0);\n        if (height > 50 && Math.abs(height - lastReported) > 1) {\n            lastReported = height;\n            window.webkit.messageHandlers.\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49794,
+      "offset": 51817,
       "length": 1,
       "value": "\".postMessage({\n                type: 'measuredContentHeight',\n                height: height\n            });\n        }\n    };\n    if (typeof ResizeObserver === 'function') {\n        var observer = new ResizeObserver(function() { report(); });\n        if (document.documentElement) { observer.observe(document.documentElement); }\n        if (document.body) { observer.observe(document.body); }\n    }\n    window.addEventListener('load', report);\n    setTimeout(report, 300);\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 50482,
+      "offset": 52505,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50576,
-      "length": 1422,
-      "value": "\" (function() {\n     function updateCloseButtonBackground() {\n         \/\/ Find all buttons with class containing \"CloseButton__CloseFunction\"\n         var buttons = document.querySelectorAll('button[class*=\"CloseButton__CloseFunction\"]');\n         \n         buttons.forEach(function(button) {\n             \/\/ Find div elements inside the button \n\n             button.style.cssText += '; z-index: 1000 !important;';\n             var divs = button.querySelectorAll('div');\n             divs.forEach(function(div) {\n                 \/\/ Change background-color to black\n                 div.style.backgroundColor = 'rgb(0,0,0)';\n                 \n             });\n         });\n     }\n     \n     \/\/ Run initially\n     updateCloseButtonBackground();\n     \n     \/\/ Observer for close button changes\n     var closeButtonObserver = new MutationObserver(function(mutations) {\n         mutations.forEach(function(mutation) {\n             if (mutation.addedNodes.length > 0) {\n                 updateCloseButtonBackground();\n             }\n         });\n     });\n     \n     closeButtonObserver.observe(document.body, {\n         childList: true,\n         subtree: true\n     });\n })();\""
+      "offset": 52757,
+      "length": 4074,
+      "value": "\" (function() {\n     function setStyle(element, property, value, priority) {\n         if (element.style.getPropertyValue(property) === value &&\n             element.style.getPropertyPriority(property) === (priority || '')) { return; }\n         element.style.setProperty(property, value, priority || '');\n     }\n\n     function updateCloseButtonBackground() {\n         var buttons = document.querySelectorAll('button[class*=\"CloseButton__CloseFunction\"]');\n         var nativeCloseVisible =\n             document.documentElement.getAttribute('\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 53415,
+      "length": 8,
+      "value": "\"') === '1';\n\n         buttons.forEach(function(button) {\n             if (nativeCloseVisible) {\n                 setStyle(button, 'display', 'none', 'important');\n                 return;\n             }\n             if (button.style.getPropertyValue('display') === 'none') {\n                 button.style.removeProperty('display');\n             }\n             setStyle(button, 'z-index', '1000', 'important');\n             \/\/ The web button renders larger than the native close button it\n             \/\/ replaces here, and its own top\/right come from the guide\n             \/\/ platform's layout rather than the device's safe area. Pin it\n             \/\/ to the same safe-area-relative spot the native button uses\n             \/\/ (view.safeAreaLayoutGuide + 8pt) and shrink it to match size,\n             \/\/ anchored from the corner so the scale doesn't reintroduce a\n             \/\/ position offset.\n             setStyle(button, 'position', 'fixed', 'important');\n             setStyle(button, 'top', 'calc(env(safe-area-inset-top, 0px) + 8px)', 'important');\n             setStyle(button, 'right', '8px', 'important');\n             setStyle(button, 'transform', 'scale(0.6)', 'important');\n             setStyle(button, 'transform-origin', 'top right', 'important');\n             \/\/ The X glyph itself sits smaller inside the button's circle\n             \/\/ than on the native button; enlarge just the icon so the two\n             \/\/ read the same, independent of the button's own scale-down.\n             button.querySelectorAll('svg').forEach(function(svg) {\n                 setStyle(svg, 'transform', 'scale(1.6)', 'important');\n                 setStyle(svg, 'transform-origin', 'center', 'important');\n             });\n             button.querySelectorAll('div:not([data-stonly-close-styled])').forEach(function(div) {\n                 div.style.setProperty('background-color', 'rgb(0, 0, 0)');\n                 div.setAttribute('data-stonly-close-styled', '1');\n             });\n         });\n     }\n\n     window.\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 55731,
+      "length": 1,
+      "value": "\" = updateCloseButtonBackground;\n     updateCloseButtonBackground();\n\n     \/\/ Coalesces bursts of mutations (step animations) into one pass per frame.\n     var updateScheduled = false;\n     function scheduleUpdate() {\n         if (updateScheduled) { return; }\n         updateScheduled = true;\n         window.requestAnimationFrame(function() {\n             updateScheduled = false;\n             updateCloseButtonBackground();\n         });\n     }\n\n     var closeButtonObserver = new MutationObserver(function(mutations) {\n         var relevant = mutations.some(function(mutation) {\n             return mutation.type === 'attributes' || mutation.addedNodes.length > 0;\n         });\n         if (relevant) { scheduleUpdate(); }\n     });\n\n     closeButtonObserver.observe(document.body, {\n         childList: true,\n         subtree: true,\n         attributes: true,\n         attributeFilter: ['style', 'class']\n     });\n })();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 52092,
+      "offset": 56925,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52183,
+      "offset": 57016,
       "length": 4017,
       "value": "\"(function() {\n    \n    \n    function modifyYouTubeIframes() {\n        var iframes = document.querySelectorAll('iframe'); \n        var youtubeCount = 0;\n        \n        iframes.forEach(function(iframe, index) {\n            if (iframe.src.includes('youtube.com\/embed') || iframe.src.includes('youtube-nocookie.com\/embed')) {\n                youtubeCount++;\n                \n                \/\/ Enable fullscreen instead of disabling it\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                iframe.setAttribute('mozallowfullscreen', 'true');\n                \n                \n                \/\/ Listen for fullscreen events on YouTube iframe\n                try {\n                    iframe.addEventListener('fullscreenchange', function() {\n                        if (document.fullscreenElement === iframe) {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenExit',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    iframe.addEventListener('webkitfullscreenchange', function() {\n                        if (document.webkitFullscreenElement === iframe) {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'youtubeFullscreenExit', \n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                } catch(e) {\n                }\n            }\n        });\n         \n    }\n\n    \/\/ Run initially\n    modifyYouTubeIframes();\n\n    \/\/ Enhanced observer for YouTube changes\n    var youtubeObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    shouldCheck = true;\n                }\n            });\n        });\n        \n        if (shouldCheck) {\n            setTimeout(modifyYouTubeIframes, 100);\n        }\n    });\n\n    youtubeObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true\n    });\n\n    \/\/ Additional periodic check specifically for YouTube embeds\n    setInterval(function() {\n        modifyYouTubeIframes();\n    }, 3000);\n    \n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 56294,
+      "offset": 61127,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 56388,
+      "offset": 61221,
       "length": 3208,
       "value": "\"(function() {\n\n    \n    \n    function modifyVimeoIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        \n        var vimeoCount = 0;\n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('vimeo.com\/video') || iframe.src.includes('player.vimeo.com')) {\n                vimeoCount++;\n                \n                var src = iframe.src;\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                \n                \/\/ Listen for Vimeo fullscreen events\n                try {\n                    iframe.contentWindow.postMessage(JSON.stringify({\n                        method: 'addEventListener',\n                        value: 'enterfullscreen'\n                    }), '*');\n                    \n                    iframe.contentWindow.postMessage(JSON.stringify({\n                        method: 'addEventListener', \n                        value: 'exitfullscreen'\n                    }), '*');\n                } catch(e) {\n              }\n            }\n        }); \n    }\n    \n    \/\/ Listen for Vimeo player messages only\n    window.addEventListener('message', function(event) {\n        if (event.origin !== 'https:\/\/player.vimeo.com') return;\n\n        try {\n            var data = JSON.parse(event.data);\n            if (data.event === 'enterfullscreen') {\n                window.webkit.messageHandlers.iosListener.postMessage({\n                    type: 'vimeoFullscreenEnter',\n                    timestamp: Date.now()\n                });\n            } else if (data.event === 'exitfullscreen') {\n               window.webkit.messageHandlers.iosListener.postMessage({\n                    type: 'vimeoFullscreenExit',\n                    timestamp: Date.now()\n                });\n            }\n        } catch(e) {\n        }\n    });\n    \n   \n\n    \/\/ Run initially\n    modifyVimeoIframes();\n\n    \/\/ Observer for Vimeo iframe changes\n    var vimeoObserver = new MutationObserver(function(mutations) {\n        var hasNewIframes = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    hasNewIframes = true;\n                }\n            });\n        });\n        \n        if (hasNewIframes) {\n            modifyVimeoIframes();\n        }\n    });\n\n    vimeoObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true,\n        characterData: true\n    });\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 59690,
+      "offset": 64523,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "StringLiteral",
-      "offset": 59783,
+      "offset": 64616,
       "length": 4758,
       "value": "\"(function() {\n\n    \n    function modifyLoomIframes() {\n        var iframes = document.querySelectorAll('iframe');\n        var loomCount = 0;\n        \n        iframes.forEach(function(iframe) {\n            if (iframe.src.includes('loom.com\/embed') || iframe.src.includes('loom.com\/share')) {\n                loomCount++;\n                \n                var src = iframe.src;\n                if (!src.includes('hide_owner=true')) {\n                    if (src.includes('?')) {\n                        src += '&hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_owner=true&hide_share=true&hideEmbedTopBar=true';\n                    }\n                    iframe.src = src;\n                } else {\n                    if (src.includes('?')) {\n                        src += '&hide_share=true&hideEmbedTopBar=true';\n                    } else {\n                        src += '?hide_share=true&hideEmbedTopBar=true';\n                    }\n                }\n                \n                \/\/ Enable fullscreen instead of disabling it\n                iframe.setAttribute('allowfullscreen', 'true');\n                iframe.setAttribute('webkitallowfullscreen', 'true');\n                iframe.setAttribute('mozallowfullscreen', 'true');\n                \n                \n                \/\/ Listen for fullscreen events on Loom iframe\n                try {\n                    iframe.addEventListener('fullscreenchange', function() {\n                        if (document.fullscreenElement === iframe) {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenExit',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                    iframe.addEventListener('webkitfullscreenchange', function() {\n                        if (document.webkitFullscreenElement === iframe) {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenEnter',\n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        } else {\n                            window.webkit.messageHandlers.iosListener.postMessage({\n                                type: 'loomFullscreenExit', \n                                iframe: iframe.src,\n                                timestamp: Date.now()\n                            });\n                        }\n                    });\n                    \n                } catch(e) {\n                }\n            }\n        });\n    }\n\n    \/\/ Run initially\n    modifyLoomIframes();\n\n    \/\/ Enhanced observer for Loom changes\n    var loomObserver = new MutationObserver(function(mutations) {\n        var shouldCheck = false;\n        mutations.forEach(function(mutation) {\n            mutation.addedNodes.forEach(function(node) {\n                if (node.tagName === 'IFRAME') {\n                    shouldCheck = true;\n                }\n            });\n        });\n        \n        if (shouldCheck) {\n            setTimeout(modifyLoomIframes, 100);\n        }\n    });\n\n    loomObserver.observe(document.body, {\n        childList: true,\n        subtree: true,\n        attributes: true\n    });\n    \n    \/\/ Additional periodic check specifically for Loom embeds\n    setInterval(function() {\n        modifyLoomIframes();\n    }, 3000);\n})();\""
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 64635,
+      "offset": 69468,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 76465,
+      "offset": 82416,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 76470,
+      "offset": 82421,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/WidgetViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 76477,
+      "offset": 82428,
       "length": 4,
       "value": "1024"
     },
@@ -10994,6 +11225,20 @@
       "offset": 2005,
       "length": 29,
       "value": "\"com.stonly.StonlyWidgetView\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ExternalLinkPolicy.swift",
+      "kind": "StringLiteral",
+      "offset": 270,
+      "length": 12,
+      "value": "\"stonly.com\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ExternalLinkPolicy.swift",
+      "kind": "Array",
+      "offset": 933,
+      "length": 52,
+      "value": "[\"png\", \"jpg\", \"jpeg\", \"gif\", \"webp\", \"heic\", \"bmp\"]"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/KbRequestGuards.swift",
@@ -11414,6 +11659,62 @@
       "offset": 760,
       "length": 26,
       "value": "\"com.stonly.sentry.memory\""
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ImageViewerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 392,
+      "length": 2,
+      "value": "44"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ImageViewerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 445,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ImageViewerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 495,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ImageViewerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 544,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ImageViewerViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 592,
+      "length": 4,
+      "value": "0.92"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ImageViewerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 813,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ImageViewerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 859,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/ExtremeSSD\/External\/Stonly\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Widget\/Content\/ImageViewerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1560,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Volumes\/ExtremeSSD\/XCode\/DerivedData\/Stonly-fbiejdrouieksrhelhlxrourhqfq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Stonly\/IntermediateBuildFilesPath\/StonlyWidget.build\/Release-iphoneos\/Stonly.build\/DerivedSources\/GeneratedAssetSymbols.swift",

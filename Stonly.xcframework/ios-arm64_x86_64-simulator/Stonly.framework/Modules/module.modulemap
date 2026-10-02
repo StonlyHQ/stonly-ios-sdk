@@ -7,4 +7,5 @@ framework module Stonly {
 
 module Stonly.Swift {
   header "Stonly-Swift.h"
+  requires objc
 }

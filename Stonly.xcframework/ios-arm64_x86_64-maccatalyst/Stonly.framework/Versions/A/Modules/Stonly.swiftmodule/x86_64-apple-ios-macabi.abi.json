@@ -7007,7 +7007,7 @@
       "kind": "StringLiteral",
       "offset": 445,
       "length": 8,
-      "value": "\"1.0.36\""
+      "value": "\"1.0.37\""
     },
     {
       "filePath": "\/Users\/stonly\/repos\/stonly-ios-library\/StonlyWidget\/StonlyWidget\/Stonly\/Configuration.swift",

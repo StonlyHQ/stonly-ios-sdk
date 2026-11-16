@@ -281,6 +281,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
 @import Foundation;
 @import ObjectiveC;
 @import UIKit;
@@ -334,6 +335,17 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable wid
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL hasSwiftUI;)
 + (BOOL)hasSwiftUI SWIFT_WARN_UNUSED_RESULT;
 + (void)setHasSwiftUI:(BOOL)newValue;
+/// Height in points of a bottom navigation bar the SDK cannot detect, such as one
+/// drawn by Flutter or React Native, excluding the system bottom safe area.
+/// Pill triggers and bottom banners that do not cover content are kept above it.
+/// A <code>UITabBar</code> is accounted for automatically; leave this at 0 for native apps.
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class) CGFloat bottomContentInset;)
++ (CGFloat)bottomContentInset SWIFT_WARN_UNUSED_RESULT;
++ (void)setBottomContentInset:(CGFloat)newValue;
+/// Turns SDK diagnostic logging on or off. Off by default in every build configuration.
+/// When on, lines are written to <code>os_log</code> under the SDK bundle’s subsystem in the categories
+/// <code>Stonly.Init</code>, <code>Stonly.Triggers</code>, <code>Stonly.Widget</code>, <code>Stonly.Wizard</code>, <code>Stonly.Net</code> and <code>Stonly.Debug</code>.
+/// Does not affect what is sent to Sentry. Set it before <code>widgetId</code> to also capture the <code>init</code> line.
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, getter=isDebugEnabled) BOOL debugEnabled;)
 + (BOOL)isDebugEnabled SWIFT_WARN_UNUSED_RESULT;
 + (void)setDebugEnabled:(BOOL)newValue;
@@ -723,6 +735,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
 @import Foundation;
 @import ObjectiveC;
 @import UIKit;
@@ -776,6 +789,17 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable wid
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL hasSwiftUI;)
 + (BOOL)hasSwiftUI SWIFT_WARN_UNUSED_RESULT;
 + (void)setHasSwiftUI:(BOOL)newValue;
+/// Height in points of a bottom navigation bar the SDK cannot detect, such as one
+/// drawn by Flutter or React Native, excluding the system bottom safe area.
+/// Pill triggers and bottom banners that do not cover content are kept above it.
+/// A <code>UITabBar</code> is accounted for automatically; leave this at 0 for native apps.
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class) CGFloat bottomContentInset;)
++ (CGFloat)bottomContentInset SWIFT_WARN_UNUSED_RESULT;
++ (void)setBottomContentInset:(CGFloat)newValue;
+/// Turns SDK diagnostic logging on or off. Off by default in every build configuration.
+/// When on, lines are written to <code>os_log</code> under the SDK bundle’s subsystem in the categories
+/// <code>Stonly.Init</code>, <code>Stonly.Triggers</code>, <code>Stonly.Widget</code>, <code>Stonly.Wizard</code>, <code>Stonly.Net</code> and <code>Stonly.Debug</code>.
+/// Does not affect what is sent to Sentry. Set it before <code>widgetId</code> to also capture the <code>init</code> line.
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, getter=isDebugEnabled) BOOL debugEnabled;)
 + (BOOL)isDebugEnabled SWIFT_WARN_UNUSED_RESULT;
 + (void)setDebugEnabled:(BOOL)newValue;

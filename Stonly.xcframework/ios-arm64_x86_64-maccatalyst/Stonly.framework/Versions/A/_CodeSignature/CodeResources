@@ -30,7 +30,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AAu+DqZqZD6Pq+GMl5e8L1itpHMKswszeGedLB9l7uY=
+			YHmdD8FC6qApQkptszR6YRVa4NLQ4OSrX8K5/mtr7dw=
 			</data>
 		</dict>
 		<key>Headers/Stonly.h</key>
@@ -44,56 +44,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jBc4eWs3/qm7ulKZ9mGEN6qhRmxbCCUiu9xQT6cziUY=
+			JACJpSi3NRXh5kSQ+5hMa90iCLGORArYr2/AM/ge0zc=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PZFtFbe2y70BAtgiRVItMRqKt7GM3Oo7fy+zSXjmk3g=
+			+m+TawxOdNPUuNVt3BFFgS5SlqfrDHyCLxaP2wgLFLA=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zb7w8xsKa8ggrSZo3irrWdagIXa03ZCCSHoNGyKOMns=
+			HK0e8+eSkJHqJ/xQt8wu8WIyWKKCGC6vp+iYGQ4CY+k=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PZFtFbe2y70BAtgiRVItMRqKt7GM3Oo7fy+zSXjmk3g=
+			+m+TawxOdNPUuNVt3BFFgS5SlqfrDHyCLxaP2wgLFLA=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jBc4eWs3/qm7ulKZ9mGEN6qhRmxbCCUiu9xQT6cziUY=
+			JACJpSi3NRXh5kSQ+5hMa90iCLGORArYr2/AM/ge0zc=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bsz5RtrNWAD1tEKLGvbyVmVq/oZ5wjDrZm9KAlDpN0U=
+			0zk3ztQZP8mHZbM9bOUUHRA+fHzy84YKTR7BiRC/CZ4=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			etWzEwUZE0pKDUKoSd93bx5GqJswE0hQoYPxyCilvdM=
+			shQQt4pbhFMkiQKHw46jgPF3HYlTnYJQC995EjlbyTQ=
 			</data>
 		</dict>
 		<key>Modules/Stonly.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bsz5RtrNWAD1tEKLGvbyVmVq/oZ5wjDrZm9KAlDpN0U=
+			0zk3ztQZP8mHZbM9bOUUHRA+fHzy84YKTR7BiRC/CZ4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

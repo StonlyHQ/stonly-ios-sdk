@@ -3,6 +3,7 @@
 // swift-module-flags: -target x86_64-apple-ios14.0-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name Stonly
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 import AppKit
+import CommonCrypto
 import CoreGraphics
 import Darwin
 import DeveloperToolsSupport
@@ -40,6 +41,10 @@ import os
     @objc set
   }
   @objc public class var hasSwiftUI: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc public class var bottomContentInset: CoreFoundation.CGFloat {
     @objc get
     @objc set
   }
